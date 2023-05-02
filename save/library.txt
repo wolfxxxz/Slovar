@@ -1,109 +1,32 @@
+FirstWent on - продолжать
+FirstConfident - уверен
+FirstViolin - скрипка
+FirstFeel like - хочу
+FirstThreshold - порог
+FirstConfidence - уверенность
+FirstAccustomed - привык
+FirstEarth - земля
 FirstFormer - бывший
-FirstShe had not earned anything - она ничего не заработала
-Firstexplore - исследовать
-Firstcurious - любопытный
 Firstadmit - признавать
-Firstfocused - сосредоточенный
-FirstI'm ready for the consequences - Я готов к последствиям
-FirstKeep it simple - держать все простым
-FirstTake a break - сделать перерыв
-FirstGet some rest - отдохнуть
-FirstStay focused - оставаться сосредоточенным
 FirstGive it a try - попробовать
 FirstBe patient - быть терпеливым
-FirstKeep practicing - продолжать тренироваться
-Firstrandom - случайный
-Firstfight - драться
-Firstthen - тогда
-Firstnice - приятный
-FirstAccept failure - принимать неудачи
-FirstTake a chance - рискнуть
-Firsttake off clothes - снимать одежду
-FirstFollow your dreams - следовать своим мечтам
-Firsthead - голова
-Firstwash - мыть
-Firstcool - классный
-Firstcatch up - догонять(два слова)
-Firstcould - мог
-Firstground - земля
-Firstcoin - монета
-Firstso - так
-FirstInconvenient - неудобно (время)
-Firstcrazy - безумный
-FirstHard working - трудолюбивый
-Firstsomebody - кто нибудь
-FirstAugust - август
-Firstmonth - месяц
-Firstdear - дорогой, уважаемый
-FirstThe most interesting - самый интересный
-Firstat - в, на
-Firstconflict - конфликт
-Firstyes/yeah - да
 Firstbrush your teeth - чистить зубы
-Firsthe - он
-Firstmouth - рот
-FirstCelebrate success - праздновать успехи
-Firstindentation - отступы
-FirstIn general - в основном
-Firstgirlfriend - девушка (его)
-FirstSleep on it - обдумать еще раз
-FirstSolution to - решение __
 Firstregression test - регрессионное тестирование
-Firstdark - тёмный
-Firstclose - близкий, закрыть
 Firstdo the laundry - стирать белье
-Firstking - король
-Firstalready - уже
-Firstauthorization - авторизация
-Firstegg - яйцо
-Firstshow - показывать
 Firsttsunami - цунами
-Firstwhy - почему
-FirstDivorced - разведен
-FirstStupid - глупый S
-Firstread a book - читать книгу
-Firstscreen - экран
-Firstclean the house - убирать дом
-Firstelephant - слон
 Firstprotected - защищенный
-Firstcome - приходить
-FirstMultiply - умножить
-FirstAdvertisement - рекламное объявление
 FirstKeep an open mind - оставаться открытым к новому
-Firstthird - третий
-FirstArea - область, район
-Firstcalm down - успокоиться
-Firsttea - чай
-Firstquestion - вопрос
 FirstStay organized - оставаться организованным
-Firstrat - крыса
-Firstpicture - картинка
 Firstforward - вперёд
-Firstlast - последний
 Firstpeace - мир
 Firstat the end of the meeting - в конце встречи
-Firstabout - о
-Firstreal - реальный
-Firstbeer - пиво
-FirstGit - система контроля версий Git
-FirstFor years - годами
-Firstparadise - рай
-Firstdirty - грязный
-Firstring - кольцо
-FirstAsk for - просит _
 Firstanything - что угодно
 FirstPractice makes perfect - практика делает совершенным
 FirstOnly once in a year - только раз в год?
-Firstown - собственный
 FirstStay curious - быть любопытным
-Firstfive - 5
-Firstpage - страница
 Firstdecryption - расшифровка
-Firstyear - год
 Firstmeet friends - встречаться с друзьями
-Firstnobody - никто
 Firstoff - из, вне
-Firstprice - цена
 Firstcheck email - проверять электронную почту
 Firstsuch - такой
 Firstdream - мечтать
@@ -259,7 +182,6 @@ FirstDepend on - зависит от
 FirstHelp others - помогать другим
 FirstSimplicity - простота
 Firstpatient - терпеливый, пациент
-FirstProud of - гордится за
 Firstsweet - сладкий
 FirstWednesday - среда
 Firstdeath - смерть
@@ -457,7 +379,6 @@ FirstCandle - свеча
 FirstReality - реальность
 FirstAbilities - способности
 FirstDiscount - скидка
-FirstEffort - усилие
 FirstEntry - вход
 Firstbruh - братан
 Firstwindow - окно
@@ -553,7 +474,6 @@ FirstInterrupt - перебивать
 Firstlow - низкий
 Firstdata structure - структура данных
 FirstTall - высокий
-FirstSun - солнце
 FirstAmazing - восхитительно
 FirstStylish - стильная
 FirstDisagree - не согласен
@@ -826,7 +746,6 @@ FirstInvent - изобретать
 FirstReturned - вернулся (past)
 Firstjob - работа
 Firstpointer - указатель
-Firstnature - природа
 FirstPrefers - предпочитает
 FirstTotal - полный, суммарный
 Firstspoon - ложка
@@ -1086,7 +1005,6 @@ FirstBenefit - выгода, польза
 FirstDangerous - опасно
 FirstIn spite of - несмотря на (с предлогом)
 FirstFamiliar - знакомо
-FirstFaith - вера
 Firstfeel - чувствовать
 Firstspring - весна
 FirstWait for - ждать _ (кого то)
@@ -1127,7 +1045,6 @@ FirstBell - звон, колокол
 Firstsad - грустный
 FirstCost - стоить (глагол)
 Firstbe able - смогу (будущее)
-FirstField - поле
 Firstbut - но
 Firsti cut myself - я порезался
 FirstTired of - устал от
@@ -1290,7 +1207,6 @@ FirstSheet - лист, страница
 FirstDisappeared - исчезли (past)
 FirstSalary - зарплата
 FirstPresent day - сегодня
-Firstexception - исключение
 FirstFair - ярмарок, справедливо, красавица, русый
 FirstAgreement - договоренность
 FirstSponge - губка
@@ -1425,7 +1341,6 @@ FirstIs there a way to prevent it - Есть ли способ предотвр�
 FirstPure - чистый
 Firstremember - помнить
 FirstAnother opportunity - еще одна возможность
-FirstEarth - планета (планета Земля)
 Firstbeach - пляж
 FirstWhat kind of - какого рода?
 Firstlist - список
@@ -1470,7 +1385,6 @@ Firstdaughter - дочь
 FirstAdjective - прилагательное
 FirstBorder - граница
 FirstIntroduction - вступление
-FirstExactly - точно! , конкретнее
 Firstmany - много (идей)
 Firstalong - вдоль
 Firstlife - жизнь
@@ -1626,70 +1540,10 @@ FirstHow do they prepare this fish in France - Как готовят эту ры
 FirstPlant - растение
 FirstCircle - круг
 FirstConstruction - строительство
-FirstLeaf - лист
 FirstLibrary - библиотека
 FirstJoi - радость
 FirstNative speaker - носитель языка
 Firstfather - отец
-FirstWhat he had written was true - что он написал было правдой
-FirstI started to cover this subject - я начал освещать эту тему
-FirstSuffer - страдать
-FirstServes - подавать (девушка подаёт воду)
-FirstWatch your mouth - следи за словами
-FirstOutside - снаружи
-FirstHospitable - гостеприимство
-FirstThin - тонкий (книга)
-FirstGenerous - щедрый
-FirstEnthusiasm - энтузиазм
-FirstRisky - рискованно
-FirstPath - путь
-FirstOne point - одно очко
-FirstScore - набирать (очки)
-FirstFear - страх
-FirstImmediately - немедленно
-FirstRegret - сожалеть
-FirstDevote - уделять
-FirstAchievement - достижение
-FirstImpress - впечатлять
-FirstChoice - выбор
-FirstPit - яма
-FirstBoast - хвастаться
-FirstDisturb - мешать
-FirstSuit - подходить (по)
-FirstExpect - ожидать
-FirstWhere do we begin - с чего начнём
-FirstI had not eaten since Tuesday - я не ел со вторника
-FirstHe wants to respond to her - он хочет ответить ей
-FirstShe doesn't affect me - она не влияет на меня
-FirstThreat - угроза
-FirstCompletely - полностью (согласен)
-FirstMake a plan - составить план
-FirstWork hard - усердно работать
-FirstHe is away - он отсутствует (уехал далеко)
-FirstThick - толстый (книга)
-FirstAthlete - атлет
-FirstAcquaintance - знакомый
-FirstShy - застенчивый
-FirstWedding - свадьба
-FirstScore a goal - забивать гол
-FirstIncrease - увеличить
-FirstThere was a great lack of rice that year - В том году было большое нехватка риса
-FirstGet started - начинай
-FirstIsland - остров
-FirstRain - дождь
-Firststart - начинать (S)
-Firstday - день
-Firstchange - изменять
-Firstroom - комната
-Firstrequest - запрос
-FirstPrepare for - подготовиться к
-FirstGarden - сад
-Firsthalf - половина
-Firstnothing - ничто
-FirstTrip - поездка
-Firstjump - прыгать
-FirstBelow average - ниже среднего
-FirstCall of - отменить
 FirstTear tore torn - рвать
 FirstPerform - исполнять (выступать)
 Firstknow knew known - знать
@@ -1844,22 +1698,6 @@ FirstSpend spent spent - тратить
 FirstLight lit lit - зажечь
 Firstput put put - положить
 FirstLeave Left Left - оставил, покинул
-FirstInside - изнутри, внутри
-FirstDeserve - заслуживать
-FirstInvite - приглашать
-FirstMost of all - больше всего
-FirstIn the fall - осенью
-FirstCharacter - характер
-FirstListen - слушать
-FirstIntend - намереваться
-FirstCancel - отменить
-FirstIntention - намерение
-Firstgoal - цель
-FirstUnivers - вселенная
-FirstTalk - разговаривать
-FirstSplit split split - расставаться
-FirstResponsibility - обязанность, ответственность
-FirstRelations - отношения
 FirstPay paid paid - платить
 FirstWin won won - выигрывать
 Firstlearn learnt learnt - учить (учится)
@@ -1871,9 +1709,193 @@ Firstread read read - читать
 Firststand stood stood - встать (он встал)
 FirstDrink drank drunk - пить
 Firstmeet met met - встречать
+FirstWhat he had written was true - что он написал было правдой
+FirstI started to cover this subject - я начал освещать эту тему
+FirstSuffer - страдать
+FirstServes - подавать (девушка подаёт воду)
+FirstWatch your mouth - следи за словами
+FirstInside - изнутри, внутри
+FirstOutside - снаружи
+FirstHospitable - гостеприимство
+FirstThin - тонкий (книга)
 FirstEstablish - основывать, установить
+FirstDeserve - заслуживать
+FirstEnthusiasm - энтузиазм
+FirstRisky - рискованно
+FirstInvite - приглашать
+FirstMost of all - больше всего
 FirstSuspicious - подозрительно
+FirstPath - путь
+FirstOne point - одно очко
+FirstScore - набирать (очки)
+FirstIn the fall - осенью
 FirstAttempt - попытка
+FirstFear - страх
+FirstImmediately - немедленно
+FirstCharacter - характер
 FirstBorn - рожденный
+FirstListen - слушать
+FirstIntend - намереваться
+FirstCancel - отменить
+FirstIntention - намерение
+FirstRegret - сожалеть
+FirstDevote - уделять
+FirstAchievement - достижение
+FirstImpress - впечатлять
+FirstChoice - выбор
+Firstgoal - цель
+FirstUnivers - вселенная
+FirstPit - яма
+FirstTalk - разговаривать
+FirstSplit split split - расставаться
+FirstBoast - хвастаться
+FirstDisturb - мешать
+FirstSuit - подходить (по)
+FirstExpect - ожидать
+FirstWhere do we begin - с чего начнём
+FirstI had not eaten since Tuesday - я не ел со вторника
+FirstHe wants to respond to her - он хочет ответить ей
+FirstShe doesn't affect me - она не влияет на меня
+FirstThreat - угроза
+FirstCompletely - полностью (согласен)
+FirstMake a plan - составить план
+FirstWork hard - усердно работать
+FirstHe is away - он отсутствует (уехал далеко)
+FirstThick - толстый (книга)
+FirstAthlete - атлет
+FirstAcquaintance - знакомый
+FirstWedding - свадьба
+FirstScore a goal - забивать гол
+FirstResponsibility - обязанность, ответственность
 FirstDesire - желание
+FirstRelations - отношения
+FirstIncrease - увеличить
+FirstThere was a great lack of rice that year - В том году было большое нехватка риса
+FirstGet started - начинай
+FirstIsland - остров
+Firststart - начинать (S)
+Firstday - день
+Firstchange - изменять
+Firstroom - комната
+Firstrequest - запрос
+FirstPrepare for - подготовиться к
+FirstGarden - сад
+Firsthalf - половина
+Firstnothing - ничто
+FirstTrip - поездка
+Firstjump - прыгать
+FirstBelow average - ниже среднего
+FirstShe had not earned anything - она ничего не заработала
+Firstfocused - сосредоточенный
+FirstI'm ready for the consequences - Я готов к последствиям
 FirstCrop - урожай
+FirstTake a break - сделать перерыв
+FirstStay focused - оставаться сосредоточенным
+Firstrandom - случайный
+Firstfight - драться
+Firstthen - тогда
+Firstnice - приятный
+FirstFollow your dreams - следовать своим мечтам
+Firstwash - мыть
+Firstcatch up - догонять(два слова)
+FirstInconvenient - неудобно (время)
+FirstHard working - трудолюбивый
+FirstAugust - август
+Firstmonth - месяц
+FirstThe most interesting - самый интересный
+Firstconflict - конфликт
+Firsthe - он
+FirstIn general - в основном
+Firstinsurance - страхование
+Firstbelow - ниже
+FirstShy - застенчивый
+FirstUsed - привык
+FirstVacation - отпуск (V)
+FirstField - поле
+FirstVolcano - вулкан
+FirstWoods - лес
+FirstCall of - отменить
+Firstexplore - исследовать
+Firstcurious - любопытный
+FirstKeep it simple - держать все простым
+FirstGet some rest - отдохнуть
+FirstTake a chance - рискнуть
+Firsttake off clothes - снимать одежду
+Firsthead - голова
+Firstcool - классный
+Firstcould - мог
+Firstcoin - монета
+Firstcrazy - безумный
+Firstsomebody - кто нибудь
+Firstdear - дорогой, уважаемый
+Firstat - в, на
+Firstmouth - рот
+FirstCelebrate success - праздновать успехи
+FirstGenerous - щедрый
+FirstLeaf - листочек
+FirstAccept failure - принимать неудачи
+Firstso - так
+Firstyes/yeah - да
+Firstgirlfriend - девушка (его)
+Firstdark - тёмный
+Firstking - король
+Firstalready - уже
+Firstegg - яйцо
+Firstshow - показывать
+Firstwhy - почему
+FirstDivorced - разведен
+FirstStupid - глупый S
+Firstscreen - экран
+Firstclean the house - убирать дом
+Firstelephant - слон
+Firstcome - приходить
+FirstAdvertisement - рекламное объявление
+Firstthird - третий
+Firsttax rate - ставка налога
+Firstearly binding - Ранняя оценка
+Firstaverage - средний
+FirstAbsolutely - совершенно
+FirstBe proud of - гордиться за
+FirstNature - природа
+FirstRock - камень
+Firstground - земля
+Firstindentation - отступы
+FirstSolution to - решение __
+Firstclose - близкий, закрыть
+Firstauthorization - авторизация
+Firstread a book - читать книгу
+FirstMultiply - умножить
+FirstArea - область, район
+Firsttea - чай
+Firstquestion - вопрос
+Firstrat - крыса
+Firstpicture - картинка
+Firstlast - последний
+Firstabout - о
+Firstreal - реальный
+Firstbeer - пиво
+FirstFor years - годами
+Firstdirty - грязный
+Firstring - кольцо
+FirstAsk for - просит _
+FirstExactly - точно! , конкретнее
+FirstAccustomed to - привык к
+FirstException - исключение
+FirstProud of - гордится за
+FirstSun - солнце
+FirstEffort - усилие
+FirstKeep practicing - продолжать тренироваться
+FirstSleep on it - обдумать еще раз
+Firstcalm down - успокоиться
+FirstGit - система контроля версий Git
+Firstparadise - рай
+Firstown - собственный
+Firstfive - 5
+Firstpage - страница
+Firstyear - год
+Firstnobody - никто
+Firstprice - цена
+FirstUsed to - привык к
+FirstFaith - вера
+FirstFlute - флейта
+FirstFor instance - например (сыр)

@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io"
 	"os"
+	"strconv"
 	"strings"
 )
 
@@ -16,8 +17,9 @@ func (s *Slovarick) SaveTXT(files string) {
 		os.Exit(1)
 	}
 	defer file.Close()
-	for _, v := range s.Words {
-		file.WriteString("First")
+	for i, v := range s.Words {
+		ii := strconv.Itoa(i)
+		file.WriteString(ii + ". ")
 		file.WriteString(v.English)
 		file.WriteString(" - ")
 		file.WriteString(v.Russian)
