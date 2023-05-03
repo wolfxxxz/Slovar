@@ -1,3 +1,37 @@
-FirstWent on - продолжать
-FirstConfident - уверен
-FirstViolin - скрипка
+get dressed - одеваться
+bathroom - ванная
+Front of - перед ___
+Be yourself - быть самим собой
+Interested in - заинтересован в
+give - давать
+than - чем, кроме, как
+pass by reference - передача по ссылке
+Just in time - как раз вовремя
+encryption - шифрование
+Separately - раздельно
+heap - куча
+Take your time - не торопиться
+cook - готовить
+such - такой
+check email - проверять электронную почту
+off - из, вне
+meet friends - встречаться с друзьями
+decryption - расшифровка
+Stay curious - быть любопытным
+Only once in a year - только раз в год?
+Practice makes perfect - практика делает совершенным
+peace - мир
+forward - вперёд
+Stay organized - оставаться организованным
+Keep an open mind - оставаться открытым к новому
+do the laundry - стирать белье
+regression test - регрессионное тестирование
+Give it a try - попробовать
+admit - признавать
+Former - бывший
+Earth - земля
+Accustomed - привык
+Confidence - уверенность
+Went on - продолжать
+Confident - уверен
+Feel like - хочу

@@ -2,6 +2,244 @@
    "Words": [
       {
          "id": 0,
+         "english": "get dressed",
+         "russian": "одеваться",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "bathroom",
+         "russian": "ванная",
+         "theme": "noun",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Front of",
+         "russian": "перед ___",
+         "theme": "preposition",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Be yourself",
+         "russian": "быть самим собой",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Interested in",
+         "russian": "заинтересован в",
+         "theme": "preposition",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "give",
+         "russian": "давать",
+         "theme": "verb",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "than",
+         "russian": "чем, кроме, как",
+         "theme": "preposition",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "pass by reference",
+         "russian": "передача по ссылке",
+         "theme": "Programming",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Just in time",
+         "russian": "как раз вовремя",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "encryption",
+         "russian": "шифрование",
+         "theme": "Programming",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Separately",
+         "russian": "раздельно",
+         "theme": "youtube",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "heap",
+         "russian": "куча",
+         "theme": "Programming",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Take your time",
+         "russian": "не торопиться",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "cook",
+         "russian": "готовить",
+         "theme": "verb",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "such",
+         "russian": "такой",
+         "theme": "pronoun",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "check email",
+         "russian": "проверять электронную почту",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "off",
+         "russian": "из, вне",
+         "theme": "preposition",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "meet friends",
+         "russian": "встречаться с друзьями",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "decryption",
+         "russian": "расшифровка",
+         "theme": "Programming",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Stay curious",
+         "russian": "быть любопытным",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Only once in a year",
+         "russian": "только раз в год?",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Practice makes perfect",
+         "russian": "практика делает совершенным",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "peace",
+         "russian": "мир",
+         "theme": "noun",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "forward",
+         "russian": "вперёд",
+         "theme": "adverb",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Stay organized",
+         "russian": "оставаться организованным",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Keep an open mind",
+         "russian": "оставаться открытым к новому",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "do the laundry",
+         "russian": "стирать белье",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "regression test",
+         "russian": "регрессионное тестирование",
+         "theme": "Programming",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Give it a try",
+         "russian": "попробовать",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "admit",
+         "russian": "признавать",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Former",
+         "russian": "бывший",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Earth",
+         "russian": "земля",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Accustomed",
+         "russian": "привык",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Confidence",
+         "russian": "уверенность",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
          "english": "Went on",
          "russian": "продолжать",
          "theme": "",
@@ -16,345 +254,9 @@
       },
       {
          "id": 0,
-         "english": "Violin",
-         "russian": "скрипка",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Feel like",
          "russian": "хочу",
          "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Threshold",
-         "russian": "порог",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Confidence",
-         "russian": "уверенность",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Accustomed",
-         "russian": "привык",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Earth",
-         "russian": "земля",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Former",
-         "russian": "бывший",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "admit",
-         "russian": "признавать",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Give it a try",
-         "russian": "попробовать",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Be patient",
-         "russian": "быть терпеливым",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "brush your teeth",
-         "russian": "чистить зубы",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "regression test",
-         "russian": "регрессионное тестирование",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "do the laundry",
-         "russian": "стирать белье",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "tsunami",
-         "russian": "цунами",
-         "theme": "Travel",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "protected",
-         "russian": "защищенный",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Keep an open mind",
-         "russian": "оставаться открытым к новому",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Stay organized",
-         "russian": "оставаться организованным",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "forward",
-         "russian": "вперёд",
-         "theme": "adverb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "peace",
-         "russian": "мир",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "at the end of the meeting",
-         "russian": "в конце встречи",
-         "theme": "Time",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "anything",
-         "russian": "что угодно",
-         "theme": "pronoun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Practice makes perfect",
-         "russian": "практика делает совершенным",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Only once in a year",
-         "russian": "только раз в год?",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Stay curious",
-         "russian": "быть любопытным",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "decryption",
-         "russian": "расшифровка",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "meet friends",
-         "russian": "встречаться с друзьями",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "off",
-         "russian": "из, вне",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "check email",
-         "russian": "проверять электронную почту",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "such",
-         "russian": "такой",
-         "theme": "pronoun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "dream",
-         "russian": "мечтать",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "commit",
-         "russian": "коммит",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "cook",
-         "russian": "готовить",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Take your time",
-         "russian": "не торопиться",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "heap",
-         "russian": "куча",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Separately",
-         "russian": "раздельно",
-         "theme": "youtube",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "encryption",
-         "russian": "шифрование",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "ready",
-         "russian": "готовый",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Just in time",
-         "russian": "как раз вовремя",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "pass by reference",
-         "russian": "передача по ссылке",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "than",
-         "russian": "чем, кроме, как",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "give",
-         "russian": "давать",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Interested in",
-         "russian": "заинтересован в",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Be yourself",
-         "russian": "быть самим собой",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "think",
-         "russian": "думать",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Front of",
-         "russian": "перед ___",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "cup",
-         "russian": "чашка",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "bathroom",
-         "russian": "ванная",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Busy",
-         "russian": "занят",
-         "theme": "Work",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "get dressed",
-         "russian": "одеваться",
-         "theme": "Phrase",
          "rightAnswer": 0
       },
       {
@@ -13305,6 +13207,104 @@
          "english": "For instance",
          "russian": "например (сыр)",
          "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Violin",
+         "russian": "скрипка",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Threshold",
+         "russian": "порог",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Be patient",
+         "russian": "быть терпеливым",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "brush your teeth",
+         "russian": "чистить зубы",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "tsunami",
+         "russian": "цунами",
+         "theme": "Travel",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "protected",
+         "russian": "защищенный",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "at the end of the meeting",
+         "russian": "в конце встречи",
+         "theme": "Time",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "anything",
+         "russian": "что угодно",
+         "theme": "pronoun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "dream",
+         "russian": "мечтать",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "commit",
+         "russian": "коммит",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "ready",
+         "russian": "готовый",
+         "theme": "adjective",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "think",
+         "russian": "думать",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "cup",
+         "russian": "чашка",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Busy",
+         "russian": "занят",
+         "theme": "Work",
          "rightAnswer": 1
       }
    ]
