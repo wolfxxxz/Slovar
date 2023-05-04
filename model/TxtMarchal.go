@@ -143,14 +143,22 @@ func (s *Slovarick) TakeTXT(filetxt string) {
 func (oldWords *Slovarick) UpdateLibrary(filetxt string) {
 	var NewWords Slovarick
 	NewWords.TakeTXT(filetxt)
+	fmt.Println(NewWords.Words[0])
 	c := len(oldWords.Words)
 	//--------Соединяем два среза в один--------------
-	NewWords.Words = append(NewWords.Words, oldWords.Words...)
+	oldWords.Words = append(NewWords.Words, oldWords.Words...)
+	//NewWords.Words = append(NewWords.Words, oldWords.Words...)
 
 	d := len(NewWords.Words)
+	// Записать в filetxt пустой
+	var ZeroWords Slovarick
+	NewsZero := []Word{}
+	NewsZero = append(NewsZero, Word{English: ""})
+	ZeroWords.Words = append(ZeroWords.Words, &NewsZero[0])
+	ZeroWords.SaveTXT(filetxt)
 
 	if d != c {
-		fmt.Println("                   New Words Add:", d-c)
+		fmt.Println("                   New Words Add:", c-d)
 	} else {
 		fmt.Println("Для загрузки слов списком необходимо упорядочить и вставить слова в файл `save/newWords.txt`")
 		fmt.Println("english - перевод - тема")
@@ -160,21 +168,25 @@ func (oldWords *Slovarick) UpdateLibrary(filetxt string) {
 }
 
 // Удалить дубликаты
-func (s Slovarick) DelDublikat() {
+func (s *Slovarick) DelDublikat() {
 	var count = 0
+	var count2 = 0
 	for i := 0; i <= len(s.Words)-1; i++ {
 		for _, v := range s.Words {
 			if strings.EqualFold(v.English, s.Words[i].English) {
 				count++
+
 			}
 			if count == 2 {
+
 				s.Words[i] = v
 				count = 0
 			}
 		}
 	}
+
 	s.ReverseSlice()
-	withoutDublicat := s.Words
+	var withoutDublicat []*Word //:= s.Words
 	for ii, v := range s.Words {
 		var count1 int
 		for i := ii; i <= len(s.Words)-1; i++ {
@@ -183,15 +195,22 @@ func (s Slovarick) DelDublikat() {
 			}
 		}
 		if count1 == 1 {
+
 			withoutDublicat = append(withoutDublicat, v)
 			count1 = 0
 
 		} else {
+			count2++
 
 			count1 = 0
 		}
 	}
+
+	*s = *NewSlovarick(withoutDublicat) // не работает
 	s.ReverseSlice()
+
+	fmt.Println(len(withoutDublicat))
+	fmt.Println(count2)
 }
 
 // bufio scaner по сути
