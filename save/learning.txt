@@ -1,37 +1,27 @@
-get dressed - одеваться
-bathroom - ванная
-Front of - перед ___
-Be yourself - быть самим собой
-Interested in - заинтересован в
-give - давать
-than - чем, кроме, как
-pass by reference - передача по ссылке
-Just in time - как раз вовремя
-encryption - шифрование
-Separately - раздельно
-heap - куча
-Take your time - не торопиться
-cook - готовить
-such - такой
-check email - проверять электронную почту
-off - из, вне
-meet friends - встречаться с друзьями
 decryption - расшифровка
-Stay curious - быть любопытным
-Only once in a year - только раз в год?
-Practice makes perfect - практика делает совершенным
-peace - мир
-forward - вперёд
-Stay organized - оставаться организованным
-Keep an open mind - оставаться открытым к новому
-do the laundry - стирать белье
-regression test - регрессионное тестирование
-Give it a try - попробовать
-admit - признавать
-Former - бывший
-Earth - земля
-Accustomed - привык
-Confidence - уверенность
-Went on - продолжать
-Confident - уверен
-Feel like - хочу
+such - такой
+Take your time - не торопиться
+encryption - шифрование
+Just in time - как раз вовремя
+pass by reference - передача по ссылке
+than - чем, кроме, как
+Interested in - заинтересован в
+Be yourself - быть самим собой
+Front of - перед ___
+get dressed - одеваться
+Suspicious - подозрительно
+Thoughtful - задумчивый
+Predict - предсказывать
+Field - поле
+This is a total failure - это полный провал
+Fear - страх
+Unlike - маловероятно
+Pregnant - беременна
+Were they under arrest - они были под арестом?
+Painting - картина
+Audience - публика
+Band - группа
+Poetry - поэзия
+Theater - театр
+Lonely - одинокий
+Conclusion - вывод

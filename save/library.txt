@@ -1,53 +1,30 @@
-Conclusion - вывод
-Lonely - одинокий
-Cloud - облако
-Theater - театр
-Fashion - мода
-Poetry - поэзия
-Literature - литература
-Band - группа
-paint - рисовать
-Audience - публика
-Painting - картина
-Actress - актриса
-Were you in trouble - ты был в беде?
-Were they under arrest - они были под арестом?
-On the right way - на правильном пути
-Pregnant - беременна
-Unlike - маловероятно
-Likely - вероятно
-Ahead - впереди
-Fault - вина
-Fear - страх
-This is a total failure - это полный провал
-Field - поле
-Predict - предсказывать
-Unpredictable - непредсказуемо
-Thought - мысль
-Thoughtful - задумчивый
-Loyal - лояльный
-Suspicious - подозрительно
-How long time ago was it - как давно это было
-Team - команда
-get dressed - одеваться
-bathroom - ванная
-Front of - перед ___
-Be yourself - быть самим собой
-Interested in - заинтересован в
-give - давать
-than - чем, кроме, как
-pass by reference - передача по ссылке
-Just in time - как раз вовремя
-encryption - шифрование
-Separately - раздельно
-heap - куча
-Take your time - не торопиться
-cook - готовить
-such - такой
-check email - проверять электронную почту
-off - из, вне
-meet friends - встречаться с друзьями
 decryption - расшифровка
+such - такой
+Take your time - не торопиться
+encryption - шифрование
+Just in time - как раз вовремя
+pass by reference - передача по ссылке
+than - чем, кроме, как
+Interested in - заинтересован в
+Be yourself - быть самим собой
+Front of - перед ___
+get dressed - одеваться
+Suspicious - подозрительно
+Thoughtful - задумчивый
+Predict - предсказывать
+Field - поле
+This is a total failure - это полный провал
+Fear - страх
+Unlike - маловероятно
+Pregnant - беременна
+Were they under arrest - они были под арестом?
+Painting - картина
+Audience - публика
+Band - группа
+Poetry - поэзия
+Theater - театр
+Lonely - одинокий
+Conclusion - вывод
 Stay curious - быть любопытным
 Only once in a year - только раз в год?
 Practice makes perfect - практика делает совершенным
@@ -1925,3 +1902,26 @@ ready - готовый
 think - думать
 cup - чашка
 Busy - занят
+Cloud - облако
+Fashion - мода
+Literature - литература
+paint - рисовать
+Actress - актриса
+Were you in trouble - ты был в беде?
+On the right way - на правильном пути
+Likely - вероятно
+Ahead - впереди
+Fault - вина
+Unpredictable - непредсказуемо
+Thought - мысль
+Loyal - лояльный
+How long time ago was it - как давно это было
+Team - команда
+bathroom - ванная
+give - давать
+Separately - раздельно
+heap - куча
+cook - готовить
+check email - проверять электронную почту
+off - из, вне
+meet friends - встречаться с друзьями

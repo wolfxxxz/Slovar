@@ -30,19 +30,9 @@ func main() {
 		switch command {
 		case "update":
 			var LibraryWords model.Slovarick
-			//var NewWordsSlice model.Slovarick
 			LibraryWords.Takejson(LibraryJson)
-			fmt.Println("Takejson", len(LibraryWords.Words))
 			LibraryWords.UpdateLibrary(NewWords)
-			fmt.Println("UpdateLibrary", len(LibraryWords.Words))
-
-			//NewWordsSlice.TakeTXT(NewWords)
-			//fmt.Println(NewWordsSlice.Words[0])
-			//LibraryWords.Words = append(NewWordsSlice.Words, LibraryWords.Words...)
-
 			LibraryWords.DelDublikat()
-			fmt.Println("DelDublikat", len(LibraryWords.Words))
-
 			LibraryWords.Savejson(LibraryJson)
 			LibraryWords.SaveTXT(LibraryTXT)
 		case "test":

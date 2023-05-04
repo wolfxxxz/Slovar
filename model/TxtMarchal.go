@@ -206,7 +206,7 @@ func (s *Slovarick) DelDublikat() {
 		}
 	}
 
-	*s = *NewSlovarick(withoutDublicat) // не работает
+	*s = *NewSlovarick(withoutDublicat)
 	s.ReverseSlice()
 
 	fmt.Println(len(withoutDublicat))
