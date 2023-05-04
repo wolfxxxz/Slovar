@@ -10,6 +10,9 @@ import (
 )
 
 func (s *Slovarick) WorkTest(learnWordsAddress string) {
+
+	K := s.CreateAndInitMapWords()
+
 	var LearnSlice Slovarick
 	// Scan quantity words for test
 	fmt.Println("Количество слов для теста")
@@ -29,7 +32,7 @@ func (s *Slovarick) WorkTest(learnWordsAddress string) {
 		if v == nil {
 			break
 		}
-		y, n := Compare(*v)
+		y, n := Compare(*v, K)
 		if y > 0 {
 			yes++
 			v.RightAswer += 1
@@ -51,6 +54,7 @@ func (s *Slovarick) WorkTest(learnWordsAddress string) {
 // Учить слова которые в тесте не смог выучить
 func (s Slovarick) LearnWords() {
 	fmt.Println("                 Learn Words")
+	K := s.CreateAndInitMapWords()
 	for {
 		if len(s.Words) == 0 {
 			break
@@ -59,7 +63,7 @@ func (s Slovarick) LearnWords() {
 		if v == nil {
 			break
 		}
-		y, _ := Compare(*v)
+		y, _ := Compare(*v, K)
 
 		if y > 0 && len(s.Words) != 1 {
 			s.Words = s.Words[1:]
@@ -90,28 +94,19 @@ func ScanInt() (n int) {
 }
 
 // Сравнение строк / пробелы между словами "_"
-func Compare(l Word) (yes int, not int) {
+func Compare(l Word, mapWord map[string]string) (yes int, not int) {
 	fmt.Println(l.Russian, " ||Тема: ", l.Theme)
-	c := ""
-	//Игнорировать пробелы
-	for _, v := range l.English {
-		if v != ' ' {
-			c = c + string(v)
-		}
-	}
+	c := IgnorProbel(l.English)
 
-	s := ""
 	a, _ := ScanStringOne()
-
-	for _, v := range a {
-		if v != ' ' {
-			s = s + string(v)
-		}
-	}
+	s := IgnorProbel(a)
 
 	if strings.EqualFold(c, s) {
 		yes++
 		fmt.Println("Yes")
+	} else if ok := CompareWithMap(l.Russian, s, mapWord); ok {
+		yes++
+		fmt.Println("Не совсем правильно ", l.English)
 	} else {
 		not++
 		fmt.Println("Incorect:", l.English)
@@ -126,6 +121,35 @@ func Compare(l Word) (yes int, not int) {
 		fmt.Println("Incorect:", l.English)
 	}
 	return yes, not*/
+}
+
+func (s *Slovarick) CreateAndInitMapWords() (MapWords map[string]string) {
+	MapWords = make(map[string]string)
+	for _, v := range s.Words {
+		if v == nil {
+			break
+		}
+		MapWords[v.Russian] = v.English // assignment to nil map (SA5000)go-staticcheck field Russian string
+	}
+	return
+}
+
+func IgnorProbel(s string) (c string) {
+	for _, v := range s {
+		if v != ' ' {
+			c = c + string(v)
+		}
+	}
+	return
+}
+
+func CompareWithMap(rusian, answer string, mapString map[string]string) (yes bool) {
+	if answer == mapString[rusian] {
+		yes = true
+	} else {
+		yes = false
+	}
+	return
 }
 
 /*
