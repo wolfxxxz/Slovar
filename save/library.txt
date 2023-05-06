@@ -1,96 +1,24 @@
-decryption - расшифровка
-such - такой
-Take your time - не торопиться
-encryption - шифрование
-Just in time - как раз вовремя
-pass by reference - передача по ссылке
-than - чем, кроме, как
-Interested in - заинтересован в
-Be yourself - быть самим собой
-Front of - перед 
-get dressed - одеваться
-Suspicious - подозрительно
-Thoughtful - задумчивый
-Predict - предсказывать
-Field - поле
-This is a total failure - это полный провал
-Fear - страх
-Unlike - маловероятно
-Pregnant - беременна
-Were they under arrest - они были под арестом?
-Painting - картина
-Audience - публика
-Band - группа
-Poetry - поэзия
-Theater - театр
-Lonely - одинокий
-Conclusion - вывод
-Stay curious - быть любопытным
-Only once in a year - только раз в год?
-Practice makes perfect - практика делает совершенным
-peace - мир
-forward - вперёд
-Stay organized - оставаться организованным
-Keep an open mind - оставаться открытым к новому
-do the laundry - стирать белье
-regression test - регрессионное тестирование
-Give it a try - попробовать
-admit - признавать
-Former - бывший
-Earth - земля
-Accustomed - привык
-Confidence - уверенность
-Went on - продолжать
-Confident - уверен
-Feel like - хочу
-Because of - из за (твоей собаки)
-Trust your instincts - доверять своей интуиции
-Every human - каждый человек
-far - далёкий
-plate - тарелка
-September - сентябрь
-help - помогать
-this - этот
-Opinion - мнение
-who - кто
-yield - возвращать последовательность
-language - язык
-pasta - макароны
-Grateful to for - благодарен __(кому за)
-pass - сдать (тест)
-camelCase - стиль написания camelCase
-authentication - аутентификация
-die - умирать
-response - ответ
-Take off - снять (одежду)
-itself - сам
-Include - включает (еда)
-Keep going - продолжать двигаться вперед
-comment - комментарий
-Event - событие
-Zip it - закрой рот
-Obviously - очевидно
-war - война
-blue - синий
-bug - ошибка
-gloomy - пасмурный
-Go to bed - ложиться спать
-Delicious - очень вкусно
-two - 2
-sorry - мне жаль
-In front - перед (собакой)
-Set a goal - поставить цель
-Another apple - еще одно яблоко
-parent - родитель
-hot - горячий
-Be grateful - быть благодарным
-bread - хлеб
-integration test - интеграционное тестирование
-cook dinner - готовить ужин
-Cherish your loved ones - дорожить близкими
-profiler - профилировщик
-Live in the moment - жить в настоящем моменте
 better - лучший
+Live in the moment - жить в настоящем моменте
+Cherish your loved ones - дорожить близкими
+Another apple - еще одно яблоко
+Set a goal - поставить цель
+In front - перед (собакой)
+sorry - мне жаль
+Delicious - очень вкусно
+Go to bed - ложиться спать
+gloomy - пасмурный
+Went on - продолжать
+Confidence - уверенность
+do the laundry - стирать белье
+Stay curious - быть любопытным
+Poetry - поэзия
+Pregnant - беременна
+Suspicious - подозрительно
+Take your time - не торопиться
+Opinion - мнение
+response - ответ
+itself - сам
 listen to music - слушать музыку
 On Tuesday - во вторник
 constructor - конструктор
@@ -1925,3 +1853,75 @@ cook - готовить
 check email - проверять электронную почту
 off - из, вне
 meet friends - встречаться с друзьями
+decryption - расшифровка
+such - такой
+encryption - шифрование
+Just in time - как раз вовремя
+than - чем, кроме, как
+Interested in - заинтересован в
+Be yourself - быть самим собой
+get dressed - одеваться
+Thoughtful - задумчивый
+Field - поле
+Fear - страх
+Unlike - в отличие от (маловероятно)
+Were they under arrest - они были под арестом?
+Band - группа
+Theater - театр
+Lonely - одинокий
+Only once in a year - только раз в год?
+peace - мир
+forward - вперёд
+Stay organized - оставаться организованным
+Former - бывший
+Accustomed - привык
+far - далёкий
+plate - тарелка
+Feel like - хочу
+Earth - земля
+Give it a try - попробовать
+September - сентябрь
+help - помогать
+this - этот
+who - кто
+language - язык
+pasta - макароны
+Grateful to for - благодарен __(кому за)
+pass - сдать (тест)
+camelCase - стиль написания camelCase
+die - умирать
+Take off - снять (одежду)
+Include - включает (еда)
+Event - событие
+Obviously - очевидно
+war - война
+blue - синий
+Zip it - закрой рот
+comment - комментарий
+Keep going - продолжать двигаться вперед
+authentication - аутентификация
+yield - возвращать последовательность
+pass by reference - передача по ссылке
+Front of - перед (чем то)
+Predict - предсказывать
+This is a total failure - это полный провал
+Painting - картина
+Audience - публика
+Conclusion - вывод
+Practice makes perfect - практика делает совершенным
+Keep an open mind - оставаться открытым к новому
+regression test - регрессионное тестирование
+admit - признавать
+Confident - уверен
+Because of - из-за (твоей собаки)
+Trust your instincts - доверять своей интуиции
+Every human - каждый человек
+bug - ошибка
+two - 2
+parent - родитель
+hot - горячий
+Be grateful - быть благодарным
+bread - хлеб
+integration test - интеграционное тестирование
+cook dinner - готовить ужин
+profiler - профилировщик
