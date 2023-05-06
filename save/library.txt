@@ -1,53 +1,29 @@
-better - лучший
-Live in the moment - жить в настоящем моменте
-Cherish your loved ones - дорожить близкими
-Another apple - еще одно яблоко
-Set a goal - поставить цель
-In front - перед (собакой)
-sorry - мне жаль
-Delicious - очень вкусно
-Go to bed - ложиться спать
-gloomy - пасмурный
-Went on - продолжать
-Confidence - уверенность
-do the laundry - стирать белье
-Stay curious - быть любопытным
-Poetry - поэзия
-Pregnant - беременна
-Suspicious - подозрительно
-Take your time - не торопиться
-Opinion - мнение
-response - ответ
-itself - сам
-listen to music - слушать музыку
-On Tuesday - во вторник
-constructor - конструктор
-No Biggie - не страшно
-family - семья
-Go Shopping - ходить за покупками
-Give back - отдавать
-testing - тестирование
-version control - система контроля версий
-Hurry up - торопиться
-any - любой
-mom - мама
-wing - крыло
-cookie - куки
-Believe in yourself - верить в себя
-first - первый
-of - из
-Commercial - коммерческий
-among - среди
-take a bath - принимать ванну
-Work towards your goal - работать на достижение цели
-Holy crap - чёрт возьми
-Rightly - правильно (r)
-algorithm - алгоритм
-bus - автобус
-even - даже
-take a nap - вздремнуть
 implementation - реализация
-enemy - враг
+take a nap - вздремнуть
+algorithm - алгоритм
+Rightly - правильно (r)
+Holy crap - чёрт возьми
+Work towards your goal - работать на достижение цели
+take a bath - принимать ванну
+Believe in yourself - верить в себя
+cookie - куки
+wing - крыло
+mom - мама
+any - любой
+Hurry up - торопиться
+version control - система контроля версий
+testing - тестирование
+Give back - отдавать
+No Biggie - не страшно
+constructor - конструктор
+On Tuesday - во вторник
+response - ответ
+Suspicious - подозрительно
+Pregnant - беременна
+Confidence - уверенность
+Went on - продолжать
+Cherish your loved ones - дорожить близкими
+Live in the moment - жить в настоящем моменте
 table - стол
 pass by value - передача по значению
 Smile at - улыбается над
@@ -1925,3 +1901,27 @@ bread - хлеб
 integration test - интеграционное тестирование
 cook dinner - готовить ужин
 profiler - профилировщик
+better - лучше
+Another apple - еще одно яблоко
+Set a goal - поставить цель
+In front - Спереди
+sorry - извини
+Delicious - очень вкусно
+Go to bed - ложиться спать
+gloomy - пасмурный
+do the laundry - стирать белье
+Stay curious - Оставайтесь любопытными
+Poetry - поэзия
+Take your time - не торопись
+Opinion - мнение
+itself - само
+listen to music - слушать музыку
+family - семья
+Go Shopping - ходить за покупками
+first - первый
+of - из
+Commercial - коммерческий
+among - среди
+bus - автобус
+even - даже
+enemy - враг

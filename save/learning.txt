@@ -1,21 +1,26 @@
-better - лучший
-Live in the moment - жить в настоящем моменте
-Cherish your loved ones - дорожить близкими
-Another apple - еще одно яблоко
-Set a goal - поставить цель
-In front - перед (собакой)
-sorry - мне жаль
-Delicious - очень вкусно
-Go to bed - ложиться спать
-gloomy - пасмурный
-Went on - продолжать
-Confidence - уверенность
-do the laundry - стирать белье
-Stay curious - быть любопытным
-Poetry - поэзия
-Pregnant - беременна
-Suspicious - подозрительно
-Take your time - не торопиться
-Opinion - мнение
+implementation - реализация
+take a nap - вздремнуть
+algorithm - алгоритм
+Rightly - правильно (r)
+Holy crap - чёрт возьми
+Work towards your goal - работать на достижение цели
+take a bath - принимать ванну
+Believe in yourself - верить в себя
+cookie - куки
+wing - крыло
+mom - мама
+any - любой
+Hurry up - торопиться
+version control - система контроля версий
+testing - тестирование
+Give back - отдавать
+No Biggie - не страшно
+constructor - конструктор
+On Tuesday - во вторник
 response - ответ
-itself - сам
+Suspicious - подозрительно
+Pregnant - беременна
+Confidence - уверенность
+Went on - продолжать
+Cherish your loved ones - дорожить близкими
+Live in the moment - жить в настоящем моменте
