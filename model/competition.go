@@ -9,11 +9,10 @@ import (
 	"time"
 )
 
-func (s *Slovarick) WorkTest(learnWordsAddress string) {
+func (s *Slovarick) WorkTest() (LearnSlice *Slovarick) {
 
 	K := s.CreateAndInitMapWords()
 
-	var LearnSlice Slovarick
 	// Scan quantity words for test
 	fmt.Println("Количество слов для теста")
 	var quantity int = ScanInt()                //количество слов для теста
@@ -47,8 +46,9 @@ func (s *Slovarick) WorkTest(learnWordsAddress string) {
 		}
 	}
 	// Сохранить то что не смог выучить в learning.txt
-	LearnSlice.SaveTXT(learnWordsAddress)
+
 	fmt.Println(yes, not)
+	return
 }
 
 // Учить слова которые в тесте не смог выучить

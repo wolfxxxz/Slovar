@@ -1,86 +1,40 @@
-implementation - реализация
-take a nap - вздремнуть
-algorithm - алгоритм
-Rightly - правильно (r)
-Holy crap - чёрт возьми
-Work towards your goal - работать на достижение цели
-take a bath - принимать ванну
-Believe in yourself - верить в себя
-cookie - куки
-wing - крыло
-mom - мама
-any - любой
-Hurry up - торопиться
-version control - система контроля версий
-testing - тестирование
-Give back - отдавать
-No Biggie - не страшно
-constructor - конструктор
-On Tuesday - во вторник
-response - ответ
-Suspicious - подозрительно
-Pregnant - беременна
-Confidence - уверенность
-Went on - продолжать
-Cherish your loved ones - дорожить близкими
-Live in the moment - жить в настоящем моменте
-table - стол
-pass by value - передача по значению
-Smile at - улыбается над
-kitchen - кухня
-chief - начальник
-over - над
-home - дом
-snake_case - стиль написания snake_case
-Adult - взрослый
-Guess - отгадать
-teach - учат, обучать
-net - сеть
-ticket - билет
-lesson - урок
-get undressed - раздеваться
-module - модуль
-Early - рано
-glad - радостный, рад (видеть)
-push - толкать
+sweet - сладкий
+patient - терпеливый, пациент
+Simplicity - простота
+Help others - помогать другим
+encapsulation - инкапсуляция
+platform - платформа
 Admit your mistakes - признавать свои ошибки
-Point of view - точка зрения
-cheese - сыр
-October - октябрь
-Tuesday - вторник
-PascalCase - стиль написания PascalCase
+get undressed - раздеваться
+Cherish your loved ones - дорожить близкими
+Confidence - уверенность
+Pregnant - беременна
+wing - крыло
+Believe in yourself - верить в себя
+Work towards your goal - работать на достижение цели
+Holy crap - чёрт возьми
+take a nap - вздремнуть
+implementation - реализация
 Take responsibility - нести ответственность
-private - приватный
-Non of us - никто из нас
 do the dishes - мыть посуду
-these - эти
-ten - 10
 Move on - идти дальше
 garbage collection - сборка мусора
-Furniture - мебель
 keep in touch - оставаться на связи
-Walk by - идти мимо
-Local - местный
-play - играть
-most - наиболее
 queue - очередь
 whitespace - пробельные символы
-answer - отвечать
-market - рынок
-walk - идти пешком
-session - сессия
-time - время
-button - кнопка
-kiss - целовать
-blood - кровь
-platform - платформа
-encapsulation - инкапсуляция
-fruit - фрукт
-Depend on - зависит от
-Help others - помогать другим
-Simplicity - простота
-patient - терпеливый, пациент
-sweet - сладкий
+Thrilling - захватывающий
+Captain - капитан
+Stamp - марка
+Channel - канал
+Postcard - открытка
+Search - поиск
+Statement - утверждение
+Writing - письмо
+Composition - сочинение
+Track - путь
+Fault - вина
+In trouble - в беде
+Surname - фамилия
 Wednesday - среда
 death - смерть
 wild - дикий
@@ -314,7 +268,6 @@ North - север
 body - тело
 Piss me off - вывести из себя
 The side of the road - узбіччя дороги
-upset - расстроенный (U)
 Significantly - значительно (S)
 Look it up in a dictionary - найти это в словаре
 Switch on - включить
@@ -1815,7 +1768,6 @@ Were you in trouble - ты был в беде?
 On the right way - на правильном пути
 Likely - вероятно
 Ahead - впереди
-Fault - вина
 Unpredictable - непредсказуемо
 Thought - мысль
 Loyal - лояльный
@@ -1925,3 +1877,67 @@ among - среди
 bus - автобус
 even - даже
 enemy - враг
+algorithm - алгоритм
+Rightly - правильно (r)
+mom - мама
+Hurry up - торопиться
+testing - тестирование
+response - ответ
+Suspicious - подозрительно
+Live in the moment - жить в настоящем моменте
+table - стол
+Smile at - улыбается над
+kitchen - кухня
+chief - начальник
+home - дом
+Adult - взрослый
+Guess - отгадать
+teach - учат, обучать
+ticket - билет
+lesson - урок
+Early - рано
+glad - радостный, рад (видеть)
+push - толкать
+Point of view - точка зрения
+cheese - сыр
+October - октябрь
+Tuesday - вторник
+module - модуль
+net - сеть
+snake_case - стиль написания snake_case
+over - над
+pass by value - передача по значению
+Went on - продолжать
+On Tuesday - во вторник
+constructor - конструктор
+No Biggie - не страшно
+Give back - отдавать
+version control - система контроля версий
+any - любой
+cookie - куки
+PascalCase - стиль написания PascalCase
+Non of us - никто из нас
+ten - 10
+Furniture - мебель
+Walk by - идти мимо
+Local - местный
+play - играть
+answer - отвечать
+market - рынок
+time - время
+button - кнопка
+kiss - целовать
+blood - кровь
+Unlikely - маловероятно
+upset - расстроенный (U)
+Network - сеть
+Press - пресса
+Sensation - сенсация
+session - сессия
+walk - идти пешком
+most - наиболее
+these - эти
+private - приватный
+take a bath - принимать ванну
+fruit - фрукт
+Depend on - зависит от

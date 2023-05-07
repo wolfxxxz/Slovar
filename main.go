@@ -38,7 +38,8 @@ func main() {
 		case "test":
 			var LibraryWords model.Slovarick
 			LibraryWords.Takejson(LibraryJson)
-			LibraryWords.WorkTest(LearnWords)
+			LearnSlise := LibraryWords.WorkTest()
+			LearnSlise.SaveForLearningTxt(LearnWords)
 			LibraryWords.Savejson(LibraryJson)
 			LibraryWords.SaveTXT(LibraryTXT)
 		case "sort":

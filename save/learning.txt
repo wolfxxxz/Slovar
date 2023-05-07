@@ -1,26 +1,37 @@
-implementation - реализация
-take a nap - вздремнуть
-algorithm - алгоритм
-Rightly - правильно (r)
-Holy crap - чёрт возьми
-Work towards your goal - работать на достижение цели
-take a bath - принимать ванну
-Believe in yourself - верить в себя
-cookie - куки
-wing - крыло
-mom - мама
-any - любой
-Hurry up - торопиться
-version control - система контроля версий
-testing - тестирование
-Give back - отдавать
-No Biggie - не страшно
-constructor - конструктор
-On Tuesday - во вторник
-response - ответ
-Suspicious - подозрительно
-Pregnant - беременна
-Confidence - уверенность
-Went on - продолжать
+sweet - сладкий
+patient - терпеливый, пациент
+Simplicity - простота
+Help others - помогать другим
+encapsulation - инкапсуляция
+platform - платформа
+Admit your mistakes - признавать свои ошибки
+get undressed - раздеваться
 Cherish your loved ones - дорожить близкими
-Live in the moment - жить в настоящем моменте
+Confidence - уверенность
+Pregnant - беременна
+wing - крыло
+Believe in yourself - верить в себя
+Work towards your goal - работать на достижение цели
+Holy crap - чёрт возьми
+take a nap - вздремнуть
+implementation - реализация
+Take responsibility - нести ответственность
+do the dishes - мыть посуду
+Move on - идти дальше
+garbage collection - сборка мусора
+keep in touch - оставаться на связи
+queue - очередь
+whitespace - пробельные символы
+Thrilling - захватывающий
+Captain - капитан
+Stamp - марка
+Channel - канал
+Postcard - открытка
+Search - поиск
+Statement - утверждение
+Writing - письмо
+Composition - сочинение
+Track - путь
+Fault - вина
+In trouble - в беде
+Surname - фамилия

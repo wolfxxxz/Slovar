@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-// Достать новые слова из .txt файла
+// Записать слова в .txt файл
 func (s *Slovarick) SaveTXT(files string) {
 	file, err := os.Create(files)
 	if err != nil {
