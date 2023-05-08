@@ -1,37 +1,37 @@
-sweet - сладкий
-patient - терпеливый, пациент
-Simplicity - простота
-Help others - помогать другим
-encapsulation - инкапсуляция
-platform - платформа
-Admit your mistakes - признавать свои ошибки
-get undressed - раздеваться
-Cherish your loved ones - дорожить близкими
-Confidence - уверенность
-Pregnant - беременна
-wing - крыло
-Believe in yourself - верить в себя
-Work towards your goal - работать на достижение цели
-Holy crap - чёрт возьми
-take a nap - вздремнуть
-implementation - реализация
-Take responsibility - нести ответственность
-do the dishes - мыть посуду
-Move on - идти дальше
-garbage collection - сборка мусора
-keep in touch - оставаться на связи
-queue - очередь
-whitespace - пробельные символы
-Thrilling - захватывающий
-Captain - капитан
-Stamp - марка
-Channel - канал
-Postcard - открытка
-Search - поиск
-Statement - утверждение
-Writing - письмо
-Composition - сочинение
-Track - путь
-Fault - вина
-In trouble - в беде
+Stay true to yourself - оставаться верным себе
+order food - заказывать еду
+middleware - промежуточное ПО
+inheritance - наследование
+Explore the world - исследовать мир
+parameter - параметр
+wild - дикий
 Surname - фамилия
+In trouble - в беде
+Fault - вина
+Track - путь
+Composition - сочинение
+Writing - письмо
+Statement - утверждение
+Postcard - открытка
+Channel - канал
+Stamp - марка
+Captain - капитан
+Thrilling - захватывающий
+whitespace - пробельные символы
+queue - очередь
+keep in touch - оставаться на связи
+garbage collection - сборка мусора
+Move on - идти дальше
+do the dishes - мыть посуду
+Take responsibility - нести ответственность
+implementation - реализация
+take a nap - вздремнуть
+Holy crap - чёрт возьми
+Work towards your goal - работать на достижение цели
+Pregnant - беременна
+Confidence - уверенность
+Cherish your loved ones - дорожить близкими
+get undressed - раздеваться
+encapsulation - инкапсуляция
+Help others - помогать другим
+Simplicity - простота
