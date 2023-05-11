@@ -1,42 +1,251 @@
+Sick - больной
+Take care - заботиться
+Emergency - Чрезвычайная ситуация
+Treatment - лечение, уход
+Cancer - рак
+Ambulance - скорая помощь
+Drug - лекарства, наркотики
+Skin - кожа
+Pain - боль
+Feet - ноги
+Neck - шея
+brain - мозг
+Tongue - язык
+Ear - ухо
+Ears - уши, слушать
+Chest - грудь
+Sight - зрение, взгляд
+code review - кодовый обзор
+merge - слияние
+surf the internet - серфить в интернете
+put on clothes - надевать одежду
 Stay true to yourself - оставаться верным себе
-order food - заказывать еду
 middleware - промежуточное ПО
 inheritance - наследование
-Explore the world - исследовать мир
-parameter - параметр
-wild - дикий
-Surname - фамилия
-In trouble - в беде
-Fault - вина
-Track - путь
-Composition - сочинение
-Writing - письмо
-Statement - утверждение
-Postcard - открытка
-Channel - канал
-Stamp - марка
-Captain - капитан
-Thrilling - захватывающий
 whitespace - пробельные символы
-queue - очередь
-keep in touch - оставаться на связи
-garbage collection - сборка мусора
-Move on - идти дальше
-do the dishes - мыть посуду
 Take responsibility - нести ответственность
-implementation - реализация
 take a nap - вздремнуть
-Holy crap - чёрт возьми
 Work towards your goal - работать на достижение цели
-Pregnant - беременна
-Confidence - уверенность
 Cherish your loved ones - дорожить близкими
-get undressed - раздеваться
 encapsulation - инкапсуляция
-Help others - помогать другим
+Candle - свеча
+Tears - слёзы
+Terrible - ужасно
+Rose by - выросла на (цена)
+ship - корабль
+Jacket - куртка, пиджак
+Hook - крюк
+belt - ремень
+I like better - нравится больше
+Hole - яма
+Woke up - проснуться
+Jewelry - украшения
+Injury - сильно задеть
+Pond - пруд
+It stopped working properly - это сломалось
+Notificat - уведомлять
+Specious - просторная
+I lay down - я лёг
+Teach me a lesson - он преподал мне урок
+School uniform - школьная форма
+Fashionable - модная
+Throw away - выбросить
+Throw at me - бросил в меня
+Throw to me - бросил мне
+Complaint - жалоба
+Customer - покупатель
+Courage - отвага
+Break down - сломаться
+Promise - обещание
+Arm - рука
+Notification - уведомление
+Discount - скидка
+Sell for - продать за
+By heart - наизусть
+work for - Работать на
+stand up - встать
+sit down - присесть
+set up a company - основать компанию
+quietly - тихо
+put off - откладывать (на потом)
+postpone - откладывать (на потом)
+outstanding - выдающийся
+i mean to do it - я хочу сделать это
+i leave for - я уехал в
+i heard it on tv - я услышал это по телевизору
+i heard it in the news - я услышал это в новостях
+i cut myself - я порезался
+hear it for the first time - слышу это первый раз
+had a good time together - провели хорошо время вместе
+give up smoking - бросить курить
+find out - выяснить, обнаружить
+favor - одолжение
+differently - по другому (иначе)
+ago - назад (час назад)
+While - пока (до тех пор)
+Where do we begin - с чего начнём
+What made him change his mind - что заставило его изменить свое мнение
+What he had written was true - что он написал было правдой
+Were you in trouble - ты был в беде?
+Were they under arrest - они были под арестом?
+Went on - продолжать
+Wedding - свадьба
+Wake - будить, поднимать с кровати
+Volcano - вулкан
+View - вид
+Vacation - отпуск (V)
+Unpredictable - непредсказуемо
+Unlikely - маловероятно
+Unlike - маловероятно
+Universe - вселенная
+Univers - вселенная
+Twice - дважды
+truth - правда
+Trend - тенденция
+Transform - превратиться
+Track - путь
+Title - название
+Thrilling - захватывающий
+Though - хотя, однако, несмотря на, даже, всё таки
+This problem has nothing to do with you - эта проблема не имеет к тебе отношения
+This is a total failure - это полный провал
+Thin - тонкий (книга)
+There was no damage - не было никакого повреждения
+There was a great lack of rice that year - В том году было большое нехватка риса
+The teacher had given me the answer - учитель дал мне ответ
+The side of the road - узбіччя дороги
+The amount - количество (E)
+Team - команда
+Sweet - сладкий
+Sun - солнце
+Suffer - страдать
+Strength - сильная сторона, сила
+Statement - утверждение
+Split split split - расставаться
+Someone had opened the window - Кто
+Smaller - меньше (размер)
+Since - поскольку, с
+Signature - подпись
+Shy - застенчивый
+She had not earned anything - она ничего не заработала
+She doesn't affect me - она не влияет на меня
+Sharp - острый
+Shadow - тень
+Score - набирать (очки)
+Sand - песок
+Roof - крыша
+Rock - камень
+Responsibility - ответственность
+Response - ответ
+Religion - религия
+Relations - отношения
+Relation - связь, отношения
+Recover - восстанавливать
+Reach - достиг, достигнуть, тянутся
+Protection - защита
+Produce - производить
+Previously - раньше
+Previous - предыдущий
+Pretty - довольно, красиво
+Pregnant - беременна
+Predict - предсказывать
+Postcard - открытка
+Possibility - возможность
+Plant - растение
+Pit - яма
+Piece - кусок
+Permission - разрешение
+Performance - выступление
+Pay attention - обращать внимание
+Paint - краска
+Over time everything changes - со временем всё меняется
+Other side - другая сторона
+Nice - красивый, хороший
+Nature - природа
+Most of all - больше всего
+Met - знаком
+Lonely - одинокий
+Load - груз
+Living room - прихожая комната
+Likely - вероятно
+Led - управлять
+Leaf - лист
+Large - большой
+Lack - нехватка, недостаток
+Joy - радость
+Joi - радость
+It's very kind of you - это очень приятно с твоей стороны
+Is there a way to prevent it - Есть ли способ предотвратить это?
+Invite - приглашать
+Interest - процент
+Intention - намерение
+Intend - намереваться
+Instead of - вместо (него)
+In trouble - в беде
+In any case I like it here - во всяком случае мне нравится тут
+Immediately - сразу
+I'm ready for the consequences - Я готов к последствиям
+I thought you had found the suitcase - Я думал, что вы нашли чемодан
+I started to cover this subject - я начал освещать эту тему
+I had not eaten since Tuesday - я не ел со вторника
+I had not assumed anything - Я ничего не предполагал
+How long time ago was it - как давно это было
+How do they prepare this fish in France - Как готовят эту рыбу во Франции?
+How do i add images to my page - как мне добавить изображения на мою страницу
+He wants to respond to her - он хочет ответить ей
+Have a good flight - желаю хорошего полёта
+Has turned into - превратился
+Happy - счастлив
+Good shape - хорошая форма (спорт)
+Goal - цель
+Give up - бросать (курить)
+Getting old - старение
+Generous - щедрый
+Full of joy - полный радости
+From which direction - с какого направления
+Former - бывший
+Force - заставить
+Flutter - порхать
+Fell off into - упал с , на
+Fell - упал
+Feel like - хочу
+Fashion - мода
+Fair - ярмарок, справедливо, красавица, русый
+Failure - провал
+Expect - ожидать
+Existence - существование
+Exception - исключение
+Establish the order - установить порядок
+Efficient - эффективно
+Earth - земля
+Doubt - сомнение
+Disturb - мешать
+Direction - инструкция, направление
+Desire - желание
+Define - определять, давать характеристику
+Danger - опасность
+Cycling - кататься на велосипеде
+Currently - В настоящее время, теперь
+Cover - открывать, освещать
+Content - состав, зміст, наполнение
+Consequence - последствие
+Confidence - уверенность
+Conclusion - вывод
+Climate - климат
+Choice - выбор
+Channel - канал
+Call of - отметить
+Boast - хвастаться
+Be proud of - гордиться за
+Audience - публика
+Attempt - спроба, попытка
+Assume - допустил, припустив
+Another opportunity - еще одна возможность
+Actress - актриса
+Acquaintance - знакомый
+Accept - принять
+A change of clothes - сменная одежда
 Simplicity - простота
-beautiful - красивый
-clean - чистый
 Stay humble - оставаться скромным
 heart - сердце
 Guard - охранник
@@ -45,24 +254,7 @@ framework - фреймворк
 heavy - тяжёлый
 You don't say - не может быть
 bedroom - спальня
-always the same - всегда одно и тоже
-interpreter - интерпретатор
 assignment - операция присваивания
-air - воздух
-Department - отдел
-put on clothes - надевать одежду
-face - лицо
-win - побеждать
-Behaviour - поведение
-mirror - зеркало
-in - в
-Elder - старше
-surf the internet - серфить в интернете
-IDE - интегрированная среда разработки
-documentation - документация
-and - и
-merge - слияние
-code review - кодовый обзор
 As far as i know - насколько я знаю
 Embrace change - принимать перемену
 An Important - не важный
@@ -84,7 +276,6 @@ well - хорошо
 smile - улыбаться
 Is Anybody with you - с тобой кто то есть?
 I busy next week - я занят на следующей неделе
-brain - мозг
 take a shower - принимать душ
 girl - девочка
 Judge - судья
@@ -169,7 +360,6 @@ quantity - количество
 fake - поддельный
 Single - один
 On Wednesdays - по средам
-Rose by - выросла на (цена)
 final - последний, решающий
 Impolite - невежливый
 Absence - отсутствие, недостаток, неявка
@@ -178,51 +368,39 @@ update - обновлять
 Clothes - одежда
 hope - надеяться
 Vehicle - транспорт
-View - вид, мнение, взгляд
 cut - резать
 outer - внешний
 Windy - ветреный
 case - случай
 open - открывать
 Reason for - причина __
-Efforts - усилия
 Wheel - колесо
 Passed - сдал, прошел (past)
 iteration - итерация
 Write it down - записывать что то
-By heart - наизусть
 Wonderful - Замечательный, чудесный
 only - только
 Shirt - рубашка
 Developed - развивать (past)
 Stay - остаться
-Cheaper - дешевле
 On time - вовремя
 spider - паук
-Subject - предмет
 Guest - гость
 The following - следующие (вопросы)
 Introduce - представить
 write - писать
 Sign - подписать
 Rude - грубый
-Interest - процент
 Continue doing - продолжить делать
 During - на протяжении (моего сна)
 Take on - взять на
 As always - как всегда, як завжди
 Front - перед (домом)
-Leg - нога
-Deep - глубоко
-Candle - свеча
-Reality - реальность
 Abilities - способности
-Discount - скидка
 Entry - вход
 bruh - братан
 window - окно
 object - объект
-Exit - выход
 Cheaply - дешево
 Earn - заработать
 Usually - обычно
@@ -235,26 +413,20 @@ down - вниз
 Valley - долина
 eagle - орёл
 Report - отчёт
-Fell off into - упал с , на
-At least - принаймні, хотя бы
 Activity - деятельность
 Living - живой
-Relation - связь, отношения
 Data - данные
 she - она
-Prettier - красивее
 Improve - улучшить
 Slim - стройный
 Reached - достиг
 Everywhere - везде
 camel - верблюд
 The Costs - издержки, расходы
-Hole - яма, отверстие, дыра
 Appearance - внешность
 North - север
 body - тело
 Piss me off - вывести из себя
-The side of the road - узбіччя дороги
 Significantly - значительно (S)
 Look it up in a dictionary - найти это в словаре
 Switch on - включить
@@ -263,8 +435,6 @@ Wait for him - ждать его
 apartment - квартира (A)
 Absent - отсутствует
 nose - нос
-Met - знаком
-Masterpiece - шедевр
 cow - корова
 Famous - известный
 mail - почта
@@ -272,19 +442,12 @@ Revised - повторённый, пересмотренный
 word - слово
 game - игра
 space - космос, пространство
-ocean - океан
 friend - друг
-i heard it in the news - я услышал это в новостях
-Reach - достиг, достигнуть, тянутся
-Wake - будить, просыпаться, осознать, очнуться
-Complaint - жалоба
 Require - требовать
 ascending - возрастаю
-quietly - тихо
 Educated - образованный
 loop - цикл
 prepend - добавлять в начало
-Strength - сильная сторона, сила
 door - дверь
 visa - виза
 where - где
@@ -297,10 +460,7 @@ when - когда
 Avenue - проспект
 Belong to - принадлежать
 Square - площадь
-Protection - защита (P)
-Production - производство
 around - вокруг
-Damage - повреждение
 wife - жена
 foreach - для каждого
 stop - останавливать
@@ -313,13 +473,11 @@ low - низкий
 data structure - структура данных
 Tall - высокий
 Amazing - восхитительно
-Stylish - стильная
 Disagree - не согласен
 Armchair - кресло
 Vegetables - овощи
 away - прочь
 Laugh at - смеяться над
-Meet - знакомиться, встречать
 Razor - бритва
 sing - петь
 Double - удвоить
@@ -328,25 +486,16 @@ often - часто
 order - упорядочить
 too - слишком
 Important - важный
-I have nothing to do with this matter - я не имею отношения к этому делу
 by - по
-Fashionable - модная
 strange - странный
-using - испольЗУЯ
-Short - низкий, короткий
 how - как
-Honor - честь
 Purpose - цель
 On a regular basis - на регулярной основе (регулярно)
-Beat - бить, победить
 In total - всего (нас всего)
 owe them - Должен им
 pen - ручка
 yellow - жёлтый
-Accept - принять (A)
-Assume - допускать, Предполагать, присваивать себе
 Moved - переехал (past)
-Promise - обещание
 Poor - бедный
 car - автомобиль
 Bring in - приносить
@@ -363,8 +512,6 @@ people - люди
 He is out - его нет дома (но он рядом)
 So what - ну и что?
 he assumes - он предпологает
-Younger - младше (возраст)
-favor - одолжение
 juice - сок
 Scissors - ножницы
 tonight - сегодня вечером
@@ -376,7 +523,6 @@ just - только, просто, только что
 boyfriend - парень (её)
 Dry - сушить
 lion - лев
-Symbol - символ
 soon - скоро
 puddle - лужа
 milk - молоко
@@ -388,10 +534,7 @@ manner - манера
 Turn on - включить
 app - приложение
 Married - женат
-Content - состав, зміст, наполнение
-Drown - тонуть (человек)
 Free - (быть) свободным
-It stopped working properly - Это перестало работать должным образом
 Suggested - предлагал (past)
 quick - быстрый
 Calm - спокойный
@@ -410,27 +553,20 @@ Might - возможно (modal)
 tent - палатка
 In The end - в конце
 Correct - правильный
-Pretty - довольно, красиво
-Throw away - выбросить
 Certainly - конечно
-Roof - крыша
 Bilingual - двуязычный (знает два языка)
-great - великий
 Bed Sheet - простынь
 I washed my face - я вымыл лицо
 Anywhere - где угодно
 aggregate - агрегировать
 forget - забывать
-Existence - существование
 Powder - порошок
 taxi - такси
-Bigger - больше (размер)
 destructor - деструктор
 Greatly - очень сильно
 easy - легко, лёгкий, спокойно 
 speed - скорость
 Region - район R
-Murder - убийство
 Went to the park on foot - пошли в парк пешком (go)
 default - по умолчанию
 fourteen - 14
@@ -439,7 +575,6 @@ select - выбирать
 branch - ветка
 Happen to - произошло с
 Inspire - вдохновлять
-Define - определять, давать характеристику
 Go out - идти на выход, выходить
 today - сегодня
 top - верх
@@ -449,13 +584,11 @@ Expected - ожидал (past)
 A couple of questions - пара вопросов
 Anniversary - годовщина
 Hide hid hidden - прятать
-Cleaner - чище (чистота)
 hi - привет
 child - ребёнок
 Get a job - получить работу
 What time - в какое время
 Edge of the building - край здания
-Instead of - вместо (него)
 Spacious - просторная
 way - путь
 full - полный
@@ -472,20 +605,12 @@ Topic - тема
 Append - добавить, присоединять
 meat - мясо
 eat - кушать
-Joy - радость
-Permission - разрешение
-Performance - представление, исполнение, спектакль
 fly - летать
 left - левый
 recursion - рекурсия
-Take - брать
-Act - поступок
-outstanding - выдающийся
 study - учиться
-hair - волосы
 eleven - 11
 Sofa - диван
-truth - правда
 Assistant - ассистент
 create - создавать
 Community - общество
@@ -504,20 +629,15 @@ sky - небо
 Beginner - новичок
 conditional - условный
 Certain - уверен
-Over time everything changes - со временем всё меняется
 How many - Сколько (друзей)
 Start doing - начать делать
 Waste time - тратить время
 Bicycle - велосипед
-Shadow - тень
-Give up - бросать (курить)
 January - январь
-Prevent - Предотвращать, не допускать, предохранять
 true - истинный
 One more time - еще раз
 usual - обычный
 device - прибор
-Recover - восстанавливать
 translate - переводить
 Happily - счастливо
 method - метод
@@ -525,53 +645,37 @@ capacity - емкость
 Refuse to - отказываться _
 Face problem - столкнутся с проблемой
 learn - учиться
-I thought you had found the suitcase - Я думал, что вы нашли чемодан
 understand - понимать
-Full of joy - полный радости
 Bag - сумка
 Century - 100 летие
 Route - маршрут
 Reply - ответ (редко)
-i mean to do it - я хочу сделать это
 finally - наконец
 notify - уведомить, поставить в известность
 Frighten - пугает
-had a good time together - провели хорошо время вместе
-ear - ухо
 Option - вариант
-Throw at me - бросил в меня
 it seems to be - это кажется
 Suggested going - предлагал пойти (past)
 value - значение
 Question mark - вопросительный знак
-Efficient - эффективно
 pink - розовый
 soul - душа
 Considerably - значительно (С)
 social - общественный
 speak - говорить
 Mix up - перемешать
-Produce - производить
-Cycling - кататься на велосипеде
 public - публичный
 Responsible - ответственный
-Possibility - возможность
-There was no damage - не было никакого повреждения
 Pocket - карман
-work for - Работать на
 abroad - за границей
 Compete - соревноваться
 Devote to - уделять (время) для
 Except for - кроме __(огурцов)
 Check - проверить
-Weak - слабый
 Revis - повторить, пересмотреть
-How do i add images to my page - как мне добавить изображения на мою страницу
 fox - лиса
-Has turned into - превратился
 Excellent - отлично E
 zero - 0
-Hook - крюк
 Bring up - воспитывать
 Exercise - заниматься спортом
 The same - то же самое (два слова)
@@ -585,24 +689,18 @@ Returned - вернулся (past)
 job - работа
 pointer - указатель
 Prefers - предпочитает
-Total - полный, суммарный
 spoon - ложка
 response time - время отклика
 husband - муж, супруг
 name - имя, назвать
-Gas - газ
-What made him change his mind - что заставило его изменить свое мнение
 art - искусство
 stone - камень
 variable - переменная
-From which direction - с какого направления
 person - человек
-Jacket - куртка, пиджак
 reference - ссылка
 shit - дерьмо
 Cabinet - шкаф
 Pass me - передай мне
-hear it for the first time - слышу это первый раз
 box - коробка
 Do The Shopping - делать покупки
 ask - спрашивать
@@ -611,18 +709,14 @@ grey - серый
 difficult - трудный
 June - июнь
 Impossible - невозможно
-Woke up - проснулся
 from - из
 Right now - прямо сейчас
 Drive - управлять (ехать)
 a Bit - немного B
 bull - бык
 Floor - пол
-Smoke - дым
 color - цвет
 The couple - эти женатики (пара)
-Other side - другая сторона
-Establish the order - установить порядок
 Calculate - рассчитать
 change of clothes - сменная одежда
 Feeling - чувство
@@ -653,47 +747,36 @@ delete - удалять
 luck - удача
 Prepare - подготовится
 drunk - пьяный
-long - длинный
 with - с
 Wise - мудрый
 dead - мёртвый
-Sure - конечно
 joke - шутка
 filter - фильтровать
 begin - начинать
-Throw to me - бросил мне
 Influence - влиять на
 Celebrate - праздновать
-Currently - В настоящее время, теперь
 The only right - единственно верное
 Friendly - дружелюбный
 Low blow - удар ниже пояса
 at first - сначала
 near - около, рядом
 Manage - уметь (управлять)
-In any case I like it here - во всяком случае мне нравится тут
 In August - в августе
-Finish - закончить
 map - отображать
 clock - часы
 at the beginning of the year - в начале этого года
-This problem has nothing to do with you - эта проблема не имеет к тебе отношения
-The teacher had given me the answer - учитель дал мне ответ
 Go anywhere you want to - иди куда угодно
 everything - всё
-good - хороший
 Tower - башня
 lunch - обед
 reverse - обращать
 Legal - законный
 allocate - выделять память
-Arm - рука
 Pay for - платить за
 Pan - сковорода
 Worker - рабочий
 Get dark - темнеет
 group - группировать
-It's very kind of you - это очень приятно с твоей стороны
 do - делать
 breakfast - завтрак
 Towards - к, в направлении, по отношению 
@@ -706,20 +789,15 @@ Departure - отъезд
 Quite seldom - достаточно редко
 go - идти
 on - на
-give up smoking - бросить курить
 few - мало
 Charge - заведует (чем то)
 Artist - художник
 Eyes - глаза
 Serious - серьезный
-Dust - пыль
 fork - вилка
-Exist - существовать
 Point at - указать на
-Classmate - одноклассник
 dictionary - словарь
 bye - пока
-Conversation - разговор
 mean - означать, иметь в виду
 red - красный
 Guild - вина
@@ -740,14 +818,10 @@ slow - медленный
 modern - современный
 False - не правда
 more - более
-Twice - дважды
 Chair - стул
 print - печатать
 set - устанавливать
 Brilliant - блестящий
-Affect - влиять, действовать (A)
-Someone had opened the window - Кто то открыл окно
-Country house - загородный дом
 stack overflow - переполнение стека
 On top - сверху
 Health - здоровье
@@ -765,13 +839,10 @@ compile - компилировать
 West Coast - западный берег
 finger - палец
 size - размер
-Fell - упал
 engineer - инженер
 Uncle - дядя
 Rich - богатый
-ago - назад (час назад)
 Slowly - медленно S
-Danger - опасность
 Learn something new - узнать что
 small - маленький
 look at - смотреть на
@@ -779,7 +850,6 @@ Grown Up - взрослый
 sit - сидеть
 nasty weather - неприятная погода
 woman - женщина
-Sell for - продать за
 Innocent - невинный
 Receive - получать, принимать
 cry - плакать
@@ -796,10 +866,8 @@ bird - птица
 Leave - покидать
 may - мочь
 Try new things - пробовать новые вещи
-Pay attention - обращать внимание
 capital - столица
 Hotel - отель
-Direction - инструкция, направление
 fifteen - 15
 Spend on - тратить на
 Whole night - всю ночь
@@ -809,7 +877,6 @@ Disappointed - расстроенный
 Bowl - миска
 Memory - память
 increment - увеличивать
-Break down - сломаться
 summer - лето
 Chain - цепь
 Depends on - зависит от
@@ -827,7 +894,6 @@ ball - мяч
 Will finish doing - закончу делать (Будущее)
 bottle - бутылка
 deallocate - освобождать память
-Heat - жара
 one - 1
 Consider - учитывать
 Illness - болезнь (простуда)
@@ -839,14 +905,12 @@ animal - животное
 anybody - любой, никто, всякий (body)
 hundred - 100 (сто)
 Lucky - везучий
-Benefit - выгода, польза
 Dangerous - опасно
 In spite of - несмотря на (с предлогом)
 Familiar - знакомо
 feel - чувствовать
 spring - весна
 Wait for - ждать _ (кого то)
-Previous - предыдущий
 Fourth - четвёртое
 Complain - жалуется
 Journey - поездка
@@ -854,11 +918,9 @@ Divide it into - делить это на
 call by value - вызов по значению
 Powerful - мощный
 no - нет
-Transform - превратиться
 castle - замок
 textbook - учебник
 repeat - повторять
-Courage - отвага
 into - в
 Satisfied with - удовлетворён с
 React to - реагировать на
@@ -867,13 +929,10 @@ fall - падать
 throw - выбрасывать исключение
 Stayed - оставался (past)
 Individual - личность
-Employee - сотрудник
 buy - покупать
 mix - смешивать
 Marry - жениться на
 Pronunciation - произношение
-Gasoline - бензин
-Position - должность
 Think it over - обдумать это
 Punish - наказывать
 Apologize - извиняться
@@ -884,7 +943,6 @@ sad - грустный
 Cost - стоить (глагол)
 be able - смогу (будущее)
 but - но
-i cut myself - я порезался
 Tired of - устал от
 Join - присоединится
 Count on - рассчитывать на
@@ -893,13 +951,11 @@ Independent of - независимая от, самостоятельный _
 Inform of - информировать о
 eighteen - 18
 work - работать
-Religion - религия
 hello - привет
 Criticize - критиковать
 Higher - выше
 Adapt to - адаптироваться к
 autumn - осень
-Pond - пруд
 At once - сразу же (во первых)
 Resolve the conflict - решить конфликт
 fuck - трахать
@@ -908,14 +964,11 @@ work properly - работать правильно
 Both sides - обе стороны
 letter - буква, письмо, символ
 The window - окно
-Landscape - ландшафт
 Pass by - проходят мимо
-i leave for - я уехал в
 Whole - вся (площадь)
 weather - погода
 let - позволять
 replace - заменять
-School uniform - школьная форма
 country - страна
 Skills - навыки
 String - нитка, шнурок
@@ -930,39 +983,30 @@ Bad at - плохо от
 Ands - заканчивается
 jug - кувшин
 need - нуждаться
-I'm not in shape - я не в форме
 devil - дьявол
 find - находить
 between - между
 run - бежать
 November - ноябрь
 Insist on - настаивать на
-bitterly - горько
-Living room - прихожая комната
 another - другой (мир)
-Large - большой (L)
 use - использовать
 Subway - метро
 sometimes - иногда
-Land - земля, родина, хз
 book - книга
 Go away - уйди
 they - они
 The day before yesterday - позавчера
 fill - наполнять
 Will it last for - Сколько это продлится?
-before - до
 baby - крошка
 nineteen - 19
 winter - зима
-Another country - другая страна
 More than enough - больше чем достаточно
 knife - нож
 Brave - смелая
-At last - наконец
 always - всегда
 last for about - (это будет) длится около
-Other countries - другие страны
 all - все
 function - функция
 Airplane - самолет
@@ -992,32 +1036,25 @@ Degree - научная степень
 Will Get tired - скоро устанешь
 Monday - понедельник
 Will Continue doing - будет продолжать делать
-I lay down - я лёг
 Village - село
-Since - поскольку, тому назад, (S)
-Jewelry - украшения
 morning - утро
 The end - конец
 Despite - не смотря на (одно слово)
 Article - статья
 school - школа
-Apply - применить, подать заявку, занести
 fortune - удача, случай
 sixteen - 16
 arithmetic - арифметические операции
-Terrible - ужасно
 Expectedly - ожидаемо
 Flight - полет, рейс
 Whenever - когда угодно
 To get in touch with - связаться с
 class - класс
 very - очень
-Customer - покупатель
 each - каждый
 Unknown - неизвестно
 twelve - 12
 see - видеть
-Older - старше (возраст)
 Remain - остатся, продержатся
 wolf - волк
 The study - исследование, изучение
@@ -1027,7 +1064,6 @@ It's just a mouse - это просто мышь
 police - полиция
 seventeen - 17
 Allow - разрешать (дозволяти)
-Mountain - гора
 On a business trip - в командировке
 Suggest - предлагать
 Property - недвижимость
@@ -1037,14 +1073,11 @@ Take place - проходит (иметь место)
 The day after tomorrow - послезавтра
 debug - отлаживать
 In a year - (выучить) за год
-Force - заставить
 Criminal - преступник
-Consequence - последствие
 Sheet - лист, страница
 Disappeared - исчезли (past)
 Salary - зарплата
 Present day - сегодня
-Fair - ярмарок, справедливо, красавица, русый
 Agreement - договоренность
 Sponge - губка
 you - ты
@@ -1052,10 +1085,8 @@ Comb - гребешок
 Suddenly - вдруг, внезапно
 Angry - злой
 dance - танцевать
-Courageously - отважно
 move - двигаться
 here - здесь
-He drowned - он утонул
 explain - объясни
 have a good time - хорошо проводить время
 three - 3
@@ -1069,22 +1100,15 @@ Sunday - воскресенье
 It's a matter of time - это дело времени
 make - делать (что то новое)
 Objective - цель (O)
-Build - строить
-Soil - земля
 Invite to - приглашать на
-while - пока
 sir - сэр
-Wood - дерево, древесина, лес
 Defend - защищать
 Rest - отдыхать
 news - новости
-Trend - тенденция
-Permit - разрешение, пропуск
 Flat - квартира
 sugar - сахар
 Explanation - объяснения
 song - песня
-Led - управлять
 save - спасать
 Surprising - удивительный
 Participate - принимать участие
@@ -1092,7 +1116,6 @@ Marriage - свадьба
 hear - слышать
 thousand - 1000
 ridge - хребет
-Lack - нехватка, недостаток
 Felt - упал
 Walk into - зайти внутрь
 moon - луна
@@ -1107,11 +1130,8 @@ policeman - полицейский
 How much - Сколько (денег)
 respect - уважать
 money - деньги
-Doubt - сомнение
-Sand - песок
 cold - холодный
 argument - аргумент
-i heard it on tv - я услышал это по телевизору
 town - город (T)
 Edge of - край _
 goose - гусь
@@ -1122,10 +1142,8 @@ Zoo - зоопарк
 snow - снег
 Expensive - дорогой
 it - это
-differently - по другому (иначе)
 Effect - последствия
 Possible - возможно
-Have a good flight - желаю хорошего полёта
 Earlier - ранее
 Sooner or later - рано или поздно
 West - запад
@@ -1141,18 +1159,14 @@ Loud - громко
 None of them - никто из них
 Really - Действительно
 Frequent - часто происходит
-stand up - встать
 read - читать
 much - много
-Good shape - хорошая форма (спорт)
 Pool - бассейн
 silver - серебро
 Somehow - как то
 place - место
 kind - добрый
-Teach me a lesson - он преподал мне урок
 Unusual - необычно
-Pleasure - удовольствие
 sell - продавать
 party - вечеринка
 i mean - я имею в виду
@@ -1161,60 +1175,44 @@ Phrase - фраза
 soup - суп
 Translate from into - переводить с на
 Neighborhood - район
-postpone - откладывать (на потом)
-Climate - климат
-Flutter - порхать
-belt - ремень
 new - новый
-Load - груз
 Seldom - редко
 Lend - давать в долг
 soft - мягкий
-Half an hour - полчаса
 can - может
 Per - за (метр за секунду)
 Relationships - отношения (с родителями)
-Is there a way to prevent it - Есть ли способ предотвратить это?
 Pure - чистый
 remember - помнить
-Another opportunity - еще одна возможность
 beach - пляж
 What kind of - какого рода?
 list - список
-Bad - плохой
 monkey - обезьяна
 web - сеть, паутина
 Approximately - приблизительно
 drink - пить
-foot - нога
 Approach - подход
-Previously - ранее, предварительно, заранее
 little - маленький
 shop - магазин
 I'll - болен
 cheap - дешёвый
-Entrance - вход
 Birth - рождение
-Fire - огонь
 Reinvent - переизбирать
 become - стать
 boy - мальчик
 Waiter - официант
 Forgive - простить
 compare - сравнивать
-Later - позже
 Fat - толстый
 Potential - потенциальный
 Mention - упоминать
 oneself - себя
-Shape - форма (состояние)
 Tremendous - огромный, потрясающий
 add - добавлять
 fresh - свежий
 Trust - доверяю
 Raise - растить
 Stay positive - оставаться позитивным
-One chapter has turned into a book - один раздел превратился в книгу
 Prayed - молился
 chicken - курица, цыплёнок
 duck - утка
@@ -1226,13 +1224,11 @@ many - много (идей)
 along - вдоль
 life - жизнь
 under - под
-Tears - слёзы
 hell - ад
 Fond of - обожаю
 second - второй
 tale - сказка
 Currency - валюта
-Injury - рана, травма
 Advertising - реклама
 Application - заявка
 maybe - может быть
@@ -1240,7 +1236,6 @@ notebook - тетрадь
 hold - держать
 Borrow - брать в долг
 Ask for help - попросить помощи
-Avoid - избегать
 Basket - корзина
 food - еда
 number - число
@@ -1251,7 +1246,6 @@ fast - быстрый
 Unexpectedly - неожиданно
 Skirt - юбка
 hard - тяжёлый, жёсткий
-Service - услуга
 Nowadays - настоящее время (одно слово)
 On Holiday - На выходных
 Soap - мыло
@@ -1262,17 +1256,14 @@ Come back - вернуться (два слова)
 Comfortable - удобное
 mouse - мышь
 Foundation - фундамент
-Part - часть
 above - выше, свыше, более
 Suitcase - чемодан
 Especially - особенно, специально
 because - потому что
 bitwise - побитовые операции
 Pair - пара
-Signature - подпись
 Desk - письменный стол
 However - Однако
-Instance - случай, пример
 everybody - каждый (человек)
 relax - расслабляться
 Attractive - привлекательный
@@ -1281,21 +1272,17 @@ The machine - машина
 old - старый
 Nowhere - нигде
 array - массив
-Failure - провал
 Current - текущий (курс)
 Aunt - тетка
 Evidence - доказательство
 Farm - ферма
-Origin - происхождение
 which - который
 lake - озеро
 less - менее, меньше
-happy - счастливый
 watch - смотреть (телевизор)
 what - что
 soldier - солдат
 Announce - объявить
-Though - хотя, однако, несмотря на, даже, всё таки
 holiday - праздничный день
 Forgive and forget - прощать и забывать
 Foreign - иностранный
@@ -1310,38 +1297,30 @@ Demand - требовать
 The worst - самый худший
 virtual - виртуальный
 To be - быть
-Title - название
 fish - рыба
 Any more - некогда больше
 Follow - следуй (иди за мной)
-ship - корабль
 every - каждый
 world - мир
 Division - деление
 Disease - болезнь (тяжелая)
-Piece - кусок
 big - большой
 same - тот же
 get - получать
 Engine - двигатель
-River - река
 Length - длина
 Notice - заметят
 Should - следует
 wait - ждать
 Normal - обычный, нормальный
-Find out - узнали
 queen - королева
 Not Definitely - не точно
 Advanced - продвинутый
 week - неделя
-More or less - более менее
 Miss - соскучиться (за кем
 Stage - стадия
 Authorities - власти
-Pie - пирог
 Good at - хорошо от
-Able - способный, здібний
 pointer arithmetic - арифметика указателей
 now - сейчас
 six - 6
@@ -1356,11 +1335,9 @@ go home - идти домой
 Range - диапазон
 please - пожалуйста
 Award - награда
-put off - откладывать (на потом) два слова
 Grade - класс
 nickname - прозвище
 Send - отправить
-Clear - ясно понятно
 Lawyer - юрист
 Will Start doing - начнёт делать
 through - сквозь (через)
@@ -1372,12 +1349,7 @@ eight - 8
 Necessary - необходимый
 dolphin - дельфин
 Lady - пані
-How do they prepare this fish in France - Как готовят эту рыбу во Франции?
-Plant - растение
-Circle - круг
-Construction - строительство
 Library - библиотека
-Joi - радость
 Native speaker - носитель языка
 father - отец
 Tear tore torn - рвать
@@ -1402,7 +1374,6 @@ Make made made - делать
 be was were been - быть
 To our surprise - к нашему удивлению
 cost cost cost - стоить
-Reduce - уменьшить
 Overpay overpaid overpaid - переплатить
 Send sent sent - отправлять
 Overcome overcame overcome - преодолеть
@@ -1424,7 +1395,6 @@ Rise rose risen - вставать, подъем (сонце)
 Shoot shot shot - стрелять
 Grow grew grown - расти, выращивать
 Happened to - произошло с
-Cover - открывать, освещать
 Overeat overate overeaten - переедать
 Continue - продолжать
 See saw seen - видеть
@@ -1436,7 +1406,6 @@ Attention - внимание
 Throw threw thrown - бросать
 Feed fed fed - кормить
 Write wrote written - писать
-set up a company - основать компанию
 Discover - открыть (Америку)
 Saint - святой
 Speak spoke spoken - разговаривать (говорить)
@@ -1447,16 +1416,13 @@ Have a rest - отдыхать
 victory - победа
 run ran run - бежать
 Tell told told - говорить кому то
-sit down - присесть
 get got got - получать
 Tend - тенденция
 Fight fought fought - сражаться
-Notification - уведомление
 Smell smelt smelt - пахнуть
 Do did done - делать
 Sink sank sunk - тонуть
 Last for - длится _
-For no reason - без какой либо причины
 Forgive forgave forgiven - прощать
 Allow allowed allowed - разрешить (A)
 Accuse of - обвинять в
@@ -1466,7 +1432,6 @@ if - если
 Sell sold sold - продать
 Buy bought bought - покупать
 Example - пример
-Smaller - меньше (меньше меня)
 Task - задача
 Break broke broken - ломать
 Catch - поймать
@@ -1486,18 +1451,14 @@ Wake woke waken - просыпаться
 Foresee foresaw foreseen - предвидеть
 Fit fit fit - подходит (идёт)
 Hurt hurt hurt - обижать, задеть, слегка повредить
-i like better - мне нравится больше
 Feel felt felt - чувствовать
 Hold held held - держать в руках
-sea - море
 Dream dreamt dreamt - мечтать
 Understand understood understood - понимать
 show showed shown - показывать
 Keep kept kept - хранить
 Steal stole stolen - украсть
 Several - несколько
-Sharp - острый
-Humor - юмор
 Oversleep overslept overslept - проспать
 Swim swam swum - плавать
 Lend lent lent - одолжить (кому то)
@@ -1505,13 +1466,11 @@ Ring rang rung - звонить
 Hit hit hit - ударить
 Wear wore worn - носить (одежду)
 Think thought thought - думать
-with whom - с кем
 Say said said - сказал
 Draw drew drawn - рисовать
 Fly flew flown - летать
 constant - постоянный, постоянная величина
 else - ещё, иначе, кроме
-forest - лес
 Behave very badly - вести себя очень плохо
 Cousin - двоюродный брат
 Cut cut cut - резать
@@ -1527,7 +1486,6 @@ Negative - отрицательная
 Knock at - стучать в
 Teach taught taught - преподавать
 Sleep slept slept - спать
-after - после
 Misunderstand misunderstood misunderstood - неправильно понять
 Go went gone - идти
 Spend spent spent - тратить
@@ -1543,68 +1501,14 @@ Fall fell fallen - упал
 set set set - установить
 read read read - читать
 stand stood stood - встать (он встал)
-Drink drank drunk - пить
 meet met met - встречать
-What he had written was true - что он написал было правдой
-I started to cover this subject - я начал освещать эту тему
-Suffer - страдать
 Serves - подавать (девушка подаёт воду)
 Watch your mouth - следи за словами
-Inside - изнутри, внутри
-Outside - снаружи
-Hospitable - гостеприимство
-Thin - тонкий (книга)
-Establish - основывать, установить
-Deserve - заслуживать
-Enthusiasm - энтузиазм
-Risky - рискованно
-Invite - приглашать
-Most of all - больше всего
-Path - путь
-One point - одно очко
-Score - набирать (очки)
-In the fall - осенью
-Attempt - попытка
-Immediately - немедленно
-Character - характер
-Born - рожденный
-Listen - слушать
-Intend - намереваться
-Cancel - отменить
-Intention - намерение
-Regret - сожалеть
-Devote - уделять
-Achievement - достижение
-Impress - впечатлять
-Choice - выбор
-goal - цель
-Univers - вселенная
-Pit - яма
-Talk - разговаривать
-Split split split - расставаться
-Boast - хвастаться
-Disturb - мешать
-Suit - подходить (по)
-Expect - ожидать
-Where do we begin - с чего начнём
-I had not eaten since Tuesday - я не ел со вторника
-He wants to respond to her - он хочет ответить ей
-She doesn't affect me - она не влияет на меня
 Threat - угроза
 Completely - полностью (согласен)
 Make a plan - составить план
 Work hard - усердно работать
 He is away - он отсутствует (уехал далеко)
-Thick - толстый (книга)
-Athlete - атлет
-Acquaintance - знакомый
-Wedding - свадьба
-Score a goal - забивать гол
-Responsibility - обязанность, ответственность
-Desire - желание
-Relations - отношения
-Increase - увеличить
-There was a great lack of rice that year - В том году было большое нехватка риса
 Get started - начинай
 Island - остров
 start - начинать (S)
@@ -1618,17 +1522,12 @@ half - половина
 nothing - ничто
 Trip - поездка
 jump - прыгать
-Below average - ниже среднего
-She had not earned anything - она ничего не заработала
 focused - сосредоточенный
-I'm ready for the consequences - Я готов к последствиям
-Crop - урожай
 Take a break - сделать перерыв
 Stay focused - оставаться сосредоточенным
 random - случайный
 fight - драться
 then - тогда
-nice - приятный
 Follow your dreams - следовать своим мечтам
 wash - мыть
 catch up - догонять(два слова)
@@ -1642,12 +1541,6 @@ he - он
 In general - в основном
 insurance - страхование
 below - ниже
-Shy - застенчивый
-Used - привык
-Vacation - отпуск (V)
-Volcano - вулкан
-Woods - лес
-Call of - отменить
 explore - исследовать
 curious - любопытный
 Keep it simple - держать все простым
@@ -1662,23 +1555,18 @@ crazy - безумный
 somebody - кто нибудь
 dear - дорогой, уважаемый
 at - в, на
-mouth - рот
 Celebrate success - праздновать успехи
-Generous - щедрый
-Leaf - листочек
 Accept failure - принимать неудачи
 so - так
 yes/yeah - да
 girlfriend - девушка (его)
 dark - тёмный
 king - король
-already - уже
 egg - яйцо
 show - показывать
 why - почему
 Divorced - разведен
 Stupid - глупый S
-screen - экран
 clean the house - убирать дом
 elephant - слон
 come - приходить
@@ -1687,10 +1575,6 @@ third - третий
 tax rate - ставка налога
 early binding - Ранняя оценка
 average - средний
-Absolutely - совершенно
-Be proud of - гордиться за
-Nature - природа
-Rock - камень
 ground - земля
 indentation - отступы
 Solution to - решение __
@@ -1711,12 +1595,6 @@ For years - годами
 dirty - грязный
 ring - кольцо
 Ask for - просит _
-Exactly - точно! , конкретнее
-Accustomed to - привык к
-Exception - исключение
-Proud of - гордится за
-Sun - солнце
-Effort - усилие
 Keep practicing - продолжать тренироваться
 Sleep on it - обдумать еще раз
 calm down - успокоиться
@@ -1728,11 +1606,6 @@ page - страница
 year - год
 nobody - никто
 price - цена
-Used to - привык к
-Faith - вера
-Flute - флейта
-For instance - например (сыр)
-Violin - скрипка
 Threshold - порог
 Be patient - быть терпеливым
 brush your teeth - чистить зубы
@@ -1742,24 +1615,9 @@ at the end of the meeting - в конце встречи
 anything - что угодно
 dream - мечтать
 commit - коммит
-ready - готовый
 think - думать
 cup - чашка
 Busy - занят
-Cloud - облако
-Fashion - мода
-Literature - литература
-paint - рисовать
-Actress - актриса
-Were you in trouble - ты был в беде?
-On the right way - на правильном пути
-Likely - вероятно
-Ahead - впереди
-Unpredictable - непредсказуемо
-Thought - мысль
-Loyal - лояльный
-How long time ago was it - как давно это было
-Team - команда
 bathroom - ванная
 give - давать
 Separately - раздельно
@@ -1776,24 +1634,12 @@ than - чем, кроме, как
 Interested in - заинтересован в
 Be yourself - быть самим собой
 get dressed - одеваться
-Thoughtful - задумчивый
-Field - поле
-Fear - страх
-Unlike - в отличие от (маловероятно)
-Were they under arrest - они были под арестом?
-Band - группа
-Theater - театр
-Lonely - одинокий
 Only once in a year - только раз в год?
 peace - мир
 forward - вперёд
 Stay organized - оставаться организованным
-Former - бывший
-Accustomed - привык
 far - далёкий
 plate - тарелка
-Feel like - хочу
-Earth - земля
 Give it a try - попробовать
 September - сентябрь
 help - помогать
@@ -1818,16 +1664,10 @@ authentication - аутентификация
 yield - возвращать последовательность
 pass by reference - передача по ссылке
 Front of - перед (чем то)
-Predict - предсказывать
-This is a total failure - это полный провал
-Painting - картина
-Audience - публика
-Conclusion - вывод
 Practice makes perfect - практика делает совершенным
 Keep an open mind - оставаться открытым к новому
 regression test - регрессионное тестирование
 admit - признавать
-Confident - уверен
 Because of - из-за (твоей собаки)
 Trust your instincts - доверять своей интуиции
 Every human - каждый человек
@@ -1840,7 +1680,6 @@ bread - хлеб
 integration test - интеграционное тестирование
 cook dinner - готовить ужин
 profiler - профилировщик
-better - лучше
 Another apple - еще одно яблоко
 Set a goal - поставить цель
 In front - Спереди
@@ -1850,7 +1689,6 @@ Go to bed - ложиться спать
 gloomy - пасмурный
 do the laundry - стирать белье
 Stay curious - Оставайтесь любопытными
-Poetry - поэзия
 Take your time - не торопись
 Opinion - мнение
 itself - само
@@ -1869,8 +1707,6 @@ Rightly - правильно (r)
 mom - мама
 Hurry up - торопиться
 testing - тестирование
-response - ответ
-Suspicious - подозрительно
 Live in the moment - жить в настоящем моменте
 table - стол
 Smile at - улыбается над
@@ -1894,7 +1730,6 @@ net - сеть
 snake_case - стиль написания snake_case
 over - над
 pass by value - передача по значению
-Went on - продолжать
 On Tuesday - во вторник
 constructor - конструктор
 No Biggie - не страшно
@@ -1915,11 +1750,6 @@ time - время
 button - кнопка
 kiss - целовать
 blood - кровь
-Unlikely - маловероятно
-upset - расстроенный (U)
-Network - сеть
-Press - пресса
-Sensation - сенсация
 session - сессия
 walk - идти пешком
 most - наиболее
@@ -1928,16 +1758,215 @@ private - приватный
 take a bath - принимать ванну
 fruit - фрукт
 Depend on - зависит от
-sweet - сладкий
 patient - терпеливый, пациент
 platform - платформа
 Admit your mistakes - признавать свои ошибки
 wing - крыло
 Believe in yourself - верить в себя
-Search - поиск
 Wednesday - среда
 death - смерть
 Each other - друг друга
 lose - проигрывать
 next - следующий
 black - чёрный
+wild - дикий
+keep in touch - оставаться на связи
+Move on - идти дальше
+implementation - реализация
+Holy crap - чёрт возьми
+beautiful - красивый
+interpreter - интерпретатор
+always the same - всегда одно и тоже
+clean - чистый
+Help others - помогать другим
+get undressed - раздеваться
+garbage collection - сборка мусора
+queue - очередь
+Explore the world - исследовать мир
+air - воздух
+Department - отдел
+face - лицо
+win - побеждать
+Behaviour - поведение
+mirror - зеркало
+in - в
+Elder - старше
+documentation - документация
+and - и
+Care - забота
+hair - волосы
+foot - нога
+Virus - вирус
+Diet - диета
+Vision - зрение
+Mouth - рот
+All ears - Во все уши
+First sight - первый взгляд
+Teeth - зубы
+IDE - интегрированная среда разработки
+order food - заказывать еду
+parameter - параметр
+do the dishes - мыть посуду
+Able - способный, здібний
+Absolutely - совершенно
+Accustomed - привык
+Accustomed to - привык к
+Achievement - достижение
+Act - поступок
+Affect - влиять, действовать
+After - позже
+Ahead - впереди
+Already - уже
+Another country - другая страна
+Apply - применить, подать заявку, занести
+At last - наконец
+At least - во всяком случае
+Athlete - атлет
+Avoid - уникати
+Bad - плохой
+Band - группа
+Beat - бить, победить
+Before - раньше
+Below average - ниже среднего
+Benefit - выгода, польза
+Better - лучше
+Bigger - больше (размер)
+Born - родиться
+Build - строить
+Cancel - отменить
+Captain - капитан
+Character - характер
+Cheaper - дешевле
+Circle - круг
+Classmate - одноклассник
+Cleaner - чище (чистота)
+Clear - чистый, прозрачный
+Cloud - облако
+Composition - сочинение
+Confident - уверен
+Construction - стройка
+Conversation - разговор
+Crop - урожай
+Damage - повреждение
+Deep - глубоко
+Deserve - заслуживать
+Devote - уделять
+Dust - пыль
+Effort - усилие
+Efforts - усилия
+Enthusiasm - энтузиазм
+Entrance - вход
+Establish - основывать, установить
+Exactly - точно! , конкретнее
+Exist - существовать
+Exit - выход
+Faith - вера
+Fault - вина
+Fear - страх
+Field - поле
+Finish - закончить
+Fire - огонь
+Flute - флейта
+For instance - например (сыр)
+forest - лес
+Gas - газ
+Gasoline - бензин
+Good - хорошо
+Great - большая (британия), чудова
+Half an hour - полчаса
+Heat - жара
+Honor - честь
+Hospitable - гостеприимство
+Humor - юмор
+I have nothing to do with this matter - я не имею отношения к этому делу
+I'm not in shape - я не в форме
+Impress - впечатлять
+In the fall - осенью
+Increase - усилить, увеличить
+Inside - внутри
+Instance - случай, пример
+Land - земля, родина, хз
+Landscape - ландшафт
+Later - позже
+Listen - слушать
+Literature - литература
+Long - длинный
+Loyal - лояльный
+Meet - знакомиться, встречать
+More or less - более менее
+Mountain - гора
+Murder - убийство
+Network - сеть
+Older - старше (возраст)
+On the right way - на правильном пути
+One chapter has turned into a book - один раздел превратился в книгу
+One point - одно очко
+Origin - происхождение
+Other countries - другие страны
+Outside - снаружи
+Painting - картина
+Part - часть
+Path - путь
+Permit - разрешение, пропуск
+Pleasure - удовольствие
+Poetry - поэзия
+Position - должность
+Press - пресса
+Prettier - красивее
+Prevent - запобігти
+Production - производство
+Proud of - гордится за
+Ready - готов
+Reality - реальность
+Reduce - уменьшить
+Regret - сожалеть
+Risky - рискованно
+Score a goal - забивать гол
+Screen - экран
+Search - поиск
+Sensation - сенсация
+Service - услуга
+Shape - форма (состояние)
+Short - низкий
+Smoke - дым
+Soil - земля
+Stamp - марка
+Suit - подходить (по)
+Sure - уверен
+Surname - фамилия
+Suspicious - подозрительно
+Symbol - символ
+Take - брать
+Talk - разговаривать
+Theater - театр
+Thick - толстый (книга)
+Thought - мысль
+Thoughtful - задумчивый
+Total - полный, суммарный
+Used - привык
+Used to - привык к
+Violin - скрипка
+Weak - слабый
+Wood - дерево, древесина, лес
+Woods - лес
+Writing - письмо
+Younger - младше (возраст)
+bitterly - горько
+upset - расстроенный (U)
+using - испольЗУЯ
+Country house - загородный дом
+Masterpiece - шедевр
+Courageously - отважно
+Stylish - стильная
+Subject - предмет
+Pie - пирог
+Drink drank drunk - пить
+River - река
+Sea - море
+Ocean - океан
+With whom - с кем
+Leg - нога
+He drowned - он утонул
+Drown - тонуть (человек)
+Employee - сотрудник
+For no reason - без причины

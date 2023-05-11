@@ -12,6 +12,7 @@ import (
 func (s *Slovarick) WorkTest() (LearnSlice *Slovarick) {
 
 	K := s.CreateAndInitMapWords()
+	LearnSlice = NewSlovarick(nil)
 
 	// Scan quantity words for test
 	fmt.Println("Количество слов для теста")
@@ -35,7 +36,6 @@ func (s *Slovarick) WorkTest() (LearnSlice *Slovarick) {
 		if y > 0 {
 			yes++
 			v.RightAswer += 1
-
 			s.AppendWord(v)
 		} else if n > 0 {
 			not++

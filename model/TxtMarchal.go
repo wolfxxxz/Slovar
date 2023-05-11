@@ -127,7 +127,6 @@ func (s *Slovarick) TakeTXT(filetxt string) {
 			}
 		}
 		id := 0
-
 		a := NewLibrary(id, SliceThreeString[0], SliceThreeString[1], SliceThreeString[2])
 		s.Words = append(s.Words, a)
 	}
@@ -143,7 +142,7 @@ func (s *Slovarick) TakeTXT(filetxt string) {
 func (oldWords *Slovarick) UpdateLibrary(filetxt string) {
 	var NewWords Slovarick
 	NewWords.TakeTXT(filetxt)
-	fmt.Println(NewWords.Words[0])
+
 	c := len(oldWords.Words)
 	//--------Соединяем два среза в один--------------
 	oldWords.Words = append(NewWords.Words, oldWords.Words...)
