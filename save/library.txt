@@ -1,250 +1,237 @@
-Sick - больной
-Take care - заботиться
-Emergency - Чрезвычайная ситуация
-Treatment - лечение, уход
-Cancer - рак
-Ambulance - скорая помощь
-Drug - лекарства, наркотики
-Skin - кожа
-Pain - боль
-Feet - ноги
-Neck - шея
-brain - мозг
-Tongue - язык
-Ear - ухо
-Ears - уши, слушать
-Chest - грудь
-Sight - зрение, взгляд
-code review - кодовый обзор
-merge - слияние
-surf the internet - серфить в интернете
-put on clothes - надевать одежду
-Stay true to yourself - оставаться верным себе
-middleware - промежуточное ПО
-inheritance - наследование
-whitespace - пробельные символы
-Take responsibility - нести ответственность
-take a nap - вздремнуть
-Work towards your goal - работать на достижение цели
-Cherish your loved ones - дорожить близкими
-encapsulation - инкапсуляция
-Candle - свеча
-Tears - слёзы
-Terrible - ужасно
-Rose by - выросла на (цена)
-ship - корабль
-Jacket - куртка, пиджак
-Hook - крюк
 belt - ремень
-I like better - нравится больше
-Hole - яма
-Woke up - проснуться
-Jewelry - украшения
-Injury - сильно задеть
-Pond - пруд
-It stopped working properly - это сломалось
-Notificat - уведомлять
-Specious - просторная
-I lay down - я лёг
-Teach me a lesson - он преподал мне урок
-School uniform - школьная форма
-Fashionable - модная
-Throw away - выбросить
-Throw at me - бросил в меня
-Throw to me - бросил мне
-Complaint - жалоба
-Customer - покупатель
-Courage - отвага
-Break down - сломаться
-Promise - обещание
-Arm - рука
-Notification - уведомление
-Discount - скидка
-Sell for - продать за
-By heart - наизусть
-work for - Работать на
-stand up - встать
-sit down - присесть
-set up a company - основать компанию
-quietly - тихо
-put off - откладывать (на потом)
-postpone - откладывать (на потом)
-outstanding - выдающийся
-i mean to do it - я хочу сделать это
-i leave for - я уехал в
-i heard it on tv - я услышал это по телевизору
-i heard it in the news - я услышал это в новостях
-i cut myself - я порезался
-hear it for the first time - слышу это первый раз
-had a good time together - провели хорошо время вместе
-give up smoking - бросить курить
-find out - выяснить, обнаружить
-favor - одолжение
-differently - по другому (иначе)
-ago - назад (час назад)
-While - пока (до тех пор)
-Where do we begin - с чего начнём
-What made him change his mind - что заставило его изменить свое мнение
-What he had written was true - что он написал было правдой
-Were you in trouble - ты был в беде?
-Were they under arrest - они были под арестом?
-Went on - продолжать
-Wedding - свадьба
-Wake - будить, поднимать с кровати
-Volcano - вулкан
-View - вид
-Vacation - отпуск (V)
-Unpredictable - непредсказуемо
-Unlikely - маловероятно
-Unlike - маловероятно
-Universe - вселенная
-Univers - вселенная
-Twice - дважды
-truth - правда
-Trend - тенденция
-Transform - превратиться
-Track - путь
-Title - название
-Thrilling - захватывающий
-Though - хотя, однако, несмотря на, даже, всё таки
-This problem has nothing to do with you - эта проблема не имеет к тебе отношения
-This is a total failure - это полный провал
-Thin - тонкий (книга)
-There was no damage - не было никакого повреждения
-There was a great lack of rice that year - В том году было большое нехватка риса
-The teacher had given me the answer - учитель дал мне ответ
-The side of the road - узбіччя дороги
-The amount - количество (E)
-Team - команда
-Sweet - сладкий
-Sun - солнце
-Suffer - страдать
-Strength - сильная сторона, сила
-Statement - утверждение
-Split split split - расставаться
-Someone had opened the window - Кто
-Smaller - меньше (размер)
-Since - поскольку, с
-Signature - подпись
-Shy - застенчивый
-She had not earned anything - она ничего не заработала
-She doesn't affect me - она не влияет на меня
-Sharp - острый
-Shadow - тень
-Score - набирать (очки)
-Sand - песок
-Roof - крыша
-Rock - камень
-Responsibility - ответственность
-Response - ответ
-Religion - религия
-Relations - отношения
-Relation - связь, отношения
-Recover - восстанавливать
-Reach - достиг, достигнуть, тянутся
-Protection - защита
-Produce - производить
-Previously - раньше
-Previous - предыдущий
-Pretty - довольно, красиво
-Pregnant - беременна
-Predict - предсказывать
-Postcard - открытка
-Possibility - возможность
-Plant - растение
-Pit - яма
-Piece - кусок
-Permission - разрешение
-Performance - выступление
-Pay attention - обращать внимание
-Paint - краска
-Over time everything changes - со временем всё меняется
-Other side - другая сторона
-Nice - красивый, хороший
-Nature - природа
-Most of all - больше всего
-Met - знаком
-Lonely - одинокий
-Load - груз
-Living room - прихожая комната
-Likely - вероятно
-Led - управлять
-Leaf - лист
-Large - большой
-Lack - нехватка, недостаток
-Joy - радость
-Joi - радость
-It's very kind of you - это очень приятно с твоей стороны
-Is there a way to prevent it - Есть ли способ предотвратить это?
-Invite - приглашать
-Interest - процент
-Intention - намерение
-Intend - намереваться
-Instead of - вместо (него)
-In trouble - в беде
-In any case I like it here - во всяком случае мне нравится тут
-Immediately - сразу
-I'm ready for the consequences - Я готов к последствиям
-I thought you had found the suitcase - Я думал, что вы нашли чемодан
-I started to cover this subject - я начал освещать эту тему
-I had not eaten since Tuesday - я не ел со вторника
-I had not assumed anything - Я ничего не предполагал
-How long time ago was it - как давно это было
-How do they prepare this fish in France - Как готовят эту рыбу во Франции?
-How do i add images to my page - как мне добавить изображения на мою страницу
-He wants to respond to her - он хочет ответить ей
-Have a good flight - желаю хорошего полёта
-Has turned into - превратился
-Happy - счастлив
-Good shape - хорошая форма (спорт)
-Goal - цель
-Give up - бросать (курить)
-Getting old - старение
-Generous - щедрый
-Full of joy - полный радости
-From which direction - с какого направления
-Former - бывший
-Force - заставить
-Flutter - порхать
-Fell off into - упал с , на
-Fell - упал
-Feel like - хочу
-Fashion - мода
-Fair - ярмарок, справедливо, красавица, русый
-Failure - провал
-Expect - ожидать
-Existence - существование
-Exception - исключение
-Establish the order - установить порядок
-Efficient - эффективно
-Earth - земля
-Doubt - сомнение
-Disturb - мешать
-Direction - инструкция, направление
-Desire - желание
-Define - определять, давать характеристику
-Danger - опасность
-Cycling - кататься на велосипеде
-Currently - В настоящее время, теперь
-Cover - открывать, освещать
-Content - состав, зміст, наполнение
+Woke up - проснулся
+Injury - сильно задеть, Травма
+Сhange of clothes - сменная одежда
+Acquaintance - Знакомство, знакомый
 Consequence - последствие
-Confidence - уверенность
-Conclusion - вывод
-Climate - климат
-Choice - выбор
-Channel - канал
-Call of - отметить
-Boast - хвастаться
-Be proud of - гордиться за
-Audience - публика
-Attempt - спроба, попытка
-Assume - допустил, припустив
-Another opportunity - еще одна возможность
+Establish the order - установить порядок
+Existence - существование
+Has turned into - превратился в
+Likely - Вероятный
+Paint - краска
+Since - поскольку, с
+Statement - утверждение, Заявление
+Though - хотя, однако, несмотря на, даже, всё таки
+Thrilling - захватывающий
+Vacation - отпуск
+Where do we begin - с чего мы начнём
+i leave for - я уезжаю в
+postpone - откладывать (на потом)
+taught me a lesson - преподал мне урок
+Notify - уведомлять
+Terrible - ужасный
+Take responsibility - Возьмите на себя ответственность
+whitespace - пробелы
+inheritance - наследование
+middleware - промежуточное ПО
+Stay true to yourself - оставаться верным себе
+Sight - зрение, взгляд
+Chest - грудь
+Ears - уши, слушать
+Tongue - язык
+Neck - шея
+Feet - ноги
+Pain - боль
+Treatment - лечение, уход
+Emergency - Чрезвычайная ситуация
+Take care - заботиться
+Sick - больной
+Accustomed to - привык к
+Achievement - достижение
+Act - поступок
 Actress - актриса
-Acquaintance - знакомый
-Accept - принять
-A change of clothes - сменная одежда
+Affect - влиять, действовать
+After - позже
+Ahead - впереди
+Already - уже
+Another country - другая страна
+Another opportunity - еще одна возможность
+Apply - применить, подать заявку, занести
+Assume - допустил, припустив
+At last - наконец
+At least - во всяком случае
+Athlete - атлет
+Avoid - уникати
+Bad - плохой
+Band - группа
+Beat - бить, победить
+Before - раньше
+Below average - ниже среднего
+Benefit - выгода, польза
+Better - лучше
+Bigger - больше (размер)
+Born - родиться
+Build - строить
+Cancel - отменить
+Captain - капитан
+Character - характер
+Cheaper - дешевле
+Choice - выбор
+Circle - круг
+Classmate - одноклассник
+Cleaner - чище (чистота)
+Clear - чистый, прозрачный
+Cloud - облако
+Composition - сочинение
+Conclusion - вывод
+Confidence - уверенность
+Confident - уверен
+Construction - стройка
+Conversation - разговор
+Goal - цель
+Good - хорошо
+Good shape - хорошая форма (спорт)
+Great - большая (британия), чудова
+Half an hour - полчаса
+Happy - счастлив
+He wants to respond to her - он хочет ответить ей
+Heat - жара
+Honor - честь
+Hospitable - гостеприимство
+How do i add images to my page - как мне добавить изображения на мою страницу
+How do they prepare this fish in France - Как готовят эту рыбу во Франции?
+How long time ago was it - как давно это было
+Humor - юмор
+I had not assumed anything - Я ничего не предполагал
+Impress - впечатлять
+In any case I like it here - во всяком случае мне нравится тут
+In the fall - осенью
+Increase - усилить, увеличить
+Inside - внутри
+Instance - случай, пример
+Invite - приглашать
+Is there a way to prevent it - Есть ли способ предотвратить это?
+It's very kind of you - это очень приятно с твоей стороны
+Joi - радость
+Joy - радость
+Lack - нехватка, недостаток
+Land - земля, родина, хз
+Landscape - ландшафт
+Large - большой
+Later - позже
+Led - управлять
+Listen - слушать
+Literature - литература
+Lonely - одинокий
+Long - длинный
+Loyal - лояльный
+Meet - знакомиться, встречать
+More or less - более менее
+Mountain - гора
+Murder - убийство
+Nature - природа
+Network - сеть
+Nice - красивый, хороший
+Older - старше (возраст)
+On the right way - на правильном пути
+One chapter has turned into a book - один раздел превратился в книгу
+One point - одно очко
+Origin - происхождение
+Other countries - другие страны
+Other side - другая сторона
+Outside - снаружи
+Over time everything changes - со временем всё меняется
+Painting - картина
+Part - часть
+Path - путь
+Permit - разрешение, пропуск
+Piece - кусок
+Pleasure - удовольствие
+Poetry - поэзия
+Position - должность
+Postcard - открытка
+Pregnant - беременна
+Press - пресса
+Prettier - красивее
+Prevent - запобігти
+Previous - предыдущий
+Produce - производить
+Production - производство
+Proud of - гордится за
+Reach - достиг, достигнуть, тянутся
+Ready - готов
+Reality - реальность
+Reduce - уменьшить
+Regret - сожалеть
+Religion - религия
+Response - ответ
+Risky - рискованно
+Sand - песок
+Score - набирать (очки)
+Score a goal - забивать гол
+Screen - экран
+Search - поиск
+Sensation - сенсация
+Service - услуга
+Shadow - тень
+Shape - форма (состояние)
+Sharp - острый
+She doesn't affect me - она не влияет на меня
+She had not earned anything - она ничего не заработала
+Short - низкий
+Shy - застенчивый
+Smoke - дым
+Soil - земля
+Someone had opened the window - Кто
+Split split split - расставаться
+Stamp - марка
+Strength - сильная сторона, сила
+Sun - солнце
+Sure - уверен
+Surname - фамилия
+Suspicious - подозрительно
+Sweet - сладкий
+Symbol - символ
+Take - брать
+Talk - разговаривать
+Universe - вселенная
+Unlike - маловероятно
+Used - привык
+Used to - привык к
+View - вид
+Violin - скрипка
+Volcano - вулкан
+Weak - слабый
+Went on - продолжать
+What he had written was true - что он написал было правдой
+What made him change his mind - что заставило его изменить свое мнение
+While - пока (до тех пор)
+Wood - дерево, древесина, лес
+Woods - лес
+Writing - письмо
+Younger - младше (возраст)
+ago - назад (час назад)
+bitterly - горько
+favor - одолжение
+find out - выяснить, обнаружить
+give up smoking - бросить курить
+had a good time together - провели хорошо время вместе
+hear it for the first time - слышу это первый раз
+i cut myself - я порезался
+i heard it on tv - я услышал это по телевизору
+outstanding - выдающийся
+By heart - наизусть
+Pie - пирог
+Drink drank drunk - пить
+River - река
+Pond - пруд
+Sea - море
+Ocean - океан
+Hole - яма
+With whom - с кем
+Employee - сотрудник
+For no reason - без причины
+Tears - слёзы
+Candle - свеча
+encapsulation - инкапсуляция
+Cherish your loved ones - дорожить близкими
+Work towards your goal - работать на достижение цели
+put on clothes - надевать одежду
+surf the internet - серфить в интернете
+merge - слияние
+code review - кодовый обзор
+Skin - кожа
+Cancer - рак
 Simplicity - простота
 Stay humble - оставаться скромным
 heart - сердце
@@ -355,6 +342,74 @@ live - жить
 Fluently - свободно
 Friday - пятница
 Competition - соревнование
+Crop - урожай
+Cycling - кататься на велосипеде
+Damage - повреждение
+Danger - опасность
+Deep - глубоко
+Devote - уделять
+Direction - инструкция, направление
+Disturb - мешать
+Dust - пыль
+Earth - земля
+Effort - усилие
+Efforts - усилия
+Enthusiasm - энтузиазм
+Entrance - вход
+Exist - существовать
+Exit - выход
+Failure - провал
+Fair - ярмарок, справедливо, красавица, русый
+Faith - вера
+Fashion - мода
+Fell - упал
+Field - поле
+Finish - закончить
+Fire - огонь
+Flute - флейта
+For instance - например (сыр)
+Force - заставить
+From which direction - с какого направления
+Gas - газ
+Gasoline - бензин
+Generous - щедрый
+I had not eaten since Tuesday - я не ел со вторника
+I have nothing to do with this matter - я не имею отношения к этому делу
+I started to cover this subject - я начал освещать эту тему
+I thought you had found the suitcase - Я думал, что вы нашли чемодан
+I'm not in shape - я не в форме
+I'm ready for the consequences - Я готов к последствиям
+Suit - подходить (по)
+The teacher had given me the answer - учитель дал мне ответ
+Theater - театр
+There was a great lack of rice that year - В том году было большое нехватка риса
+Thick - толстый (книга)
+This problem has nothing to do with you - эта проблема не имеет к тебе отношения
+Thought - мысль
+Thoughtful - задумчивый
+Total - полный, суммарный
+Trend - тенденция
+Twice - дважды
+stand up - встать
+using - испольЗУЯ
+work for - Работать на
+Country house - загородный дом
+Arm - рука
+Promise - обещание
+Masterpiece - шедевр
+Courage - отвага
+Courageously - отважно
+Throw to me - бросил мне
+Throw at me - бросил в меня
+Stylish - стильная
+Subject - предмет
+I lay down - я лёг
+Leg - нога
+Hook - крюк
+Jacket - куртка, пиджак
+ship - корабль
+He drowned - он утонул
+Drown - тонуть (человек)
 Age - возраст
 quantity - количество
 fake - поддельный
@@ -1352,156 +1407,6 @@ Lady - пані
 Library - библиотека
 Native speaker - носитель языка
 father - отец
-Tear tore torn - рвать
-Perform - исполнять (выступать)
-know knew known - знать
-Following - следующие (ошибки)
-Choose chose chosen - выбирать
-have had had - иметь
-Deliver - доставлять
-Rarely - редко
-She washed herself - она покупалась
-nine - 9
-Issue - проблема
-Deserved - заслужила
-Crime - преступление
-Dig dug dug - рыть
-Ride rode ridden - водить, ехать
-Withdraw withdrew withdrawn - снять деньги
-Take took taken - брать
-Come came come - вернуть (irregular verbs)
-Make made made - делать
-be was were been - быть
-To our surprise - к нашему удивлению
-cost cost cost - стоить
-Overpay overpaid overpaid - переплатить
-Send sent sent - отправлять
-Overcome overcame overcome - преодолеть
-mean meant meant - иметь в виду (означать)
-Catch caught caught - ловить
-Sound - звучать
-Sing sang sung - петь
-Become became become - стал
-Imagine - воображать
-Lie lied lied - Врать (не путать с лежать)
-Can could - могу, умею
-Forget forgot forgotten - забывать
-Park there - парковаться там
-Midnight - полночь
-Drive drove driven - ехать
-bring brought brought - принести
-Unique - уникальная
-Rise rose risen - вставать, подъем (сонце)
-Shoot shot shot - стрелять
-Grow grew grown - расти, выращивать
-Happened to - произошло с
-Overeat overate overeaten - переедать
-Continue - продолжать
-See saw seen - видеть
-He washed himself - он покупался
-let let let - позволить
-Cross - пересекать (улицу)
-Had a rest - отдыхал
-Attention - внимание
-Throw threw thrown - бросать
-Feed fed fed - кормить
-Write wrote written - писать
-Discover - открыть (Америку)
-Saint - святой
-Speak spoke spoken - разговаривать (говорить)
-I washed myself - я покупался
-Accident - происшествие
-Confirm - подтвердить
-Have a rest - отдыхать
-victory - победа
-run ran run - бежать
-Tell told told - говорить кому то
-get got got - получать
-Tend - тенденция
-Fight fought fought - сражаться
-Smell smelt smelt - пахнуть
-Do did done - делать
-Sink sank sunk - тонуть
-Last for - длится _
-Forgive forgave forgiven - прощать
-Allow allowed allowed - разрешить (A)
-Accuse of - обвинять в
-Singer - певец
-Beauty - красота
-if - если
-Sell sold sold - продать
-Buy bought bought - покупать
-Example - пример
-Task - задача
-Break broke broken - ломать
-Catch - поймать
-break - ломать, перерыв
-Turn - поворачивать
-try - пробовать
-Hear heard heard - слышать
-Redo redid redone - переделать
-Burn burnt burnt - гореть
-Spoil spoilt spoilt - портить
-Lie lay lain - лежать
-Thief - вор
-begin began begun - начинать
-Eat ate eaten - есть, кушать
-Find found found - найти
-Wake woke waken - просыпаться
-Foresee foresaw foreseen - предвидеть
-Fit fit fit - подходит (идёт)
-Hurt hurt hurt - обижать, задеть, слегка повредить
-Feel felt felt - чувствовать
-Hold held held - держать в руках
-Dream dreamt dreamt - мечтать
-Understand understood understood - понимать
-show showed shown - показывать
-Keep kept kept - хранить
-Steal stole stolen - украсть
-Several - несколько
-Oversleep overslept overslept - проспать
-Swim swam swum - плавать
-Lend lent lent - одолжить (кому то)
-Ring rang rung - звонить
-Hit hit hit - ударить
-Wear wore worn - носить (одежду)
-Think thought thought - думать
-Say said said - сказал
-Draw drew drawn - рисовать
-Fly flew flown - летать
-constant - постоянный, постоянная величина
-else - ещё, иначе, кроме
-Behave very badly - вести себя очень плохо
-Cousin - двоюродный брат
-Cut cut cut - резать
-Lay laid laid - ложить
-Deal dealt dealt - иметь дело
-Underpay underpaid underpaid - недоплачивать
-Pack - упаковать
-Blow blew blown - дуть
-Death died die - умер
-Give gave given - дать
-Parcel - посылка
-Negative - отрицательная
-Knock at - стучать в
-Teach taught taught - преподавать
-Sleep slept slept - спать
-Misunderstand misunderstood misunderstood - неправильно понять
-Go went gone - идти
-Spend spent spent - тратить
-Light lit lit - зажечь
-put put put - положить
-Leave Left Left - оставил, покинул
-Pay paid paid - платить
-Win won won - выигрывать
-learn learnt learnt - учить (учится)
-sit sat sat - сидеть
-Lose lost lost - терять
-Fall fell fallen - упал
-set set set - установить
-read read read - читать
-stand stood stood - встать (он встал)
-meet met met - встречать
 Serves - подавать (девушка подаёт воду)
 Watch your mouth - следи за словами
 Threat - угроза
@@ -1794,8 +1699,6 @@ Elder - старше
 documentation - документация
 and - и
 Care - забота
-hair - волосы
-foot - нога
 Virus - вирус
 Diet - диета
 Vision - зрение
@@ -1807,166 +1710,263 @@ IDE - интегрированная среда разработки
 order food - заказывать еду
 parameter - параметр
 do the dishes - мыть посуду
-Able - способный, здібний
-Absolutely - совершенно
-Accustomed - привык
-Accustomed to - привык к
-Achievement - достижение
-Act - поступок
-Affect - влиять, действовать
-After - позже
-Ahead - впереди
-Already - уже
-Another country - другая страна
-Apply - применить, подать заявку, занести
-At last - наконец
-At least - во всяком случае
-Athlete - атлет
-Avoid - уникати
-Bad - плохой
-Band - группа
-Beat - бить, победить
-Before - раньше
-Below average - ниже среднего
-Benefit - выгода, польза
-Better - лучше
-Bigger - больше (размер)
-Born - родиться
-Build - строить
-Cancel - отменить
-Captain - капитан
-Character - характер
-Cheaper - дешевле
-Circle - круг
-Classmate - одноклассник
-Cleaner - чище (чистота)
-Clear - чистый, прозрачный
-Cloud - облако
-Composition - сочинение
-Confident - уверен
-Construction - стройка
-Conversation - разговор
-Crop - урожай
-Damage - повреждение
-Deep - глубоко
+Cover - открывать, освещать
 Deserve - заслуживать
-Devote - уделять
-Dust - пыль
-Effort - усилие
-Efforts - усилия
-Enthusiasm - энтузиазм
-Entrance - вход
-Establish - основывать, установить
 Exactly - точно! , конкретнее
-Exist - существовать
-Exit - выход
-Faith - вера
-Fault - вина
+Exception - исключение
+Expect - ожидать
 Fear - страх
-Field - поле
-Finish - закончить
-Fire - огонь
-Flute - флейта
-For instance - например (сыр)
 forest - лес
-Gas - газ
-Gasoline - бензин
-Good - хорошо
-Great - большая (британия), чудова
-Half an hour - полчаса
-Heat - жара
-Honor - честь
-Hospitable - гостеприимство
-Humor - юмор
-I have nothing to do with this matter - я не имею отношения к этому делу
-I'm not in shape - я не в форме
-Impress - впечатлять
-In the fall - осенью
-Increase - усилить, увеличить
-Inside - внутри
-Instance - случай, пример
-Land - земля, родина, хз
-Landscape - ландшафт
-Later - позже
-Listen - слушать
-Literature - литература
-Long - длинный
-Loyal - лояльный
-Meet - знакомиться, встречать
-More or less - более менее
-Mountain - гора
-Murder - убийство
-Network - сеть
-Older - старше (возраст)
-On the right way - на правильном пути
-One chapter has turned into a book - один раздел превратился в книгу
-One point - одно очко
-Origin - происхождение
-Other countries - другие страны
-Outside - снаружи
-Painting - картина
-Part - часть
-Path - путь
-Permit - разрешение, пропуск
-Pleasure - удовольствие
-Poetry - поэзия
-Position - должность
-Press - пресса
-Prettier - красивее
-Prevent - запобігти
-Production - производство
-Proud of - гордится за
-Ready - готов
-Reality - реальность
-Reduce - уменьшить
-Regret - сожалеть
-Risky - рискованно
-Score a goal - забивать гол
-Screen - экран
-Search - поиск
-Sensation - сенсация
-Service - услуга
-Shape - форма (состояние)
-Short - низкий
-Smoke - дым
-Soil - земля
-Stamp - марка
-Suit - подходить (по)
-Sure - уверен
-Surname - фамилия
-Suspicious - подозрительно
-Symbol - символ
-Take - брать
-Talk - разговаривать
-Theater - театр
-Thick - толстый (книга)
-Thought - мысль
-Thoughtful - задумчивый
-Total - полный, суммарный
-Used - привык
-Used to - привык к
-Violin - скрипка
-Weak - слабый
-Wood - дерево, древесина, лес
-Woods - лес
-Writing - письмо
-Younger - младше (возраст)
-bitterly - горько
+Univers - вселенная
+set up a company - основать компанию
+sit down - присесть
 upset - расстроенный (U)
-using - испольЗУЯ
-Country house - загородный дом
-Masterpiece - шедевр
-Courageously - отважно
-Stylish - стильная
-Subject - предмет
-Pie - пирог
-Drink drank drunk - пить
-River - река
-Sea - море
-Ocean - океан
-With whom - с кем
-Leg - нога
-He drowned - он утонул
-Drown - тонуть (человек)
-Employee - сотрудник
-For no reason - без причины
+Notification - уведомление
+Tear tore torn - рвать
+Perform - исполнять (выступать)
+know knew known - знать
+Following - следующие (ошибки)
+Choose chose chosen - выбирать
+have had had - иметь
+Deliver - доставлять
+Rarely - редко
+She washed herself - она покупалась
+nine - 9
+Issue - проблема
+Deserved - заслужила
+Crime - преступление
+Dig dug dug - рыть
+Ride rode ridden - водить, ехать
+Withdraw withdrew withdrawn - снять деньги
+Take took taken - брать
+Come came come - вернуть (irregular verbs)
+Make made made - делать
+be was were been - быть
+To our surprise - к нашему удивлению
+cost cost cost - стоить
+Overpay overpaid overpaid - переплатить
+Send sent sent - отправлять
+Overcome overcame overcome - преодолеть
+mean meant meant - иметь в виду (означать)
+Catch caught caught - ловить
+Sound - звучать
+Sing sang sung - петь
+Become became become - стал
+Imagine - воображать
+Lie lied lied - Врать (не путать с лежать)
+Can could - могу, умею
+Forget forgot forgotten - забывать
+Park there - парковаться там
+Midnight - полночь
+Drive drove driven - ехать
+bring brought brought - принести
+Unique - уникальная
+Rise rose risen - вставать, подъем (сонце)
+Shoot shot shot - стрелять
+Grow grew grown - расти, выращивать
+Happened to - произошло с
+Overeat overate overeaten - переедать
+Continue - продолжать
+See saw seen - видеть
+He washed himself - он покупался
+let let let - позволить
+Cross - пересекать (улицу)
+Had a rest - отдыхал
+Attention - внимание
+Throw threw thrown - бросать
+Feed fed fed - кормить
+Write wrote written - писать
+Discover - открыть (Америку)
+Saint - святой
+Speak spoke spoken - разговаривать (говорить)
+I washed myself - я покупался
+Accident - происшествие
+Confirm - подтвердить
+Have a rest - отдыхать
+victory - победа
+run ran run - бежать
+Tell told told - говорить кому то
+get got got - получать
+Tend - тенденция
+Fight fought fought - сражаться
+Smell smelt smelt - пахнуть
+Do did done - делать
+Sink sank sunk - тонуть
+Last for - длится _
+Forgive forgave forgiven - прощать
+Allow allowed allowed - разрешить (A)
+Accuse of - обвинять в
+Singer - певец
+Beauty - красота
+if - если
+Sell sold sold - продать
+Buy bought bought - покупать
+Example - пример
+Task - задача
+Break broke broken - ломать
+Catch - поймать
+break - ломать, перерыв
+Turn - поворачивать
+try - пробовать
+Hear heard heard - слышать
+Redo redid redone - переделать
+Burn burnt burnt - гореть
+Spoil spoilt spoilt - портить
+Lie lay lain - лежать
+Thief - вор
+begin began begun - начинать
+Eat ate eaten - есть, кушать
+Find found found - найти
+Wake woke waken - просыпаться
+Foresee foresaw foreseen - предвидеть
+Fit fit fit - подходит (идёт)
+Hurt hurt hurt - обижать, задеть, слегка повредить
+Feel felt felt - чувствовать
+Hold held held - держать в руках
+Dream dreamt dreamt - мечтать
+Understand understood understood - понимать
+show showed shown - показывать
+Keep kept kept - хранить
+Steal stole stolen - украсть
+Several - несколько
+Oversleep overslept overslept - проспать
+Swim swam swum - плавать
+Lend lent lent - одолжить (кому то)
+Ring rang rung - звонить
+Hit hit hit - ударить
+Wear wore worn - носить (одежду)
+Think thought thought - думать
+Say said said - сказал
+Draw drew drawn - рисовать
+Fly flew flown - летать
+constant - постоянный, постоянная величина
+else - ещё, иначе, кроме
+Behave very badly - вести себя очень плохо
+Cousin - двоюродный брат
+Cut cut cut - резать
+Lay laid laid - ложить
+Deal dealt dealt - иметь дело
+Underpay underpaid underpaid - недоплачивать
+Pack - упаковать
+Blow blew blown - дуть
+Death died die - умер
+Give gave given - дать
+Parcel - посылка
+Negative - отрицательная
+Knock at - стучать в
+Teach taught taught - преподавать
+Sleep slept slept - спать
+Misunderstand misunderstood misunderstood - неправильно понять
+Go went gone - идти
+Spend spent spent - тратить
+Light lit lit - зажечь
+put put put - положить
+Leave Left Left - оставил, покинул
+hair - волосы
+foot - нога
+Establish - основывать, установить
+Fault - вина
+Pay paid paid - платить
+Win won won - выигрывать
+learn learnt learnt - учить (учится)
+sit sat sat - сидеть
+Lose lost lost - терять
+Fall fell fallen - упал
+set set set - установить
+read read read - читать
+stand stood stood - встать (он встал)
+meet met met - встречать
+Call of - отметить
+Climate - климат
+Define - определять, давать характеристику
+Full of joy - полный радости
+Have a good flight - желаю хорошего полёта
+Immediately - сразу
+In trouble - в беде
+Intention - намерение
+Load - груз
+Most of all - больше всего
+Possibility - возможность
+Pretty - довольно, красиво
+Protection - защита
+Recover - восстанавливать
+Relations - отношения
+Responsibility - ответственность
+Rock - камень
+Roof - крыша
+Smaller - меньше (размер)
+Thin - тонкий (книга)
+This is a total failure - это полный провал
+Title - название
+Track - путь
+i heard it in the news - я услышал это в новостях
+quietly - тихо
+Sell for - продать за
+Customer - покупатель
+Throw away - выбросить
+School uniform - школьная форма
+Rose by - выросла на (цена)
+Ear - ухо
+Drug - лекарства, наркотики
+Ambulance - скорая помощь
+brain - мозг
+take a nap - вздремнуть
+Jewelry - украшения
+put off - откладывать (на потом)
+i mean to do it - я хочу сделать это
+differently - по другому (иначе)
+Were you in trouble - ты был в беде?
+Were they under arrest - они были под арестом?
+Wedding - свадьба
+Wake - будить, поднимать с кровати
+Unlikely - маловероятно
+truth - правда
+The side of the road - узбіччя дороги
+Team - команда
+Signature - подпись
+Relation - связь, отношения
+Predict - предсказывать
+Pay attention - обращать внимание
+Met - знаком
+Living room - прихожая комната
+Leaf - лист
+Getting old - старение
+Flutter - порхать
+Feel like - хочу
+Content - состав, зміст, наполнение
+Channel - канал
+Accept - принять
+Absolutely - совершенно, Абсолютно
+Attempt - спроба, попытка
+Audience - Аудитория, публика
+Be proud of - гордиться за
+Boast - хвастаться
+Former - бывший
+Interest - процент, интерес
+Performance - выступление
+Permission - разрешение
+Pit - яма
+Plant - растение
+Suffer - страдать
+Transform - превратиться, трансформировать
+Discount - скидка
+Spacious - просторная
+Fashionable - модный
+Complaint - жалоба
+Break down - сломаться
+Unpredictable - непредсказуемый
+There was no damage - не было повреждения
+The amount - количество
+Previously - ранее, предварительно
+Intend - намереваться
+Instead of - вместо (него)
+Give up - бросать (курить)
+Fell off into - упал с , на
+Efficient - эффективный
+Doubt - сомнение
+Desire - желание
+Currently - В настоящее время, теперь
+Able - способный, умеющий
+Accustomed - Привыкший
+It stopped working properly - Оно перестало работать должным образом
+I like better - мне нравится больше
