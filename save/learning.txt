@@ -1,21 +1,25 @@
-belt                       - ремень
-Woke up                    - проснулся
-Injury                     - сильно задеть, Травма
-Сhange of clothes         - сменная одежда
-Acquaintance               - Знакомство, знакомый
+Pregnant                   - беременна
+Postcard                   - открытка
+Permit                     - разрешение, пропуск
+Path                       - путь
+Over time everything changes - со временем всё меняется
+Outside                    - снаружи
+It's very kind of you      - это очень приятно с твоей стороны
+Is there a way to prevent it - Есть ли способ предотвратить это?
+Instance                   - случай, пример
+I had not assumed anything - Я ничего не предполагал
 Consequence                - последствие
-Establish the order        - установить порядок
-Existence                  - существование
-Has turned into            - превратился в
-Likely                     - Вероятный
-Paint                      - краска
 Since                      - поскольку, с
 Statement                  - утверждение, Заявление
-Though                     - хотя, однако, несмотря на, даже, всё таки
-Thrilling                  - захватывающий
-Vacation                   - отпуск
-Where do we begin          - с чего мы начнём
-i leave for                - я уезжаю в
 postpone                   - откладывать (на потом)
 taught me a lesson         - преподал мне урок
-Notify                     - уведомлять
+Sight                      - зрение, взгляд
+Ears                       - уши, слушать
+Pain                       - боль
+Treatment                  - лечение, уход
+Take care                  - заботиться
+Sick                       - больной
+Accustomed to              - привык к
+Composition                - сочинение
+Confident                  - уверен
+Older                      - старше (возраст)

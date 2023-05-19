@@ -1,147 +1,28 @@
-belt - ремень
-Woke up - проснулся
-Injury - сильно задеть, Травма
-Сhange of clothes - сменная одежда
-Acquaintance - Знакомство, знакомый
+Pregnant - беременна
+Postcard - открытка
+Permit - разрешение, пропуск
+Path - путь
+Over time everything changes - со временем всё меняется
+Outside - снаружи
+It's very kind of you - это очень приятно с твоей стороны
+Is there a way to prevent it - Есть ли способ предотвратить это?
+Instance - случай, пример
+I had not assumed anything - Я ничего не предполагал
 Consequence - последствие
-Establish the order - установить порядок
-Existence - существование
-Has turned into - превратился в
-Likely - Вероятный
-Paint - краска
 Since - поскольку, с
 Statement - утверждение, Заявление
-Though - хотя, однако, несмотря на, даже, всё таки
-Thrilling - захватывающий
-Vacation - отпуск
-Where do we begin - с чего мы начнём
-i leave for - я уезжаю в
 postpone - откладывать (на потом)
 taught me a lesson - преподал мне урок
-Notify - уведомлять
-Terrible - ужасный
-Take responsibility - Возьмите на себя ответственность
-whitespace - пробелы
-inheritance - наследование
-middleware - промежуточное ПО
-Stay true to yourself - оставаться верным себе
 Sight - зрение, взгляд
-Chest - грудь
 Ears - уши, слушать
-Tongue - язык
-Neck - шея
-Feet - ноги
 Pain - боль
 Treatment - лечение, уход
-Emergency - Чрезвычайная ситуация
 Take care - заботиться
 Sick - больной
 Accustomed to - привык к
-Achievement - достижение
-Act - поступок
-Actress - актриса
-Affect - влиять, действовать
-After - позже
-Ahead - впереди
-Already - уже
-Another country - другая страна
-Another opportunity - еще одна возможность
-Apply - применить, подать заявку, занести
-Assume - допустил, припустив
-At last - наконец
-At least - во всяком случае
-Athlete - атлет
-Avoid - уникати
-Bad - плохой
-Band - группа
-Beat - бить, победить
-Before - раньше
-Below average - ниже среднего
-Benefit - выгода, польза
-Better - лучше
-Bigger - больше (размер)
-Born - родиться
-Build - строить
-Cancel - отменить
-Captain - капитан
-Character - характер
-Cheaper - дешевле
-Choice - выбор
-Circle - круг
-Classmate - одноклассник
-Cleaner - чище (чистота)
-Clear - чистый, прозрачный
-Cloud - облако
 Composition - сочинение
-Conclusion - вывод
-Confidence - уверенность
 Confident - уверен
-Construction - стройка
-Conversation - разговор
-Goal - цель
-Good - хорошо
-Good shape - хорошая форма (спорт)
-Great - большая (британия), чудова
-Half an hour - полчаса
-Happy - счастлив
-He wants to respond to her - он хочет ответить ей
-Heat - жара
-Honor - честь
-Hospitable - гостеприимство
-How do i add images to my page - как мне добавить изображения на мою страницу
-How do they prepare this fish in France - Как готовят эту рыбу во Франции?
-How long time ago was it - как давно это было
-Humor - юмор
-I had not assumed anything - Я ничего не предполагал
-Impress - впечатлять
-In any case I like it here - во всяком случае мне нравится тут
-In the fall - осенью
-Increase - усилить, увеличить
-Inside - внутри
-Instance - случай, пример
-Invite - приглашать
-Is there a way to prevent it - Есть ли способ предотвратить это?
-It's very kind of you - это очень приятно с твоей стороны
-Joi - радость
-Joy - радость
-Lack - нехватка, недостаток
-Land - земля, родина, хз
-Landscape - ландшафт
-Large - большой
-Later - позже
-Led - управлять
-Listen - слушать
-Literature - литература
-Lonely - одинокий
-Long - длинный
-Loyal - лояльный
-Meet - знакомиться, встречать
-More or less - более менее
-Mountain - гора
-Murder - убийство
-Nature - природа
-Network - сеть
-Nice - красивый, хороший
 Older - старше (возраст)
-On the right way - на правильном пути
-One chapter has turned into a book - один раздел превратился в книгу
-One point - одно очко
-Origin - происхождение
-Other countries - другие страны
-Other side - другая сторона
-Outside - снаружи
-Over time everything changes - со временем всё меняется
-Painting - картина
-Part - часть
-Path - путь
-Permit - разрешение, пропуск
-Piece - кусок
-Pleasure - удовольствие
-Poetry - поэзия
-Position - должность
-Postcard - открытка
-Pregnant - беременна
-Press - пресса
 Prettier - красивее
 Prevent - запобігти
 Previous - предыдущий
@@ -1970,3 +1851,121 @@ Able - способный, умеющий
 Accustomed - Привыкший
 It stopped working properly - Оно перестало работать должным образом
 I like better - мне нравится больше
+Woke up - проснулся
+Existence - существование
+Has turned into - превратился в
+Likely - Вероятный
+Paint - краска
+Though - хотя, однако, несмотря на, даже, всё таки
+Thrilling - захватывающий
+Vacation - отпуск
+middleware - промежуточное ПО
+Achievement - достижение
+Act - поступок
+Actress - актриса
+Affect - влиять, действовать
+Already - уже
+Another country - другая страна
+Another opportunity - еще одна возможность
+Apply - применить, подать заявку, занести
+Feet - ноги
+Neck - шея
+Terrible - ужасный
+Notify - уведомлять
+Establish the order - установить порядок
+At last - наконец
+Athlete - атлет
+Avoid - уникати
+Bad - плохой
+Band - группа
+Beat - бить, победить
+Benefit - выгода, польза
+Better - лучше
+Bigger - больше (размер)
+Build - строить
+Cancel - отменить
+Character - характер
+Captain - капитан
+Below average - ниже среднего
+belt - ремень
+Injury - сильно задеть, Травма
+Acquaintance - Знакомство, знакомый
+i leave for - я уезжаю в
+Stay true to yourself - оставаться верным себе
+Emergency - Чрезвычайная ситуация
+Ahead - впереди
+Cheaper - дешевле
+Classmate - одноклассник
+Cleaner - чище (чистота)
+Clear - чистый, прозрачный
+Cloud - облако
+Conclusion - вывод
+Construction - стройка
+Conversation - разговор
+Good - хорошо
+Good shape - хорошая форма (спорт)
+Great - большая (британия), чудова
+Goal - цель
+Confidence - уверенность
+Choice - выбор
+Assume - допустил, припустив
+After - после
+Chest - грудь
+whitespace - пробелы
+Take responsibility - Возьмите на себя ответственность
+Where do we begin - с чего мы начнём
+At least - во всяком случае
+Half an hour - полчаса
+Happy - счастлив
+Heat - жара
+Honor - честь
+Hospitable - гостеприимство
+How long time ago was it - как давно это было
+Humor - юмор
+Impress - впечатлять
+In any case I like it here - во всяком случае мне нравится тут
+In the fall - осенью
+Increase - усилить, увеличить
+Inside - внутри
+Invite - приглашать
+How do they prepare this fish in France - Как готовят эту рыбу во Франции?
+He wants to respond to her - он хочет ответить ей
+Born - родиться
+inheritance - наследование
+Lack - нехватка, недостаток
+Land - земля, родина, хз
+Landscape - ландшафт
+Large - большой
+Later - позже
+Literature - литература
+Long - длинный
+Loyal - лояльный
+More or less - более менее
+Mountain - гора
+Murder - убийство
+Nature - природа
+One chapter has turned into a book - один раздел превратился в книгу
+On the right way - на правильном пути
+Nice - красивый, хороший
+Network - сеть
+Meet - знакомиться, встречать
+Lonely - одинокий
+Listen - слушать
+Led - управлять
+Joy - радость
+Circle - круг
+Tongue - язык
+Change of clothes - сменная одежда
+Before - до, перед
+How do i add images to my page - как мне добавить изображения на мою страницу
+One point - одно очко
+Origin - происхождение
+Other countries - другие страны
+Other side - другая сторона
+Painting - картина
+Part - часть
+Piece - кусок
+Pleasure - удовольствие
+Poetry - поэзия
+Position - должность
+Press - пресса
