@@ -1,11 +1,3 @@
-Pregnant                   - беременна
-Postcard                   - открытка
-Permit                     - разрешение, пропуск
-Path                       - путь
-Over time everything changes - со временем всё меняется
-Outside                    - снаружи
-It's very kind of you      - это очень приятно с твоей стороны
-Is there a way to prevent it - Есть ли способ предотвратить это?
 Instance                   - случай, пример
 I had not assumed anything - Я ничего не предполагал
 Consequence                - последствие
@@ -14,12 +6,30 @@ Statement                  - утверждение, Заявление
 postpone                   - откладывать (на потом)
 taught me a lesson         - преподал мне урок
 Sight                      - зрение, взгляд
-Ears                       - уши, слушать
-Pain                       - боль
 Treatment                  - лечение, уход
 Take care                  - заботиться
 Sick                       - больной
-Accustomed to              - привык к
-Composition                - сочинение
 Confident                  - уверен
-Older                      - старше (возраст)
+Previous                   - предыдущий
+Religion                   - религия
+Response                   - ответ
+Sand                       - песок
+She doesn't affect me      - она не влияет на меня
+Pet                        - питомец
+While                      - в то время
+Elections                  - выборы
+Directly                   - Напрямую (сказать)
+Income                     - доход
+Center                     - центр
+Society                    - общество
+See the difference         - увидеть разницу
+Economy                    - экономика
+Sense of humor             - чувство юмора
+Law                        - закон
+Scientific research        - научное исследование
+Illegal                    - незаконно
+Against the law            - противозаконно
+Government                 - правительство
+Little time                - мало времени
+Close to his heart         - близко к его сердцу
+Get well soon              - Поправляйся

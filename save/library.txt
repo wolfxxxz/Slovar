@@ -1,11 +1,3 @@
-Pregnant - беременна
-Postcard - открытка
-Permit - разрешение, пропуск
-Path - путь
-Over time everything changes - со временем всё меняется
-Outside - снаружи
-It's very kind of you - это очень приятно с твоей стороны
-Is there a way to prevent it - Есть ли способ предотвратить это?
 Instance - случай, пример
 I had not assumed anything - Я ничего не предполагал
 Consequence - последствие
@@ -14,40 +6,36 @@ Statement - утверждение, Заявление
 postpone - откладывать (на потом)
 taught me a lesson - преподал мне урок
 Sight - зрение, взгляд
-Ears - уши, слушать
-Pain - боль
 Treatment - лечение, уход
 Take care - заботиться
 Sick - больной
-Accustomed to - привык к
-Composition - сочинение
 Confident - уверен
-Older - старше (возраст)
-Prettier - красивее
-Prevent - запобігти
 Previous - предыдущий
-Produce - производить
-Production - производство
-Proud of - гордится за
-Reach - достиг, достигнуть, тянутся
-Ready - готов
-Reality - реальность
-Reduce - уменьшить
-Regret - сожалеть
 Religion - религия
 Response - ответ
-Risky - рискованно
 Sand - песок
-Score - набирать (очки)
-Score a goal - забивать гол
-Screen - экран
-Search - поиск
-Sensation - сенсация
-Service - услуга
-Shadow - тень
-Shape - форма (состояние)
-Sharp - острый
 She doesn't affect me - она не влияет на меня
+Pet - питомец
+While - в то время
+Elections - выборы
+Directly - Напрямую (сказать)
+Income - доход
+Center - центр
+Society - общество
+See the difference - увидеть разницу
+Economy - экономика
+Sense of humor - чувство юмора
+Law - закон
+Scientific research - научное исследование
+Illegal - незаконно
+Against the law - противозаконно
+Government - правительство
+Little time - мало времени
+Close to his heart - близко к его сердцу
+Get well soon - Поправляйся
+It's very kind of you - это очень приятно с твоей стороны
+Over time everything changes - со временем всё меняется
+Pregnant - беременна
 She had not earned anything - она ничего не заработала
 Short - низкий
 Shy - застенчивый
@@ -76,7 +64,6 @@ Weak - слабый
 Went on - продолжать
 What he had written was true - что он написал было правдой
 What made him change his mind - что заставило его изменить свое мнение
-While - пока (до тех пор)
 Wood - дерево, древесина, лес
 Woods - лес
 Writing - письмо
@@ -587,7 +574,7 @@ Century - 100 летие
 Route - маршрут
 Reply - ответ (редко)
 finally - наконец
-notify - уведомить, поставить в известность
+Notify - уведомлять
 Frighten - пугает
 Option - вариант
 it seems to be - это кажется
@@ -654,7 +641,7 @@ Floor - пол
 color - цвет
 The couple - эти женатики (пара)
 Calculate - рассчитать
-change of clothes - сменная одежда
+Change of clothes - сменная одежда
 Feeling - чувство
 Worry - беспокоить, волноваться
 remove - удалять
@@ -673,7 +660,6 @@ descending - убывающий
 Recent - свежая
 Put on - надевать (шапку)
 put - класть
-power - сила
 Afraid of - испуган от
 logical - логические операции
 Express - выразят, выскажут
@@ -715,7 +701,6 @@ Get dark - темнеет
 group - группировать
 do - делать
 breakfast - завтрак
-Towards - к, в направлении, по отношению 
 Get up - вставать
 thirteen - 13
 Ineffective - неэффективно
@@ -1772,7 +1757,6 @@ Pretty - довольно, красиво
 Protection - защита
 Recover - восстанавливать
 Relations - отношения
-Responsibility - ответственность
 Rock - камень
 Roof - крыша
 Smaller - меньше (размер)
@@ -1831,7 +1815,6 @@ Plant - растение
 Suffer - страдать
 Transform - превратиться, трансформировать
 Discount - скидка
-Spacious - просторная
 Fashionable - модный
 Complaint - жалоба
 Break down - сломаться
@@ -1871,7 +1854,6 @@ Apply - применить, подать заявку, занести
 Feet - ноги
 Neck - шея
 Terrible - ужасный
-Notify - уведомлять
 Establish the order - установить порядок
 At last - наконец
 Athlete - атлет
@@ -1955,7 +1937,6 @@ Led - управлять
 Joy - радость
 Circle - круг
 Tongue - язык
-Change of clothes - сменная одежда
 Before - до, перед
 How do i add images to my page - как мне добавить изображения на мою страницу
 One point - одно очко
@@ -1969,3 +1950,42 @@ Pleasure - удовольствие
 Poetry - поэзия
 Position - должность
 Press - пресса
+Postcard - открытка
+Permit - разрешение, пропуск
+Path - путь
+Outside - снаружи
+Is there a way to prevent it - Есть ли способ предотвратить это?
+Ears - уши, слушать
+Composition - сочинение
+Older - старше (возраст)
+Prevent - запобігти
+Production - производство
+Proud of - гордится за
+Reach - достиг, достигнуть, тянутся
+Ready - готов
+Reality - реальность
+Reduce - уменьшить
+Regret - сожалеть
+Risky - рискованно
+Score - набирать (очки)
+Score a goal - забивать гол
+Screen - экран
+Sensation - сенсация
+Shadow - тень
+Shape - форма (состояние)
+Sharp - острый
+Fall in love - влюбляться
+Few friends - мало друзей
+Others - другие (без существительного)
+Towards - в направлении
+Economical - экономный
+Economic - экономический
+Responsibility - ответственность
+Hero - герой
+power - сила
+Service - услуга
+Search - поиск
+Produce - производить
+Prettier - красивее
+Accustomed to - привык к
+Pain - боль
