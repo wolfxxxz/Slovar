@@ -2,8 +2,127 @@
    "Words": [
       {
          "id": 0,
-         "english": "Instance",
-         "russian": "случай, пример",
+         "english": "Illegal",
+         "russian": "незаконно",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Scientific research",
+         "russian": "научное исследование",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Law",
+         "russian": "закон",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Sense of humor",
+         "russian": "чувство юмора",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Economy",
+         "russian": "экономика",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "See the difference",
+         "russian": "увидеть разницу",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "On my own",
+         "russian": "самостоятельно",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Laws",
+         "russian": "законы",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Government",
+         "russian": "власть",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Court",
+         "russian": "суд",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Safety",
+         "russian": "безопасность",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Investment",
+         "russian": "инвестиция",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Debts",
+         "russian": "долги",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Campaign",
+         "russian": "компания",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Violence",
+         "russian": "насилие",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Governor",
+         "russian": "губернатор",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Blame",
+         "russian": "провина",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Cause",
+         "russian": "справа, причина",
          "theme": "",
          "rightAnswer": 0
       },
@@ -30,24 +149,10 @@
       },
       {
          "id": 0,
-         "english": "Statement",
-         "russian": "утверждение, Заявление",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "postpone",
          "russian": "откладывать (на потом)",
          "theme": "",
          "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "taught me a lesson",
-         "russian": "преподал мне урок",
-         "theme": "",
-         "rightAnswer": 1
       },
       {
          "id": 0,
@@ -65,36 +170,8 @@
       },
       {
          "id": 0,
-         "english": "Take care",
-         "russian": "заботиться",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Sick",
-         "russian": "больной",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Confident",
          "russian": "уверен",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Previous",
-         "russian": "предыдущий",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Religion",
-         "russian": "религия",
          "theme": "",
          "rightAnswer": 0
       },
@@ -107,34 +184,6 @@
       },
       {
          "id": 0,
-         "english": "Sand",
-         "russian": "песок",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "She doesn't affect me",
-         "russian": "она не влияет на меня",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Pet",
-         "russian": "питомец",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "While",
-         "russian": "в то время",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Elections",
          "russian": "выборы",
          "theme": "",
@@ -142,71 +191,22 @@
       },
       {
          "id": 0,
-         "english": "Directly",
-         "russian": "Напрямую (сказать)",
+         "english": "Spelling mistake",
+         "russian": "грамматическая ошибка",
          "theme": "",
          "rightAnswer": 0
       },
       {
          "id": 0,
-         "english": "Income",
-         "russian": "доход",
+         "english": "Schedule",
+         "russian": "график",
          "theme": "",
          "rightAnswer": 0
       },
       {
          "id": 0,
-         "english": "Center",
-         "russian": "центр",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Society",
-         "russian": "общество",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "See the difference",
-         "russian": "увидеть разницу",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Economy",
-         "russian": "экономика",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Sense of humor",
-         "russian": "чувство юмора",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Law",
-         "russian": "закон",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Scientific research",
-         "russian": "научное исследование",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Illegal",
-         "russian": "незаконно",
+         "english": "Timetable",
+         "russian": "расписание",
          "theme": "",
          "rightAnswer": 0
       },
@@ -214,13 +214,6 @@
          "id": 0,
          "english": "Against the law",
          "russian": "противозаконно",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Government",
-         "russian": "правительство",
          "theme": "",
          "rightAnswer": 0
       },
@@ -7380,13 +7373,6 @@
       },
       {
          "id": 0,
-         "english": "argument",
-         "russian": "аргумент",
-         "theme": "Programming",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
          "english": "town",
          "russian": "город (T)",
          "theme": "noun",
@@ -8255,13 +8241,6 @@
       },
       {
          "id": 0,
-         "english": "above",
-         "russian": "выше, свыше, более",
-         "theme": "pronoun",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
          "english": "Suitcase",
          "russian": "чемодан",
          "theme": "",
@@ -8510,13 +8489,6 @@
          "english": "Attitude to",
          "russian": "отношение к",
          "theme": "preposition",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Demand",
-         "russian": "требовать",
-         "theme": "",
          "rightAnswer": 1
       },
       {
@@ -9182,20 +9154,6 @@
          "english": "In general",
          "russian": "в основном",
          "theme": "preposition",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "insurance",
-         "russian": "страхование",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "below",
-         "russian": "ниже",
-         "theme": "",
          "rightAnswer": 1
       },
       {
@@ -9994,13 +9952,6 @@
          "english": "Obviously",
          "russian": "очевидно",
          "theme": "studies",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "war",
-         "russian": "война",
-         "theme": "noun",
          "rightAnswer": 1
       },
       {
@@ -13936,6 +13887,237 @@
          "russian": "боль",
          "theme": "",
          "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Taxes",
+         "russian": "налоги",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "War",
+         "russian": "война",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Strategy",
+         "russian": "стратегия",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Vote",
+         "russian": "голос",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Society",
+         "russian": "общество",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Army",
+         "russian": "армия",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "argument",
+         "russian": "аргумент",
+         "theme": "Programming",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Parliament",
+         "russian": "парламент",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Weapon",
+         "russian": "оружие",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "taught me a lesson",
+         "russian": "преподал мне урок",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Previous",
+         "russian": "предыдущий",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Religion",
+         "russian": "религия",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "She doesn't affect me",
+         "russian": "она не влияет на меня",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Invitation",
+         "russian": "приглашение",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Insurance",
+         "russian": "страховка",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "above",
+         "russian": "выше, свыше, более",
+         "theme": "pronoun",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "below",
+         "russian": "ниже (среднего)",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Center",
+         "russian": "центр",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Income",
+         "russian": "доход",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Directly",
+         "russian": "Напрямую (сказать)",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "While",
+         "russian": "в то время",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Pet",
+         "russian": "питомец",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Sand",
+         "russian": "песок",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Sick",
+         "russian": "больной",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Take care",
+         "russian": "заботиться",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Statement",
+         "russian": "утверждение, Заявление",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Instance",
+         "russian": "случай, пример",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Wealth",
+         "russian": "богатство",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Mayor",
+         "russian": "мэр",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Navy",
+         "russian": "флот",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Leader",
+         "russian": "лидер",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Freedom",
+         "russian": "свобода",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Demand",
+         "russian": "требовать",
+         "theme": "",
+         "rightAnswer": 2
       }
    ]
 }

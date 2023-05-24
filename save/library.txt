@@ -1,35 +1,34 @@
-Instance - случай, пример
+Illegal - незаконно
+Scientific research - научное исследование
+Law - закон
+Sense of humor - чувство юмора
+Economy - экономика
+See the difference - увидеть разницу
+On my own - самостоятельно
+Laws - законы
+Government - власть
+Court - суд
+Safety - безопасность
+Investment - инвестиция
+Debts - долги
+Campaign - компания
+Violence - насилие
+Governor - губернатор
+Blame - провина
+Cause - справа, причина
 I had not assumed anything - Я ничего не предполагал
 Consequence - последствие
 Since - поскольку, с
-Statement - утверждение, Заявление
 postpone - откладывать (на потом)
-taught me a lesson - преподал мне урок
 Sight - зрение, взгляд
 Treatment - лечение, уход
-Take care - заботиться
-Sick - больной
 Confident - уверен
-Previous - предыдущий
-Religion - религия
 Response - ответ
-Sand - песок
-She doesn't affect me - она не влияет на меня
-Pet - питомец
-While - в то время
 Elections - выборы
-Directly - Напрямую (сказать)
-Income - доход
-Center - центр
-Society - общество
-See the difference - увидеть разницу
-Economy - экономика
-Sense of humor - чувство юмора
-Law - закон
-Scientific research - научное исследование
-Illegal - незаконно
+Spelling mistake - грамматическая ошибка
+Schedule - график
+Timetable - расписание
 Against the law - противозаконно
-Government - правительство
 Little time - мало времени
 Close to his heart - близко к его сердцу
 Get well soon - Поправляйся
@@ -1052,7 +1051,6 @@ How much - Сколько (денег)
 respect - уважать
 money - деньги
 cold - холодный
-argument - аргумент
 town - город (T)
 Edge of - край _
 goose - гусь
@@ -1177,7 +1175,6 @@ Come back - вернуться (два слова)
 Comfortable - удобное
 mouse - мышь
 Foundation - фундамент
-above - выше, свыше, более
 Suitcase - чемодан
 Especially - особенно, специально
 because - потому что
@@ -1214,7 +1211,6 @@ Definitely - точно!, Определенно, разумеется!
 comparison - операции сравнения
 Bite bit bitten - кусать
 Attitude to - отношение к
-Demand - требовать
 The worst - самый худший
 virtual - виртуальный
 To be - быть
@@ -1310,8 +1306,6 @@ The most interesting - самый интересный
 conflict - конфликт
 he - он
 In general - в основном
-insurance - страхование
-below - ниже
 explore - исследовать
 curious - любопытный
 Keep it simple - держать все простым
@@ -1426,7 +1420,6 @@ Take off - снять (одежду)
 Include - включает (еда)
 Event - событие
 Obviously - очевидно
-war - война
 blue - синий
 Zip it - закрой рот
 comment - комментарий
@@ -1982,10 +1975,43 @@ Economical - экономный
 Economic - экономический
 Responsibility - ответственность
 Hero - герой
-power - сила
+power - власть
 Service - услуга
 Search - поиск
 Produce - производить
 Prettier - красивее
 Accustomed to - привык к
 Pain - боль
+Taxes - налоги
+War - война
+Strategy - стратегия
+Vote - голос
+Society - общество
+Army - армия
+argument - аргумент
+Parliament - парламент
+Weapon - оружие
+taught me a lesson - преподал мне урок
+Previous - предыдущий
+Religion - религия
+She doesn't affect me - она не влияет на меня
+Invitation - приглашение
+Insurance - страховка
+above - выше, свыше, более
+below - ниже (среднего)
+Center - центр
+Income - доход
+Directly - Напрямую (сказать)
+While - в то время
+Pet - питомец
+Sand - песок
+Sick - больной
+Take care - заботиться
+Statement - утверждение, Заявление
+Instance - случай, пример
+Wealth - богатство
+Mayor - мэр
+Navy - флот
+Leader - лидер
+Freedom - свобода
+Demand - требовать
