@@ -70,7 +70,7 @@ func (s Slovarick) LearnWords() {
 		} else if y < 1 {
 			copy(s.Words, s.Words[1:])
 			s.Words[len(s.Words)-1] = v
-			PrintXpen()
+			PrintXpen(v.English)
 		} else if y > 0 && len(s.Words) == 1 {
 			break
 		}
@@ -234,7 +234,7 @@ func CompareTime(l Word) (yes int, not int) {
 
 }
 
-func PrintXpen() {
+func PrintXpen(s string) {
 	var d int
 	for i := 0; i <= 15; i++ {
 
@@ -242,6 +242,6 @@ func PrintXpen() {
 		for i := 0; i <= d; i++ {
 			fmt.Print(" ")
 		}
-		fmt.Println("O p e n   y o u r   m i n d")
+		fmt.Println(s, "   ", s, "   ", s)
 	}
 }

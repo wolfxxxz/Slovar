@@ -1,53 +1,39 @@
-Illegal - незаконно
-Scientific research - научное исследование
-Law - закон
-Sense of humor - чувство юмора
-Economy - экономика
-See the difference - увидеть разницу
-On my own - самостоятельно
-Laws - законы
-Government - власть
-Court - суд
-Safety - безопасность
-Investment - инвестиция
-Debts - долги
-Campaign - компания
-Violence - насилие
-Governor - губернатор
-Blame - провина
-Cause - справа, причина
-I had not assumed anything - Я ничего не предполагал
-Consequence - последствие
-Since - поскольку, с
-postpone - откладывать (на потом)
-Sight - зрение, взгляд
-Treatment - лечение, уход
-Confident - уверен
-Response - ответ
-Elections - выборы
-Spelling mistake - грамматическая ошибка
-Schedule - график
-Timetable - расписание
-Against the law - противозаконно
-Little time - мало времени
-Close to his heart - близко к его сердцу
-Get well soon - Поправляйся
-It's very kind of you - это очень приятно с твоей стороны
-Over time everything changes - со временем всё меняется
-Pregnant - беременна
-She had not earned anything - она ничего не заработала
-Short - низкий
-Shy - застенчивый
-Smoke - дым
-Soil - земля
-Someone had opened the window - Кто
-Split split split - расставаться
-Stamp - марка
-Strength - сильная сторона, сила
-Sun - солнце
-Sure - уверен
-Surname - фамилия
 Suspicious - подозрительно
+Surname - фамилия
+Sure - уверен
+Strength - сильная сторона, сила
+Stamp - марка
+Split split split - расставаться
+Someone had opened the window - Кто
+Shy - застенчивый
+She had not earned anything - она ничего не заработала
+Over time everything changes - со временем всё меняется
+Get well soon - Поправляйся
+Close to his heart - близко к его сердцу
+Little time - мало времени
+Timetable - расписание
+Schedule - график
+Spelling mistake - грамматическая ошибка
+Elections - выборы
+Response - ответ
+Confident - уверен
+postpone - откладывать (на потом)
+Since - поскольку, с
+Consequence - последствие
+Cause - справа, причина
+Blame - провина
+Governor - губернатор
+Violence - насилие
+Campaign - компания
+Debts - долги
+Safety - безопасность
+Court - суд
+Government - власть
+See the difference - увидеть разницу
+Economy - экономика
+Sense of humor - чувство юмора
+Law - закон
+Scientific research - научное исследование
 Sweet - сладкий
 Symbol - символ
 Take - брать
@@ -2015,3 +2001,17 @@ Navy - флот
 Leader - лидер
 Freedom - свобода
 Demand - требовать
+Illegal - незаконно
+On my own - самостоятельно
+Laws - законы
+Investment - инвестиция
+I had not assumed anything - Я ничего не предполагал
+Sight - зрение, взгляд
+Treatment - лечение, уход
+Against the law - противозаконно
+It's very kind of you - это очень приятно с твоей стороны
+Pregnant - беременна
+Short - низкий
+Smoke - дым
+Soil - земля
+Sun - солнце
