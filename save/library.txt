@@ -1,28 +1,67 @@
-i heard it on tv - я услышал это по телевизору
-hear it for the first time - слышу это первый раз
-give up smoking - бросить курить
-Writing - письмо
-What made him change his mind - что заставило его изменить свое мнение
-What he had written was true - что он написал было правдой
-Went on - продолжать
-View - вид
-Unlike - маловероятно
-Universe - вселенная
-Economy - экономика
-Court - суд
-Violence - насилие
-Governor - губернатор
-Blame - провина
-Consequence - последствие
-Confident - уверен
-Elections - выборы
-Spelling mistake - грамматическая ошибка
-Schedule - график
-Get well soon - Поправляйся
-Pregnant - беременна
-Someone had opened the window - Кто
-Split split split - расставаться
 Suspicious - подозрительно
+Surname - фамилия
+Sure - уверен
+Strength - сильная сторона, сила
+Stamp - марка
+Split split split - расставаться
+Someone had opened the window - Кто
+Shy - застенчивый
+She had not earned anything - она ничего не заработала
+Over time everything changes - со временем всё меняется
+Get well soon - Поправляйся
+Close to his heart - близко к его сердцу
+Little time - мало времени
+Timetable - расписание
+Schedule - график
+Spelling mistake - грамматическая ошибка
+Elections - выборы
+Response - ответ
+Confident - уверен
+postpone - откладывать (на потом)
+Since - поскольку, с
+Consequence - последствие
+Cause - справа, причина
+Blame - провина
+Governor - губернатор
+Violence - насилие
+Campaign - компания
+Debts - долги
+Safety - безопасность
+Court - суд
+Government - власть
+See the difference - увидеть разницу
+Economy - экономика
+Sense of humor - чувство юмора
+Law - закон
+Scientific research - научное исследование
+Sweet - сладкий
+Symbol - символ
+Take - брать
+Talk - разговаривать
+Universe - вселенная
+Unlike - маловероятно
+Used - привык
+Used to - привык к
+View - вид
+Violin - скрипка
+Volcano - вулкан
+Weak - слабый
+Went on - продолжать
+What he had written was true - что он написал было правдой
+What made him change his mind - что заставило его изменить свое мнение
+Wood - дерево, древесина, лес
+Woods - лес
+Writing - письмо
+Younger - младше (возраст)
+ago - назад (час назад)
+bitterly - горько
+favor - одолжение
+find out - выяснить, обнаружить
+give up smoking - бросить курить
+had a good time together - провели хорошо время вместе
+hear it for the first time - слышу это первый раз
+i cut myself - я порезался
+i heard it on tv - я услышал это по телевизору
 outstanding - выдающийся
 By heart - наизусть
 Pie - пирог
@@ -1963,55 +2002,16 @@ Leader - лидер
 Freedom - свобода
 Demand - требовать
 Illegal - незаконно
-Scientific research - научное исследование
-Law - закон
-Sense of humor - чувство юмора
-See the difference - увидеть разницу
 On my own - самостоятельно
 Laws - законы
-Safety - безопасность
 Investment - инвестиция
-Debts - долги
-Campaign - компания
 I had not assumed anything - Я ничего не предполагал
-Since - поскольку, с
-postpone - откладывать (на потом)
 Sight - зрение, взгляд
-Response - ответ
-Timetable - расписание
-Little time - мало времени
+Treatment - лечение, уход
+Against the law - противозаконно
 It's very kind of you - это очень приятно с твоей стороны
-Over time everything changes - со временем всё меняется
+Pregnant - беременна
 Short - низкий
-Shy - застенчивый
 Smoke - дым
 Soil - земля
-Stamp - марка
 Sun - солнце
-Sure - уверен
-Surname - фамилия
-Strength - сильная сторона, сила
-She had not earned anything - она ничего не заработала
-Close to his heart - близко к его сердцу
-Against the law - противозаконно
-Treatment - лечение, уход
-Cause - справа, причина
-Government - власть
-Sweet - сладкий
-Symbol - символ
-Take - брать
-Talk - разговаривать
-Used - привык
-Used to - привык к
-Violin - скрипка
-Volcano - вулкан
-Weak - слабый
-Wood - дерево, древесина, лес
-Woods - лес
-Younger - младше (возраст)
-ago - назад (час назад)
-bitterly - горько
-favor - одолжение
-find out - выяснить, обнаружить
-had a good time together - провели хорошо время вместе
-i cut myself - я порезался

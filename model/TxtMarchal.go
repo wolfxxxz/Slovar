@@ -214,7 +214,7 @@ func (s *Slovarick) DelDublikat() {
 
 // bufio scaner по сути
 func ScanStringOne() (string, error) {
-	fmt.Print("    ...")
+	fmt.Print("       ...")
 	in := bufio.NewScanner(os.Stdin)
 	if in.Scan() {
 		return in.Text(), nil
