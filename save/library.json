@@ -2,337 +2,8 @@
    "Words": [
       {
          "id": 0,
-         "english": "capitalized",
-         "russian": "с большой буквы",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "empty",
-         "russian": "пустой",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Learn from your mistakes",
-         "russian": "учиться на своих ошибках",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "cache",
-         "russian": "кэш",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "guy",
-         "russian": "парень, чувак",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "take a shower",
-         "russian": "принимать душ",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "I busy next week",
-         "russian": "я занят на следующей неделе",
-         "theme": "Time",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "well",
-         "russian": "хорошо",
-         "theme": "adverb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "How often",
-         "russian": "как часто",
-         "theme": "Time",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Scientific research",
-         "russian": "научное исследование",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Government",
-         "russian": "власть",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Campaign",
-         "russian": "кампания (стартовала)",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Consequence",
-         "russian": "последствие",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Confident",
-         "russian": "уверен",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Elections",
-         "russian": "выборы",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Spelling mistake",
-         "russian": "грамматическая ошибка",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Schedule",
-         "russian": "график",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Cherish your loved ones",
-         "russian": "дорожить близкими",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Work towards your goal",
-         "russian": "работать на достижение цели",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "surf the internet",
-         "russian": "серфить в интернете",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Stay humble",
-         "russian": "оставаться скромным",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Guard",
-         "russian": "охранник",
-         "theme": "Work",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "assignment",
-         "russian": "операция присваивания",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "As far as i know",
-         "russian": "насколько я знаю",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Embrace change",
-         "russian": "принимать перемену",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "go for a walk",
-         "russian": "идти на прогулку",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Speak up",
-         "russian": "говорить громче",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "tomorrow",
-         "russian": "завтра",
-         "theme": "adverb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Clever",
-         "russian": "умный",
-         "theme": "Work",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Sentence",
-         "russian": "речення",
-         "theme": "studies",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "hour",
-         "russian": "час",
-         "theme": "time",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "upon",
-         "russian": "на",
-         "theme": "pronoun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "bike",
-         "russian": "мотоцикл",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Just in case",
-         "russian": "на всякий случай",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "code style",
-         "russian": "стиль кода",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "green",
-         "russian": "зелёный",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "compiler",
-         "russian": "компилятор",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "kingdom",
-         "russian": "королевство",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "meditate",
-         "russian": "медитировать",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "apple",
-         "russian": "яблоко",
-         "theme": "food",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "hunt",
-         "russian": "охотиться",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "dinner",
-         "russian": "ужин",
-         "theme": "food",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "present",
-         "russian": "подарок",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Lead to",
-         "russian": "приводит к",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Only once",
-         "russian": "только раз",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Love unconditionally",
-         "russian": "любить безусловно",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "message",
-         "russian": "сообщение",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Face your fears",
-         "russian": "преодолеть свои страхи",
+         "english": "send a text message",
+         "russian": "отправлять текстовое сообщение",
          "theme": "Phrase",
          "rightAnswer": 0
       },
@@ -345,9 +16,226 @@
       },
       {
          "id": 0,
-         "english": "send a text message",
-         "russian": "отправлять текстовое сообщение",
+         "english": "Face your fears",
+         "russian": "преодолеть свои страхи",
          "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Love unconditionally",
+         "russian": "любить безусловно",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "present",
+         "russian": "подарок",
+         "theme": "noun",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "hunt",
+         "russian": "охотиться",
+         "theme": "verb",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "meditate",
+         "russian": "медитировать",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "kingdom",
+         "russian": "королевство",
+         "theme": "noun",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "compiler",
+         "russian": "компилятор",
+         "theme": "Programming",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Just in case",
+         "russian": "на всякий случай",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "bike",
+         "russian": "мотоцикл",
+         "theme": "noun",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Sentence",
+         "russian": "речення",
+         "theme": "studies",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Clever",
+         "russian": "умный",
+         "theme": "Work",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "tomorrow",
+         "russian": "завтра",
+         "theme": "adverb",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "go for a walk",
+         "russian": "идти на прогулку",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Embrace change",
+         "russian": "принимать перемену",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "As far as i know",
+         "russian": "насколько я знаю",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "assignment",
+         "russian": "операция присваивания",
+         "theme": "Programming",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Guard",
+         "russian": "охранник",
+         "theme": "Work",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Stay humble",
+         "russian": "оставаться скромным",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "surf the internet",
+         "russian": "серфить в интернете",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Work towards your goal",
+         "russian": "работать на достижение цели",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Cherish your loved ones",
+         "russian": "дорожить близкими",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Schedule",
+         "russian": "график",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Spelling mistake",
+         "russian": "грамматическая ошибка",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Elections",
+         "russian": "выборы",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Confident",
+         "russian": "уверен",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Consequence",
+         "russian": "последствие",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Government",
+         "russian": "власть",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Scientific research",
+         "russian": "научное исследование",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "take a shower",
+         "russian": "принимать душ",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "cache",
+         "russian": "кэш",
+         "theme": "Programming",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Learn from your mistakes",
+         "russian": "учиться на своих ошибках",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "capitalized",
+         "russian": "с большой буквы",
+         "theme": "",
          "rightAnswer": 0
       },
       {
@@ -13935,6 +13823,118 @@
          "english": "brother",
          "russian": "брат",
          "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "empty",
+         "russian": "пустой",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "guy",
+         "russian": "парень, чувак",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "I busy next week",
+         "russian": "я занят на следующей неделе",
+         "theme": "Time",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "well",
+         "russian": "хорошо",
+         "theme": "adverb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "How often",
+         "russian": "как часто",
+         "theme": "Time",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Campaign",
+         "russian": "кампания (стартовала)",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Speak up",
+         "russian": "говорить громче",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "hour",
+         "russian": "час",
+         "theme": "time",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "upon",
+         "russian": "на",
+         "theme": "pronoun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "code style",
+         "russian": "стиль кода",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "green",
+         "russian": "зелёный",
+         "theme": "adjective",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "apple",
+         "russian": "яблоко",
+         "theme": "food",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "dinner",
+         "russian": "ужин",
+         "theme": "food",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Lead to",
+         "russian": "приводит к",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Only once",
+         "russian": "только раз",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "message",
+         "russian": "сообщение",
+         "theme": "noun",
          "rightAnswer": 1
       }
    ]

@@ -1,53 +1,37 @@
-capitalized - с большой буквы
-empty - пустой
-Learn from your mistakes - учиться на своих ошибках
-cache - кэш
-guy - парень, чувак
-take a shower - принимать душ
-I busy next week - я занят на следующей неделе
-well - хорошо
-How often - как часто
-Scientific research - научное исследование
-Government - власть
-Campaign - кампания (стартовала)
-Consequence - последствие
-Confident - уверен
-Elections - выборы
-Spelling mistake - грамматическая ошибка
-Schedule - график
-Cherish your loved ones - дорожить близкими
-Work towards your goal - работать на достижение цели
-surf the internet - серфить в интернете
-Stay humble - оставаться скромным
-Guard - охранник
-assignment - операция присваивания
-As far as i know - насколько я знаю
-Embrace change - принимать перемену
-go for a walk - идти на прогулку
-Speak up - говорить громче
-tomorrow - завтра
-Clever - умный
-Sentence - речення
-hour - час
-upon - на
-bike - мотоцикл
-Just in case - на всякий случай
-code style - стиль кода
-green - зелёный
-compiler - компилятор
-kingdom - королевство
-meditate - медитировать
-apple - яблоко
-hunt - охотиться
-dinner - ужин
-present - подарок
-Lead to - приводит к
-Only once - только раз
-Love unconditionally - любить безусловно
-message - сообщение
-Face your fears - преодолеть свои страхи
-pencil - карандаш
 send a text message - отправлять текстовое сообщение
+pencil - карандаш
+Face your fears - преодолеть свои страхи
+Love unconditionally - любить безусловно
+present - подарок
+hunt - охотиться
+meditate - медитировать
+kingdom - королевство
+compiler - компилятор
+Just in case - на всякий случай
+bike - мотоцикл
+Sentence - речення
+Clever - умный
+tomorrow - завтра
+go for a walk - идти на прогулку
+Embrace change - принимать перемену
+As far as i know - насколько я знаю
+assignment - операция присваивания
+Guard - охранник
+Stay humble - оставаться скромным
+surf the internet - серфить в интернете
+Work towards your goal - работать на достижение цели
+Cherish your loved ones - дорожить близкими
+Schedule - график
+Spelling mistake - грамматическая ошибка
+Elections - выборы
+Confident - уверен
+Consequence - последствие
+Government - власть
+Scientific research - научное исследование
+take a shower - принимать душ
+cache - кэш
+Learn from your mistakes - учиться на своих ошибках
+capitalized - с большой буквы
 that - тот
 road - дорога
 sleep - спать
@@ -1989,3 +1973,19 @@ city - город
 Elementary - элементарный
 orange - оранжевый
 brother - брат
+empty - пустой
+guy - парень, чувак
+I busy next week - я занят на следующей неделе
+well - хорошо
+How often - как часто
+Campaign - кампания (стартовала)
+Speak up - говорить громче
+hour - час
+upon - на
+code style - стиль кода
+green - зелёный
+apple - яблоко
+dinner - ужин
+Lead to - приводит к
+Only once - только раз
+message - сообщение
