@@ -25,6 +25,17 @@ func (s *Slovarick) SaveTXT(files string) {
 	}
 }
 
+// Записать пустой .txt файл
+func SaveEmptyTXT(files string, txt string) {
+	file, err := os.Create(files)
+	if err != nil {
+		fmt.Println("Unable to create file:", err)
+		os.Exit(1)
+	}
+	defer file.Close()
+	file.WriteString(txt)
+}
+
 func (s *Slovarick) SaveForLearningTxt(files string) {
 	file, err := os.Create(files)
 	if err != nil {
@@ -148,16 +159,12 @@ func (oldWords *Slovarick) UpdateLibrary(filetxt string) {
 	oldWords.Words = append(NewWords.Words, oldWords.Words...)
 	//NewWords.Words = append(NewWords.Words, oldWords.Words...)
 
-	d := len(NewWords.Words)
+	d := len(oldWords.Words)
 	// Записать в filetxt пустой
-	var ZeroWords Slovarick
-	NewsZero := []Word{}
-	NewsZero = append(NewsZero, Word{English: ""})
-	ZeroWords.Words = append(ZeroWords.Words, &NewsZero[0])
-	ZeroWords.SaveTXT(filetxt)
+	SaveEmptyTXT(filetxt, "You need to add your words here")
 
 	if d != c {
-		fmt.Println("                   New Words Add:", c-d)
+		fmt.Println("                   New Words Add:", d-c)
 	} else {
 		fmt.Println("Для загрузки слов списком необходимо упорядочить и вставить слова в файл `save/newWords.txt`")
 		fmt.Println("english - перевод - тема")

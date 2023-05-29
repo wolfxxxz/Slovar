@@ -1,131 +1,30 @@
-Suspicious - подозрительно
-Surname - фамилия
-Sure - уверен
-Strength - сильная сторона, сила
-Stamp - марка
-Split split split - расставаться
-Someone had opened the window - Кто
-Shy - застенчивый
-She had not earned anything - она ничего не заработала
-Over time everything changes - со временем всё меняется
-Get well soon - Поправляйся
-Close to his heart - близко к его сердцу
-Little time - мало времени
-Timetable - расписание
-Schedule - график
-Spelling mistake - грамматическая ошибка
-Elections - выборы
-Response - ответ
-Confident - уверен
-postpone - откладывать (на потом)
-Since - поскольку, с
-Consequence - последствие
-Cause - справа, причина
-Blame - провина
-Governor - губернатор
-Violence - насилие
-Campaign - компания
-Debts - долги
-Safety - безопасность
-Court - суд
-Government - власть
-See the difference - увидеть разницу
-Economy - экономика
-Sense of humor - чувство юмора
-Law - закон
+capitalized - с большой буквы
+empty - пустой
+Learn from your mistakes - учиться на своих ошибках
+cache - кэш
+guy - парень, чувак
+take a shower - принимать душ
+I busy next week - я занят на следующей неделе
+well - хорошо
+How often - как часто
 Scientific research - научное исследование
-Sweet - сладкий
-Symbol - символ
-Take - брать
-Talk - разговаривать
-Universe - вселенная
-Unlike - маловероятно
-Used - привык
-Used to - привык к
-View - вид
-Violin - скрипка
-Volcano - вулкан
-Weak - слабый
-Went on - продолжать
-What he had written was true - что он написал было правдой
-What made him change his mind - что заставило его изменить свое мнение
-Wood - дерево, древесина, лес
-Woods - лес
-Writing - письмо
-Younger - младше (возраст)
-ago - назад (час назад)
-bitterly - горько
-favor - одолжение
-find out - выяснить, обнаружить
-give up smoking - бросить курить
-had a good time together - провели хорошо время вместе
-hear it for the first time - слышу это первый раз
-i cut myself - я порезался
-i heard it on tv - я услышал это по телевизору
-outstanding - выдающийся
-By heart - наизусть
-Pie - пирог
-Drink drank drunk - пить
-River - река
-Pond - пруд
-Sea - море
-Ocean - океан
-Hole - яма
-With whom - с кем
-Employee - сотрудник
-For no reason - без причины
-Tears - слёзы
-Candle - свеча
-encapsulation - инкапсуляция
+Government - власть
+Campaign - кампания (стартовала)
+Consequence - последствие
+Confident - уверен
+Elections - выборы
+Spelling mistake - грамматическая ошибка
+Schedule - график
 Cherish your loved ones - дорожить близкими
 Work towards your goal - работать на достижение цели
-put on clothes - надевать одежду
 surf the internet - серфить в интернете
-merge - слияние
-code review - кодовый обзор
-Skin - кожа
-Cancer - рак
-Simplicity - простота
 Stay humble - оставаться скромным
-heart - сердце
 Guard - охранник
-have fun - веселиться, развлекаться
-framework - фреймворк
-heavy - тяжёлый
-You don't say - не может быть
-bedroom - спальня
 assignment - операция присваивания
 As far as i know - насколько я знаю
 Embrace change - принимать перемену
-An Important - не важный
-watch TV - смотреть телевизор
-end - заканчивать
-waterfall - водопад
-must - должен
-or - или
-wind - ветер
-go for a walk - гулять
-bear - медведь
+go for a walk - идти на прогулку
 Speak up - говорить громче
-fun - веселье
-horse - лошадь
-again - снова
-Perfectly realize - прекрасно осознавать
-How often - как часто
-well - хорошо
-smile - улыбаться
-Is Anybody with you - с тобой кто то есть?
-I busy next week - я занят на следующей неделе
-take a shower - принимать душ
-girl - девочка
-Judge - судья
-city - город
-Elementary - элементарный
-orange - оранжевый
-guy - парень, чувак
-brother - брат
-cache - кэш
-Learn from your mistakes - учиться на своих ошибках
 tomorrow - завтра
 Clever - умный
 Sentence - речення
@@ -2015,3 +1914,78 @@ Short - низкий
 Smoke - дым
 Soil - земля
 Sun - солнце
+Suspicious - подозрительно
+Surname - фамилия
+Strength - сильная сторона, сила
+Stamp - марка
+Split split split - расставаться
+Shy - застенчивый
+Over time everything changes - со временем всё меняется
+Get well soon - Поправляйся
+Close to his heart - близко к его сердцу
+Little time - мало времени
+Timetable - расписание
+Since - поскольку, с
+Cause - дело, причина
+Debts - долги
+Safety - безопасность
+Court - суд
+See the difference - увидеть разницу
+Economy - экономика
+Sense of humor - чувство юмора
+Law - закон
+outstanding - выдающийся
+Pie - пирог
+Drink drank drunk - пить
+River - река
+Pond - пруд
+Sea - море
+Ocean - океан
+Hole - яма
+With whom - с кем
+Employee - сотрудник
+For no reason - без причины
+Candle - свеча
+Tears - слёзы
+By heart - наизусть
+Governor - губернатор
+Response - ответ
+She had not earned anything - она ничего не заработала
+Sure - уверен
+encapsulation - инкапсуляция
+Skin - кожа
+Cancer - рак
+heart - сердце
+framework - фреймворк
+heavy - тяжёлый
+bedroom - спальня
+watch TV - смотреть телевизор
+waterfall - водопад
+or - или
+wind - ветер
+bear - медведь
+must - должен
+end - конец, заканчивать
+unimportant - не важный
+You don't say - не может быть
+have fun - веселиться, развлекаться
+Simplicity - простота
+code review - кодовый обзор, проверка кода
+merge - слияние
+put on clothes - надевать одежду
+Someone had opened the window - Кто то открыл окно
+postpone - откладывать (на потом)
+Blame - вина, обвинять
+Violence - насилие
+fun - веселье
+horse - лошадь
+again - снова
+Perfectly realize - прекрасно осознавать
+smile - улыбаться
+Is Anybody with you - с тобой кто то есть?
+girl - девочка
+Judge - судья
+city - город
+Elementary - элементарный
+orange - оранжевый
+brother - брат
