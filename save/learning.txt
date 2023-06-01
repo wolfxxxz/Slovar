@@ -1,34 +1,40 @@
+water                      - вода
+Never give up              - никогда не сдаваться
+know                       - знать
+make a phone call          - звонить по телефону
+acceptance test            - приемочное тестирование
+mind                       - разум
+Never lose hope            - никогда не терять надежду
+unit test                  - модульное тестирование
+some                       - некоторое количество
+Corner                     - перекресток
 send a text message        - отправлять текстовое сообщение
 pencil                     - карандаш
 Face your fears            - преодолеть свои страхи
 Love unconditionally       - любить безусловно
 present                    - подарок
 hunt                       - охотиться
-meditate                   - медитировать
 kingdom                    - королевство
 compiler                   - компилятор
 Just in case               - на всякий случай
 bike                       - мотоцикл
 Sentence                   - речення
-Clever                     - умный
-tomorrow                   - завтра
 go for a walk              - идти на прогулку
 Embrace change             - принимать перемену
-As far as i know           - насколько я знаю
 assignment                 - операция присваивания
 Guard                      - охранник
 Stay humble                - оставаться скромным
-surf the internet          - серфить в интернете
 Work towards your goal     - работать на достижение цели
 Cherish your loved ones    - дорожить близкими
 Schedule                   - график
 Spelling mistake           - грамматическая ошибка
 Elections                  - выборы
 Confident                  - уверен
-Consequence                - последствие
 Government                 - власть
 Scientific research        - научное исследование
 take a shower              - принимать душ
 cache                      - кэш
 Learn from your mistakes   - учиться на своих ошибках
 capitalized                - с большой буквы
+road                       - дорога
+Reliable                   - надежный

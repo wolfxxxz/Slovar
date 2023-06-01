@@ -1,73 +1,43 @@
+water - вода
+Never give up - никогда не сдаваться
+know - знать
+make a phone call - звонить по телефону
+acceptance test - приемочное тестирование
+mind - разум
+Never lose hope - никогда не терять надежду
+unit test - модульное тестирование
+some - некоторое количество
+Corner - перекресток
 send a text message - отправлять текстовое сообщение
 pencil - карандаш
 Face your fears - преодолеть свои страхи
 Love unconditionally - любить безусловно
 present - подарок
 hunt - охотиться
-meditate - медитировать
 kingdom - королевство
 compiler - компилятор
 Just in case - на всякий случай
 bike - мотоцикл
 Sentence - речення
-Clever - умный
-tomorrow - завтра
 go for a walk - идти на прогулку
 Embrace change - принимать перемену
-As far as i know - насколько я знаю
 assignment - операция присваивания
 Guard - охранник
 Stay humble - оставаться скромным
-surf the internet - серфить в интернете
 Work towards your goal - работать на достижение цели
 Cherish your loved ones - дорожить близкими
 Schedule - график
 Spelling mistake - грамматическая ошибка
 Elections - выборы
 Confident - уверен
-Consequence - последствие
 Government - власть
 Scientific research - научное исследование
 take a shower - принимать душ
 cache - кэш
 Learn from your mistakes - учиться на своих ошибках
 capitalized - с большой буквы
-that - тот
 road - дорога
-sleep - спать
-those - те
-Neither me nor yours - не моя и не твоя
-evening - вечер
-polymorphism - полиморфизм
-April - апрель
-night - ночь
-static - статический
-go for a run - бегать
-flower - цветок
-debugger - отладчик
-speech - речь
-forever - навсегда
-dad - папа
-Corner - перекресток
-some - некоторое количество
-unit test - модульное тестирование
-Never lose hope - никогда не терять надежду
-mind - разум
-acceptance test - приемочное тестирование
-make a phone call - звонить по телефону
-know - знать
-Never give up - никогда не сдаваться
-water - вода
-voice - голос
-routing - маршрутизация
-gold - золото
-against - против
-do exercise - заниматься упражнениями
-bee - пчела
-July - июль
-we - мы
-something - что нибудь
-back - назад
+Reliable - надежный
 someone - кто нибудь
 eye - глаз
 believe - верить
@@ -164,7 +134,6 @@ outer - внешний
 Windy - ветреный
 case - случай
 open - открывать
-Reason for - причина __
 Wheel - колесо
 Passed - сдал, прошел (past)
 iteration - итерация
@@ -221,7 +190,6 @@ Piss me off - вывести из себя
 Significantly - значительно (S)
 Look it up in a dictionary - найти это в словаре
 Switch on - включить
-supper - поздний ужин
 Wait for him - ждать его
 apartment - квартира (A)
 Absent - отсутствует
@@ -356,7 +324,6 @@ taxi - такси
 destructor - деструктор
 Greatly - очень сильно
 easy - легко, лёгкий, спокойно 
-speed - скорость
 Region - район R
 Went to the park on foot - пошли в парк пешком (go)
 default - по умолчанию
@@ -364,7 +331,6 @@ fourteen - 14
 kill - убийство
 select - выбирать
 branch - ветка
-Happen to - произошло с
 Inspire - вдохновлять
 Go out - идти на выход, выходить
 today - сегодня
@@ -440,9 +406,7 @@ understand - понимать
 Bag - сумка
 Century - 100 летие
 Route - маршрут
-Reply - ответ (редко)
 finally - наконец
-Notify - уведомлять
 Frighten - пугает
 Option - вариант
 it seems to be - это кажется
@@ -712,7 +676,6 @@ textbook - учебник
 repeat - повторять
 into - в
 Satisfied with - удовлетворён с
-React to - реагировать на
 goodbye - до свидания
 fall - падать
 throw - выбрасывать исключение
@@ -734,7 +697,6 @@ be able - смогу (будущее)
 but - но
 Tired of - устал от
 Join - присоединится
-Count on - рассчитывать на
 bed - кровать
 Independent of - независимая от, самостоятельный _
 Inform of - информировать о
@@ -816,7 +778,6 @@ Victim - жертва
 Hang hung hung - вешать
 Much more - Гораздо более
 tiger - тигр
-Measure - мера
 four - 4
 communicate - общаться
 Careful - осторожно
@@ -964,7 +925,6 @@ soup - суп
 Translate from into - переводить с на
 Neighborhood - район
 new - новый
-Seldom - редко
 Lend - давать в долг
 soft - мягкий
 can - может
@@ -1152,7 +1112,6 @@ day - день
 change - изменять
 room - комната
 request - запрос
-Prepare for - подготовиться к
 Garden - сад
 half - половина
 nothing - ничто
@@ -1269,7 +1228,6 @@ Interested in - заинтересован в
 Be yourself - быть самим собой
 get dressed - одеваться
 Only once in a year - только раз в год?
-peace - мир
 forward - вперёд
 Stay organized - оставаться организованным
 far - далёкий
@@ -1457,7 +1415,6 @@ Following - следующие (ошибки)
 Choose chose chosen - выбирать
 have had had - иметь
 Deliver - доставлять
-Rarely - редко
 She washed herself - она покупалась
 nine - 9
 Issue - проблема
@@ -1523,7 +1480,6 @@ Sink sank sunk - тонуть
 Last for - длится _
 Forgive forgave forgiven - прощать
 Allow allowed allowed - разрешить (A)
-Accuse of - обвинять в
 Singer - певец
 Beauty - красота
 if - если
@@ -1849,12 +1805,10 @@ Service - услуга
 Search - поиск
 Produce - производить
 Prettier - красивее
-Accustomed to - привык к
 Pain - боль
 Taxes - налоги
 War - война
 Strategy - стратегия
-Vote - голос
 Society - общество
 Army - армия
 argument - аргумент
@@ -1875,7 +1829,6 @@ While - в то время
 Pet - питомец
 Sand - песок
 Sick - больной
-Take care - заботиться
 Statement - утверждение, Заявление
 Instance - случай, пример
 Wealth - богатство
@@ -1883,7 +1836,6 @@ Mayor - мэр
 Navy - флот
 Leader - лидер
 Freedom - свобода
-Demand - требовать
 Illegal - незаконно
 On my own - самостоятельно
 Laws - законы
@@ -1913,7 +1865,6 @@ Since - поскольку, с
 Cause - дело, причина
 Debts - долги
 Safety - безопасность
-Court - суд
 See the difference - увидеть разницу
 Economy - экономика
 Sense of humor - чувство юмора
@@ -1989,3 +1940,54 @@ dinner - ужин
 Lead to - приводит к
 Only once - только раз
 message - сообщение
+meditate - медитировать
+Clever - умный
+tomorrow - завтра
+As far as i know - насколько я знаю
+surf the internet - серфить в интернете
+Consequence - последствие
+that - тот
+sleep - спать
+those - те
+evening - вечер
+polymorphism - полиморфизм
+April - апрель
+night - ночь
+static - статический
+flower - цветок
+speech - речь
+Demand - требовать
+Get used - привыкнуть
+Disadvantage - недостаток
+All the best - всё возможное
+everything possible - всё возможное
+Supper - ужин
+Quiet - тихо
+Formation - образование, Формирование
+Middle - середина
+Rarely - редко
+Disapprove - не одобрять
+Science - наука
+Computer science - информатика
+Speed - скорость
+Distance - расстояние
+Volume - объём
+Members - участники, члены
+Take care - заботиться
+Complain about - пожаловаться на
+Would - как бы
+React to - реагировать на
+Ready for - готов к
+Count on - рассчитывать на
+Reason for - причина __
+Quality - качество
+Fully - полностью
+Reply - ответ (редко)
+Depth - глубина
+Measure - мера
+Formula - формула
+Concept - понятие, концепция, идея
+peace - мир
+Court - суд
+Get well - выздороветь
+Vote - голос

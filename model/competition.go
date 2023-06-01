@@ -32,7 +32,10 @@ func (s *Slovarick) WorkTest() (LearnSlice *Slovarick) {
 		if v == nil {
 			break
 		}
-		y, n := Compare(*v, K)
+		y, n, hey := Compare(*v, K)
+		if !hey {
+			break
+		}
 		if y > 0 {
 			yes++
 			v.RightAswer += 1
@@ -63,7 +66,10 @@ func (s Slovarick) LearnWords() {
 		if v == nil {
 			break
 		}
-		y, _ := Compare(*v, K)
+		y, _, hey := Compare(*v, K)
+		if !hey {
+			break
+		}
 
 		if y > 0 && len(s.Words) != 1 {
 			s.Words = s.Words[1:]
@@ -94,11 +100,15 @@ func ScanInt() (n int) {
 }
 
 // Сравнение строк / пробелы между словами "_"
-func Compare(l Word, mapWord map[string]string) (yes int, not int) {
+func Compare(l Word, mapWord map[string]string) (yes int, not int, hey bool) {
 	fmt.Println(l.Russian, " ||Тема: ", l.Theme)
 	c := IgnorProbel(l.English)
 
 	a, _ := ScanStringOne()
+	if a == "exit" {
+		hey = false
+		return yes, not, hey
+	}
 	s := IgnorProbel(a)
 
 	if strings.EqualFold(c, s) {
@@ -111,7 +121,7 @@ func Compare(l Word, mapWord map[string]string) (yes int, not int) {
 		not++
 		fmt.Println("Incorect:", l.English)
 	}
-	return yes, not
+	return yes, not, true
 	/* Если захочется игнорировать одну ошибку в слове
 	if moreThanOneMistake(c, s) {
 		yes++
