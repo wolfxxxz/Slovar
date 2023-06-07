@@ -1,33 +1,10 @@
 Elections - выборы
-Cherish your loved ones - дорожить близкими
-Stay humble - оставаться скромным
-assignment - операция присваивания
-Embrace change - принимать перемену
-Love unconditionally - любить безусловно
-Face your fears - преодолеть свои страхи
-unit test - модульное тестирование
-acceptance test - приемочное тестирование
-Thought - мысль
 Thoughtful - задумчивый
-Courageously - отважно
-I lay down - я лёг
-Blow blew blown - дуть
-Inspire - вдохновлять
-Deserve - заслуживать
-Tips and tricks - уловки и трюки
-Revise - повторить
 Express - выражать
 Lay laid laid - класть
-Imagine - воображать
-Spoil spoilt spoilt - портить
 Consider - учитывать
-Compare - сравнивать
 Require - требовать
 Hang hung hung - вешать
-Hide hid hidden - прятать
-Decrease - уменьшать
-Scientists - учёный
-Surprise by - удивлён от
 Succeed in - получилось
 Arrive in at - прибывать
 Angry with about - рассержен на
@@ -35,15 +12,10 @@ Approve of - одобрять
 Amazed by - поражён
 Accuse of - обвинять в
 Rely on - полагаться на
-Ready for - готов к
-Impress by - впечатлен от
-Consist of - состоит из
 Subscribe to - подписаться на
 Bored with - скучно от
-Ghost - привидение
 Disapprove - не одобрять
 Robbery - ограбление
-Would - как бы
 Concept - понятие
 Investigation - дослідження
 Chemistry - химия
@@ -52,50 +24,23 @@ Take into consideration - взять во внимание
 To what extent - в какой степени
 Reliable - надежный
 I am going to ask them - я позже спрошу их
-Vote - голос
 Get rid of - избавиться от
 Disadvantage - недостаток
-My best - всё возможное
-Formation - образование, Формирование
-Middle - середина
-Get well - выздороветь
-Give a speech - выступить с промова
 Edition - издание
-Unit - единица измерения, подразделение
 Sample - пример
 Publication - издание
-Lengths - продолжительность
-Mass - масса
 Surface - поверхность
 Definition - определение
 At this point - в данный момент
-Quality - качество
-Fully - полностью
-Limit - граница
 Confident - уверен
 Government - власть
 capitalized - с большой буквы
-Cycling - кататься на велосипеде
-Generous - щедрый
 I had not eaten since Tuesday - я не ел со вторника
 I started to cover this subject - я начал освещать эту тему
 I thought you had found the suitcase - Я думал, что вы нашли чемодан
-I'm ready for the consequences - Я готов к последствиям
-The teacher had given me the answer - учитель дал мне ответ
-There was a great lack of rice that year - В том году было большое нехватка риса
 Leg - нога
-Hook - крюк
-Jacket - куртка, пиджак
-ship - корабль
-He drowned - он утонул
-Drown - тонуть (человек)
-Age - возраст
-quantity - количество
 fake - поддельный
-Single - один
 On Wednesdays - по средам
-final - последний, решающий
-Impolite - невежливый
 Absence - отсутствие, недостаток, неявка
 memory leak - утечка памяти
 update - обновлять
@@ -2034,3 +1979,56 @@ Throw to me - бросил мне
 Masterpiece - шедевр
 Promise - обещание
 mind - разум
+Stay humble - оставаться скромным
+Face your fears - преодолеть свои страхи
+Thought - мысль
+I lay down - я лёг
+Blow blew blown - дуть
+Inspire - вдохновлять
+Deserve - заслуживать
+Revise - повторить
+Imagine - воображать
+Spoil spoilt spoilt - портить
+Compare - сравнивать
+Hide hid hidden - прятать
+Decrease - уменьшать
+Scientists - учёный
+Surprise by - удивлён от
+Ready for - готов к
+Consist of - состоит из
+Ghost - привидение
+Would - как бы
+Vote - голос
+My best - всё возможное
+Formation - образование, Формирование
+Get well - выздороветь
+Give a speech - выступить с промова
+Unit - единица измерения, подразделение
+Lengths - продолжительность
+Mass - масса
+Quality - качество
+Fully - полностью
+Limit - граница
+Generous - щедрый
+I'm ready for the consequences - Я готов к последствиям
+Drown - тонуть (человек)
+Age - возраст
+quantity - количество
+Single - один
+Impolite - невежливый
+final - последний, решающий
+He drowned - он утонул
+ship - корабль
+Jacket - куртка, пиджак
+Hook - крюк
+There was a great lack of rice that year - В том году было большое нехватка риса
+The teacher had given me the answer - учитель дал мне ответ
+Cycling - кататься на велосипеде
+Middle - середина
+Impress by - впечатлен от
+Tips and tricks - уловки и трюки
+Courageously - отважно
+unit test - модульное тестирование
+Cherish your loved ones - дорожить близкими
+assignment - операция присваивания
+Embrace change - принимать перемену

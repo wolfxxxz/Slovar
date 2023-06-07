@@ -9,122 +9,10 @@
       },
       {
          "id": 0,
-         "english": "Cherish your loved ones",
-         "russian": "дорожить близкими",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Stay humble",
-         "russian": "оставаться скромным",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "assignment",
-         "russian": "операция присваивания",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Embrace change",
-         "russian": "принимать перемену",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Love unconditionally",
-         "russian": "любить безусловно",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Face your fears",
-         "russian": "преодолеть свои страхи",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "unit test",
-         "russian": "модульное тестирование",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "acceptance test",
-         "russian": "приемочное тестирование",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Thought",
-         "russian": "мысль",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
          "english": "Thoughtful",
          "russian": "задумчивый",
          "theme": "",
          "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Courageously",
-         "russian": "отважно",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "I lay down",
-         "russian": "я лёг",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Blow blew blown",
-         "russian": "дуть",
-         "theme": "irregular verb",
-         "rightAnswer": 2
-      },
-      {
-         "id": 0,
-         "english": "Inspire",
-         "russian": "вдохновлять",
-         "theme": "adjective",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Deserve",
-         "russian": "заслуживать",
-         "theme": "",
-         "rightAnswer": 2
-      },
-      {
-         "id": 0,
-         "english": "Tips and tricks",
-         "russian": "уловки и трюки",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Revise",
-         "russian": "повторить",
-         "theme": "",
-         "rightAnswer": 0
       },
       {
          "id": 0,
@@ -142,29 +30,8 @@
       },
       {
          "id": 0,
-         "english": "Imagine",
-         "russian": "воображать",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Spoil spoilt spoilt",
-         "russian": "портить",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Consider",
          "russian": "учитывать",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Compare",
-         "russian": "сравнивать",
          "theme": "",
          "rightAnswer": 0
       },
@@ -180,34 +47,6 @@
          "english": "Hang hung hung",
          "russian": "вешать",
          "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Hide hid hidden",
-         "russian": "прятать",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Decrease",
-         "russian": "уменьшать",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Scientists",
-         "russian": "учёный",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Surprise by",
-         "russian": "удивлён от",
-         "theme": "preposition",
          "rightAnswer": 0
       },
       {
@@ -261,27 +100,6 @@
       },
       {
          "id": 0,
-         "english": "Ready for",
-         "russian": "готов к",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Impress by",
-         "russian": "впечатлен от",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Consist of",
-         "russian": "состоит из",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Subscribe to",
          "russian": "подписаться на",
          "theme": "preposition",
@@ -296,13 +114,6 @@
       },
       {
          "id": 0,
-         "english": "Ghost",
-         "russian": "привидение",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Disapprove",
          "russian": "не одобрять",
          "theme": "",
@@ -312,13 +123,6 @@
          "id": 0,
          "english": "Robbery",
          "russian": "ограбление",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Would",
-         "russian": "как бы",
          "theme": "",
          "rightAnswer": 0
       },
@@ -380,13 +184,6 @@
       },
       {
          "id": 0,
-         "english": "Vote",
-         "russian": "голос",
-         "theme": "",
-         "rightAnswer": 2
-      },
-      {
-         "id": 0,
          "english": "Get rid of",
          "russian": "избавиться от",
          "theme": "phrase verb",
@@ -401,50 +198,8 @@
       },
       {
          "id": 0,
-         "english": "My best",
-         "russian": "всё возможное",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Formation",
-         "russian": "образование, Формирование",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Middle",
-         "russian": "середина",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Get well",
-         "russian": "выздороветь",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Give a speech",
-         "russian": "выступить с промова",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Edition",
          "russian": "издание",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Unit",
-         "russian": "единица измерения, подразделение",
          "theme": "",
          "rightAnswer": 0
       },
@@ -459,20 +214,6 @@
          "id": 0,
          "english": "Publication",
          "russian": "издание",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Lengths",
-         "russian": "продолжительность",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Mass",
-         "russian": "масса",
          "theme": "",
          "rightAnswer": 0
       },
@@ -499,27 +240,6 @@
       },
       {
          "id": 0,
-         "english": "Quality",
-         "russian": "качество",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Fully",
-         "russian": "полностью",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Limit",
-         "russian": "граница",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Confident",
          "russian": "уверен",
          "theme": "",
@@ -538,20 +258,6 @@
          "russian": "с большой буквы",
          "theme": "",
          "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Cycling",
-         "russian": "кататься на велосипеде",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Generous",
-         "russian": "щедрый",
-         "theme": "",
-         "rightAnswer": 1
       },
       {
          "id": 0,
@@ -576,79 +282,9 @@
       },
       {
          "id": 0,
-         "english": "I'm ready for the consequences",
-         "russian": "Я готов к последствиям",
-         "theme": "Phrase",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "The teacher had given me the answer",
-         "russian": "учитель дал мне ответ",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "There was a great lack of rice that year",
-         "russian": "В том году было большое нехватка риса",
-         "theme": "Phrase",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
          "english": "Leg",
          "russian": "нога",
          "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Hook",
-         "russian": "крюк",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Jacket",
-         "russian": "куртка, пиджак",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "ship",
-         "russian": "корабль",
-         "theme": "noun",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "He drowned",
-         "russian": "он утонул",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Drown",
-         "russian": "тонуть (человек)",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Age",
-         "russian": "возраст",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "quantity",
-         "russian": "количество",
-         "theme": "Work",
          "rightAnswer": 1
       },
       {
@@ -660,30 +296,9 @@
       },
       {
          "id": 0,
-         "english": "Single",
-         "russian": "один",
-         "theme": "Home",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
          "english": "On Wednesdays",
          "russian": "по средам",
          "theme": "preposition",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "final",
-         "russian": "последний, решающий",
-         "theme": "adjective",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Impolite",
-         "russian": "невежливый",
-         "theme": "",
          "rightAnswer": 1
       },
       {
@@ -14250,6 +13865,377 @@
          "english": "mind",
          "russian": "разум",
          "theme": "body",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Stay humble",
+         "russian": "оставаться скромным",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Face your fears",
+         "russian": "преодолеть свои страхи",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Thought",
+         "russian": "мысль",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "I lay down",
+         "russian": "я лёг",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Blow blew blown",
+         "russian": "дуть",
+         "theme": "irregular verb",
+         "rightAnswer": 3
+      },
+      {
+         "id": 0,
+         "english": "Inspire",
+         "russian": "вдохновлять",
+         "theme": "adjective",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Deserve",
+         "russian": "заслуживать",
+         "theme": "",
+         "rightAnswer": 3
+      },
+      {
+         "id": 0,
+         "english": "Revise",
+         "russian": "повторить",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Imagine",
+         "russian": "воображать",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Spoil spoilt spoilt",
+         "russian": "портить",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Compare",
+         "russian": "сравнивать",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Hide hid hidden",
+         "russian": "прятать",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Decrease",
+         "russian": "уменьшать",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Scientists",
+         "russian": "учёный",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Surprise by",
+         "russian": "удивлён от",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Ready for",
+         "russian": "готов к",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Consist of",
+         "russian": "состоит из",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Ghost",
+         "russian": "привидение",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Would",
+         "russian": "как бы",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Vote",
+         "russian": "голос",
+         "theme": "",
+         "rightAnswer": 3
+      },
+      {
+         "id": 0,
+         "english": "My best",
+         "russian": "всё возможное",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Formation",
+         "russian": "образование, Формирование",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Get well",
+         "russian": "выздороветь",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Give a speech",
+         "russian": "выступить с промова",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Unit",
+         "russian": "единица измерения, подразделение",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Lengths",
+         "russian": "продолжительность",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Mass",
+         "russian": "масса",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Quality",
+         "russian": "качество",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Fully",
+         "russian": "полностью",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Limit",
+         "russian": "граница",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Generous",
+         "russian": "щедрый",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "I'm ready for the consequences",
+         "russian": "Я готов к последствиям",
+         "theme": "Phrase",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Drown",
+         "russian": "тонуть (человек)",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Age",
+         "russian": "возраст",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "quantity",
+         "russian": "количество",
+         "theme": "Work",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Single",
+         "russian": "один",
+         "theme": "Home",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Impolite",
+         "russian": "невежливый",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "final",
+         "russian": "последний, решающий",
+         "theme": "adjective",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "He drowned",
+         "russian": "он утонул",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "ship",
+         "russian": "корабль",
+         "theme": "noun",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Jacket",
+         "russian": "куртка, пиджак",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Hook",
+         "russian": "крюк",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "There was a great lack of rice that year",
+         "russian": "В том году было большое нехватка риса",
+         "theme": "Phrase",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "The teacher had given me the answer",
+         "russian": "учитель дал мне ответ",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Cycling",
+         "russian": "кататься на велосипеде",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Middle",
+         "russian": "середина",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Impress by",
+         "russian": "впечатлен от",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Tips and tricks",
+         "russian": "уловки и трюки",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Courageously",
+         "russian": "отважно",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "unit test",
+         "russian": "модульное тестирование",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Cherish your loved ones",
+         "russian": "дорожить близкими",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "assignment",
+         "russian": "операция присваивания",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Embrace change",
+         "russian": "принимать перемену",
+         "theme": "Phrase",
          "rightAnswer": 1
       }
    ]

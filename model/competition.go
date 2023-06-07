@@ -10,6 +10,7 @@ import (
 )
 
 func (s *Slovarick) WorkTest() (LearnSlice *Slovarick) {
+	startTime := time.Now()
 
 	K := s.CreateAndInitMapWords()
 	LearnSlice = NewSlovarick(nil)
@@ -48,7 +49,8 @@ func (s *Slovarick) WorkTest() (LearnSlice *Slovarick) {
 			break
 		}
 	}
-	// Сохранить то что не смог выучить в learning.txt
+	duration := time.Since(startTime)
+	fmt.Printf("Time: %.0f seconds\n", duration.Seconds())
 
 	fmt.Println(yes, not)
 	return
@@ -56,6 +58,9 @@ func (s *Slovarick) WorkTest() (LearnSlice *Slovarick) {
 
 // Учить слова которые в тесте не смог выучить
 func (s Slovarick) LearnWords() {
+	// Измерить время выполнения
+	startTime := time.Now()
+
 	fmt.Println("                 Learn Words")
 	K := s.CreateAndInitMapWords()
 	for {
@@ -81,6 +86,8 @@ func (s Slovarick) LearnWords() {
 			break
 		}
 	}
+	duration := time.Since(startTime)
+	fmt.Printf("Time: %.0f seconds\n", duration.Seconds())
 }
 
 func ScanInt() (n int) {
