@@ -1,53 +1,34 @@
-Cheaply - дешево
-bruh - братан
-Entry - вход
-Abilities - способности
-Front - перед (домом)
-As always - как всегда, як завжди
-Take on - взять на
-Continue doing - продолжить делать
-Rude - грубый
-Introduce - представить
-Developed - развивать (past)
-Wonderful - Замечательный, чудесный
-Passed - сдал, прошел (past)
-open - открывать
-case - случай
-outer - внешний
-Vehicle - транспорт
-hope - надеяться
-update - обновлять
-Absence - отсутствие, недостаток, неявка
-Leg - нога
-I thought you had found the suitcase - Я думал, что вы нашли чемодан
-I started to cover this subject - я начал освещать эту тему
-I had not eaten since Tuesday - я не ел со вторника
-capitalized - с большой буквы
-Government - власть
-Confident - уверен
-Edition - издание
-Disadvantage - недостаток
-Get rid of - избавиться от
-I am going to ask them - я позже спрошу их
-Reliable - надежный
-To what extent - в какой степени
-Take into account - взять во внимание
-Concept - понятие
-Robbery - ограбление
-Bored with - скучно от
-Rely on - полагаться на
-Accuse of - обвинять в
-Approve of - одобрять
-Arrive in at - прибывать
-Succeed in - получилось
-Hang hung hung - вешать
-Require - требовать
-Consider - учитывать
-Lay laid laid - класть
-Express - выражать
-Pit - яма
-Conversation - разговор
 My native city - мой родной город
+Conversation - разговор
+Pit - яма
+Lay laid laid - класть
+Consider - учитывать
+Require - требовать
+Hang hung hung - вешать
+Succeed in - получилось
+Approve of - одобрять
+Rely on - полагаться на
+Concept - понятие
+Take into account - взять во внимание
+Reliable - надежный
+I am going to ask them - я позже спрошу их
+Get rid of - избавиться от
+Disadvantage - недостаток
+Edition - издание
+Confident - уверен
+Government - власть
+capitalized - с большой буквы
+I had not eaten since Tuesday - я не ел со вторника
+I started to cover this subject - я начал освещать эту тему
+Leg - нога
+Absence - отсутствие, недостаток, неявка
+outer - внешний
+case - случай
+Passed - сдал, прошел (past)
+Wonderful - Замечательный, чудесный
+Developed - развивать (past)
+Take on - взять на
+bruh - братан
 Sense of humor - чувство юмора
 Spelling - правописание
 switch - переключатель
@@ -2038,3 +2019,22 @@ window - окно
 Earn - заработать
 Usually - обычно
 object - объект
+Cheaply - дешево
+Entry - вход
+Abilities - способности
+Front - перед (домом)
+As always - как всегда, як завжди
+Continue doing - продолжить делать
+Rude - грубый
+Introduce - представить
+open - открывать
+Vehicle - транспорт
+hope - надеяться
+update - обновлять
+I thought you had found the suitcase - Я думал, что вы нашли чемодан
+To what extent - в какой степени
+Robbery - ограбление
+Bored with - скучно от
+Accuse of - обвинять в
+Arrive in at - прибывать
+Express - выражать
