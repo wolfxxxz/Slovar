@@ -1,87 +1,55 @@
-Elections - выборы
-Thoughtful - задумчивый
-Express - выражать
-Lay laid laid - класть
-Consider - учитывать
-Require - требовать
-Hang hung hung - вешать
-Succeed in - получилось
-Arrive in at - прибывать
-Angry with about - рассержен на
-Approve of - одобрять
-Amazed by - поражён
-Accuse of - обвинять в
-Rely on - полагаться на
-Subscribe to - подписаться на
-Bored with - скучно от
-Disapprove - не одобрять
-Robbery - ограбление
-Concept - понятие
-Investigation - дослідження
-Chemistry - химия
-Take into account - взять во внимание
-Take into consideration - взять во внимание
-To what extent - в какой степени
-Reliable - надежный
-I am going to ask them - я позже спрошу их
-Get rid of - избавиться от
-Disadvantage - недостаток
-Edition - издание
-Sample - пример
-Publication - издание
-Surface - поверхность
-Definition - определение
-At this point - в данный момент
-Confident - уверен
-Government - власть
-capitalized - с большой буквы
-I had not eaten since Tuesday - я не ел со вторника
-I started to cover this subject - я начал освещать эту тему
-I thought you had found the suitcase - Я думал, что вы нашли чемодан
-Leg - нога
-fake - поддельный
-On Wednesdays - по средам
-Absence - отсутствие, недостаток, неявка
-memory leak - утечка памяти
-update - обновлять
-Clothes - одежда
-hope - надеяться
-Vehicle - транспорт
-cut - резать
-outer - внешний
-Windy - ветреный
-case - случай
-open - открывать
-Wheel - колесо
-Passed - сдал, прошел (past)
-iteration - итерация
-Write it down - записывать что то
-Wonderful - Замечательный, чудесный
-only - только
-Shirt - рубашка
-Developed - развивать (past)
-Stay - остаться
-On time - вовремя
-spider - паук
-Guest - гость
-The following - следующие (вопросы)
-Introduce - представить
-write - писать
-Sign - подписать
-Rude - грубый
-Continue doing - продолжить делать
-During - на протяжении (моего сна)
-Take on - взять на
-As always - как всегда, як завжди
-Front - перед (домом)
-Abilities - способности
-Entry - вход
-bruh - братан
-window - окно
-object - объект
 Cheaply - дешево
-Earn - заработать
-Usually - обычно
+bruh - братан
+Entry - вход
+Abilities - способности
+Front - перед (домом)
+As always - как всегда, як завжди
+Take on - взять на
+Continue doing - продолжить делать
+Rude - грубый
+Introduce - представить
+Developed - развивать (past)
+Wonderful - Замечательный, чудесный
+Passed - сдал, прошел (past)
+open - открывать
+case - случай
+outer - внешний
+Vehicle - транспорт
+hope - надеяться
+update - обновлять
+Absence - отсутствие, недостаток, неявка
+Leg - нога
+I thought you had found the suitcase - Я думал, что вы нашли чемодан
+I started to cover this subject - я начал освещать эту тему
+I had not eaten since Tuesday - я не ел со вторника
+capitalized - с большой буквы
+Government - власть
+Confident - уверен
+Edition - издание
+Disadvantage - недостаток
+Get rid of - избавиться от
+I am going to ask them - я позже спрошу их
+Reliable - надежный
+To what extent - в какой степени
+Take into account - взять во внимание
+Concept - понятие
+Robbery - ограбление
+Bored with - скучно от
+Rely on - полагаться на
+Accuse of - обвинять в
+Approve of - одобрять
+Arrive in at - прибывать
+Succeed in - получилось
+Hang hung hung - вешать
+Require - требовать
+Consider - учитывать
+Lay laid laid - класть
+Express - выражать
+Pit - яма
+Conversation - разговор
+My native city - мой родной город
+Sense of humor - чувство юмора
+Spelling - правописание
 switch - переключатель
 Siblings - братья и сёстры
 By profession - по профессии
@@ -319,7 +287,6 @@ Face problem - столкнутся с проблемой
 learn - учиться
 understand - понимать
 Bag - сумка
-Century - 100 летие
 Route - маршрут
 finally - наконец
 Frighten - пугает
@@ -874,7 +841,6 @@ Prayed - молился
 chicken - курица, цыплёнок
 duck - утка
 daughter - дочь
-Adjective - прилагательное
 Border - граница
 Introduction - вступление
 many - много (идей)
@@ -1531,13 +1497,11 @@ Former - бывший
 Interest - процент, интерес
 Performance - выступление
 Permission - разрешение
-Pit - яма
 Plant - растение
 Suffer - страдать
 Transform - превратиться, трансформировать
 Discount - скидка
 Fashionable - модный
-Complaint - жалоба
 Break down - сломаться
 Unpredictable - непредсказуемый
 There was no damage - не было повреждения
@@ -1590,7 +1554,6 @@ Cancel - отменить
 Character - характер
 Captain - капитан
 Below average - ниже среднего
-belt - ремень
 Injury - сильно задеть, Травма
 Acquaintance - Знакомство, знакомый
 i leave for - я уезжаю в
@@ -1602,9 +1565,7 @@ Classmate - одноклассник
 Cleaner - чище (чистота)
 Clear - чистый, прозрачный
 Cloud - облако
-Conclusion - вывод
 Construction - стройка
-Conversation - разговор
 Good - хорошо
 Good shape - хорошая форма (спорт)
 Great - большая (британия), чудова
@@ -1765,12 +1726,10 @@ Close to his heart - близко к его сердцу
 Little time - мало времени
 Timetable - расписание
 Since - поскольку, с
-Cause - дело, причина
 Debts - долги
 Safety - безопасность
 See the difference - увидеть разницу
 Economy - экономика
-Sense of humor - чувство юмора
 Law - закон
 outstanding - выдающийся
 Pie - пирог
@@ -2009,7 +1968,6 @@ Mass - масса
 Quality - качество
 Fully - полностью
 Limit - граница
-Generous - щедрый
 I'm ready for the consequences - Я готов к последствиям
 Drown - тонуть (человек)
 Age - возраст
@@ -2032,3 +1990,51 @@ unit test - модульное тестирование
 Cherish your loved ones - дорожить близкими
 assignment - операция присваивания
 Embrace change - принимать перемену
+Install - установить
+download - скачать
+unpack - распаковать
+Generous - щедрый
+Century - век
+Conclusion - вывод
+Safe - безопасно
+Complaint - жалоба
+belt - ремень
+Adjective - прилагательное
+Cause - дело, причина
+Elections - выборы
+Thoughtful - задумчивый
+Angry with about - рассержен на
+Amazed by - поражён
+Subscribe to - подписаться на
+Disapprove - не одобрять
+Investigation - дослідження
+Chemistry - химия
+Take into consideration - взять во внимание
+Sample - пример
+Publication - издание
+Surface - поверхность
+Definition - определение
+At this point - в данный момент
+fake - поддельный
+On Wednesdays - по средам
+memory leak - утечка памяти
+Clothes - одежда
+cut - резать
+Windy - ветреный
+Wheel - колесо
+iteration - итерация
+Write it down - записывать что то
+only - только
+Shirt - рубашка
+Stay - остаться
+On time - вовремя
+spider - паук
+Guest - гость
+The following - следующие (вопросы)
+write - писать
+Sign - подписать
+During - на протяжении (моего сна)
+window - окно
+Earn - заработать
+Usually - обычно
+object - объект

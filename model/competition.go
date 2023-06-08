@@ -45,6 +45,7 @@ func (s *Slovarick) WorkTest() (LearnSlice *Slovarick) {
 			not++
 			s.Preppend(v)
 			LearnSlice.Preppend(v)
+			//
 		} else {
 			break
 		}
@@ -127,6 +128,14 @@ func Compare(l Word, mapWord map[string]string) (yes int, not int, hey bool) {
 	} else {
 		not++
 		fmt.Println("Incorect:", l.English)
+		for {
+			fmt.Println("Please enter correct: ")
+			j, _ := ScanStringOne()
+			jj := IgnorProbel(j)
+			if strings.EqualFold(c, jj) {
+				break
+			}
+		}
 	}
 	return yes, not, true
 	/* Если захочется игнорировать одну ошибку в слове

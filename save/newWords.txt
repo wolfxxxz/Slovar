@@ -1,1 +1,2 @@
-You need to add your words here
+offset - компенсировать
+whence - откуда
