@@ -1,103 +1,60 @@
-My native city - мой родной город
-Conversation - разговор
-Pit - яма
-Lay laid laid - класть
-Consider - учитывать
-Require - требовать
-Hang hung hung - вешать
-Succeed in - получилось
-Approve of - одобрять
-Rely on - полагаться на
-Concept - понятие
-Take into account - взять во внимание
-Reliable - надежный
-I am going to ask them - я позже спрошу их
-Get rid of - избавиться от
-Disadvantage - недостаток
-Edition - издание
-Confident - уверен
-Government - власть
-capitalized - с большой буквы
-I had not eaten since Tuesday - я не ел со вторника
-I started to cover this subject - я начал освещать эту тему
-Leg - нога
-Absence - отсутствие, недостаток, неявка
-outer - внешний
-case - случай
-Passed - сдал, прошел (past)
-Wonderful - Замечательный, чудесный
-Developed - развивать (past)
-Take on - взять на
-bruh - братан
-Sense of humor - чувство юмора
-Spelling - правописание
-switch - переключатель
-Siblings - братья и сёстры
-By profession - по профессии
-Saturday - суббота
-See you tomorrow - увидимся завтра
-down - вниз
-Valley - долина
-eagle - орёл
-Report - отчёт
-Activity - деятельность
-Living - живой
-Data - данные
-she - она
-Improve - улучшить
-Slim - стройный
-Reached - достиг
-Everywhere - везде
-camel - верблюд
-The Costs - издержки, расходы
-Appearance - внешность
-North - север
-body - тело
-Piss me off - вывести из себя
-Significantly - значительно (S)
-Look it up in a dictionary - найти это в словаре
-Switch on - включить
-Wait for him - ждать его
-apartment - квартира (A)
-Absent - отсутствует
-nose - нос
-cow - корова
-Famous - известный
-mail - почта
-Revised - повторённый, пересмотренный
-word - слово
-game - игра
-space - космос, пространство
-friend - друг
-ascending - возрастаю
-Educated - образованный
-loop - цикл
-prepend - добавлять в начало
-door - дверь
-visa - виза
-where - где
-Don't freak out - не паникуй
-star - звезда
-high - высокий
-Alone - (живёт) сама
-Finish it - закончить это
-when - когда
-Avenue - проспект
-Belong to - принадлежать
-Square - площадь
-around - вокруг
-wife - жена
-foreach - для каждого
-stop - останавливать
-As - в то время когда (я ем _ я гуляю)
-Description - описание
-Decision - решение
-interface - интерфейс
-Interrupt - перебивать
-low - низкий
-data structure - структура данных
 Tall - высокий
-Amazing - восхитительно
+data structure - структура данных
+As - в то время когда (я ем _ я гуляю)
+foreach - для каждого
+around - вокруг
+Square - площадь
+Belong to - принадлежать
+Avenue - проспект
+Alone - (живёт) сама
+high - высокий
+Don't freak out - не паникуй
+loop - цикл
+ascending - возрастаю
+friend - друг
+space - космос, пространство
+Revised - повторённый, пересмотренный
+mail - почта
+cow - корова
+Absent - отсутствует
+apartment - квартира (A)
+Switch on - включить
+Piss me off - вывести из себя
+Appearance - внешность
+The Costs - издержки, расходы
+camel - верблюд
+Everywhere - везде
+Reached - достиг
+Data - данные
+Living - живой
+Activity - деятельность
+eagle - орёл
+Valley - долина
+down - вниз
+See you tomorrow - увидимся завтра
+Saturday - суббота
+By profession - по профессии
+Siblings - братья и сёстры
+Spelling - правописание
+Developed - развивать (past)
+Wonderful - Замечательный, чудесный
+case - случай
+outer - внешний
+Absence - отсутствие, недостаток, неявка
+I started to cover this subject - я начал освещать эту тему
+capitalized - с большой буквы
+Confident - уверен
+Edition - издание
+Disadvantage - недостаток
+Get rid of - избавиться от
+I am going to ask them - я позже спрошу их
+Take into account - взять во внимание
+Rely on - полагаться на
+Approve of - одобрять
+Succeed in - получилось
+Require - требовать
+Lay laid laid - класть
+My native city - мой родной город
 Disagree - не согласен
 Armchair - кресло
 Vegetables - овощи
@@ -2038,3 +1995,46 @@ Bored with - скучно от
 Accuse of - обвинять в
 Arrive in at - прибывать
 Express - выражать
+Conversation - разговор
+Pit - яма
+Consider - учитывать
+Hang hung hung - вешать
+Concept - понятие
+Reliable - надежный
+Government - власть
+I had not eaten since Tuesday - я не ел со вторника
+Leg - нога
+Passed - сдал, прошел (past)
+Take on - взять на
+bruh - братан
+Sense of humor - чувство юмора
+switch - переключатель
+Report - отчёт
+she - она
+Improve - улучшить
+Slim - стройный
+North - север
+body - тело
+Significantly - значительно (S)
+Look it up in a dictionary - найти это в словаре
+Wait for him - ждать его
+nose - нос
+Famous - известный
+word - слово
+game - игра
+Educated - образованный
+prepend - добавлять в начало
+door - дверь
+visa - виза
+where - где
+star - звезда
+Finish it - закончить это
+when - когда
+wife - жена
+stop - останавливать
+Description - описание
+Decision - решение
+interface - интерфейс
+Interrupt - перебивать
+low - низкий
+Amazing - восхитительно

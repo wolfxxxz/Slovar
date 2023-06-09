@@ -1,31 +1,57 @@
-My native city             - мой родной город
-Conversation               - разговор
-Pit                        - яма
-Lay laid laid              - класть
-Consider                   - учитывать
-Require                    - требовать
-Hang hung hung             - вешать
-Succeed in                 - получилось
-Approve of                 - одобрять
-Rely on                    - полагаться на
-Concept                    - понятие
-Take into account          - взять во внимание
-Reliable                   - надежный
-I am going to ask them     - я позже спрошу их
-Get rid of                 - избавиться от
-Disadvantage               - недостаток
-Edition                    - издание
-Confident                  - уверен
-Government                 - власть
-capitalized                - с большой буквы
-I had not eaten since Tuesday - я не ел со вторника
-I started to cover this subject - я начал освещать эту тему
-Leg                        - нога
-Absence                    - отсутствие, недостаток, неявка
-outer                      - внешний
-case                       - случай
-Passed                     - сдал, прошел (past)
-Wonderful                  - Замечательный, чудесный
+Tall                       - высокий
+data structure             - структура данных
+As                         - в то время когда (я ем _ я гуляю)
+foreach                    - для каждого
+around                     - вокруг
+Square                     - площадь
+Belong to                  - принадлежать
+Avenue                     - проспект
+Alone                      - (живёт) сама
+high                       - высокий
+Don't freak out            - не паникуй
+loop                       - цикл
+ascending                  - возрастаю
+friend                     - друг
+space                      - космос, пространство
+Revised                    - повторённый, пересмотренный
+mail                       - почта
+cow                        - корова
+Absent                     - отсутствует
+apartment                  - квартира (A)
+Switch on                  - включить
+Piss me off                - вывести из себя
+Appearance                 - внешность
+The Costs                  - издержки, расходы
+camel                      - верблюд
+Everywhere                 - везде
+Reached                    - достиг
+Data                       - данные
+Living                     - живой
+Activity                   - деятельность
+eagle                      - орёл
+Valley                     - долина
+down                       - вниз
+See you tomorrow           - увидимся завтра
+Saturday                   - суббота
+By profession              - по профессии
+Siblings                   - братья и сёстры
+Spelling                   - правописание
 Developed                  - развивать (past)
-Take on                    - взять на
-bruh                       - братан
+Wonderful                  - Замечательный, чудесный
+case                       - случай
+outer                      - внешний
+Absence                    - отсутствие, недостаток, неявка
+I started to cover this subject - я начал освещать эту тему
+capitalized                - с большой буквы
+Confident                  - уверен
+Edition                    - издание
+Disadvantage               - недостаток
+Get rid of                 - избавиться от
+I am going to ask them     - я позже спрошу их
+Take into account          - взять во внимание
+Rely on                    - полагаться на
+Approve of                 - одобрять
+Succeed in                 - получилось
+Require                    - требовать
+Lay laid laid              - класть
+My native city             - мой родной город
