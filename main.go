@@ -30,6 +30,8 @@ func main() {
 		switch command {
 		case "update":
 			var LibraryWords model.Slovarick
+			var LibraryNewWords model.Slovarick
+			LibraryNewWords.TakeTXT(NewWords)
 			LibraryWords.Takejson(LibraryJson)
 			LibraryWords.UpdateLibrary(NewWords)
 			LibraryWords.DelDublikat()
@@ -48,10 +50,21 @@ func main() {
 			LibraryWords.SortLibrary()
 			LibraryWords.Savejson(LibraryJson)
 			LibraryWords.SaveTXT(LibraryTXT)
+			LibraryWords.SaveAlltoTXT(LibraryTXT)
 		case "learn":
 			var LibraryLearnWords model.Slovarick
 			LibraryLearnWords.TakeTXT(LearnWords)
 			LibraryLearnWords.LearnWords()
+		case "prepend":
+			var LibraryWords model.Slovarick
+			var LibraryNewWords model.Slovarick
+			LibraryNewWords.TakeTXT(NewWords)
+			LibraryWords.Takejson(LibraryJson)
+			LibraryWords.CheckAndDelDublikats(&LibraryNewWords)
+			LibraryWords.UpdateLibraryOnlyNewWords(&LibraryNewWords)
+			model.SaveEmptyTXT(NewWords, "You need to add your words here")
+			LibraryWords.Savejson(LibraryJson)
+			LibraryWords.SaveAlltoTXT(LibraryTXT)
 		case "exit":
 			fmt.Println("You have to do it, your dream wait")
 			return

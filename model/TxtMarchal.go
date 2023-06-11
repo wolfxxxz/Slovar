@@ -25,6 +25,25 @@ func (s *Slovarick) SaveTXT(files string) {
 	}
 }
 
+// Записать все значения в пустой файл
+func (s *Slovarick) SaveAlltoTXT(files string) {
+	file, err := os.Create(files)
+	if err != nil {
+		fmt.Println("Unable to create file:", err)
+		os.Exit(1)
+	}
+	defer file.Close()
+	for _, v := range s.Words {
+
+		file.WriteString(v.English)
+		file.WriteString(" - ")
+		file.WriteString(v.Russian)
+		file.WriteString(" - ")
+		file.WriteString(v.Theme)
+		file.WriteString("\n")
+	}
+}
+
 // Записать пустой .txt файл
 func SaveEmptyTXT(files string, txt string) {
 	file, err := os.Create(files)
@@ -107,6 +126,7 @@ func (s *Slovarick) TakeTXT(filetxt string) {
 	for _, vv := range sliseString {
 		SliceThreeString := []string{}
 		var Str string
+
 		for _, v := range vv {
 			if v == '-' && Str != "" {
 				strByte := []byte(Str)
@@ -127,6 +147,7 @@ func (s *Slovarick) TakeTXT(filetxt string) {
 			if v == '-' {
 				continue
 			}
+
 			Str = Str + string(v)
 		}
 		if len(SliceThreeString) > 3 {
@@ -172,6 +193,27 @@ func (oldWords *Slovarick) UpdateLibrary(filetxt string) {
 		fmt.Println("I believe in you!!!")
 	}
 }
+func (oldWords *Slovarick) UpdateLibraryOnlyNewWords(NewWords *Slovarick) {
+
+	c := len(oldWords.Words)
+	// Проверить на дубликаты
+
+	//--------Соединяем два среза в один--------------
+	oldWords.Words = append(NewWords.Words, oldWords.Words...)
+	//NewWords.Words = append(NewWords.Words, oldWords.Words...)
+
+	d := len(oldWords.Words)
+	// Записать в filetxt пустой
+
+	if d != c {
+		fmt.Println("                   New Words Add:", d-c)
+	} else {
+		fmt.Println("Для загрузки слов списком необходимо упорядочить и вставить слова в файл `save/newWords.txt`")
+		fmt.Println("english - перевод - тема")
+		fmt.Println("в конце оставить пустую строчку")
+		fmt.Println("I believe in you!!!")
+	}
+}
 
 // Удалить дубликаты
 func (s *Slovarick) DelDublikat() {
@@ -207,7 +249,6 @@ func (s *Slovarick) DelDublikat() {
 
 		} else {
 			count2++
-
 			count1 = 0
 		}
 	}
@@ -217,6 +258,26 @@ func (s *Slovarick) DelDublikat() {
 
 	fmt.Println(len(withoutDublicat))
 	fmt.Println(count2)
+}
+
+func (old *Slovarick) CheckAndDelDublikats(new *Slovarick) {
+	var count = 0
+	var withoutDublicat []*Word //:= s.Words
+	for i := 0; i <= len(new.Words)-1; i++ {
+		for _, v := range old.Words {
+			if strings.EqualFold(v.English, new.Words[i].English) {
+				count++
+			}
+		}
+		if count == 0 {
+			withoutDublicat = append(withoutDublicat, new.Words[i])
+			count = 0
+		}
+	}
+
+	fmt.Println(len(withoutDublicat))
+
+	*new = *NewSlovarick(withoutDublicat)
 }
 
 // bufio scaner по сути

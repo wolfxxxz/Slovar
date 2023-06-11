@@ -9,15 +9,15 @@ import (
 	"time"
 )
 
-func (s *Slovarick) WorkTest() (LearnSlice *Slovarick) {
+func (s *Slovarick) WorkTest() *Slovarick {
 	startTime := time.Now()
 
 	K := s.CreateAndInitMapWords()
-	LearnSlice = NewSlovarick(nil)
+	LearnSlice := NewSlovarick(nil)
 
 	// Scan quantity words for test
 	fmt.Println("Количество слов для теста")
-	var quantity int = ScanInt()                //количество слов для теста
+	quantity := ScanInt()                       //количество слов для теста
 	var capSlovar int = cap(s.Words) - quantity // cap  ёмкость нового []Words
 	//Скопировать кусок
 	NewWordsu := make([]*Word, capSlovar)
@@ -34,8 +34,9 @@ func (s *Slovarick) WorkTest() (LearnSlice *Slovarick) {
 			break
 		}
 		y, n, hey := Compare(*v, K)
+		// тут теряется часть данных
 		if !hey {
-			break
+			s.Preppend(v)
 		}
 		if y > 0 {
 			yes++
@@ -54,7 +55,7 @@ func (s *Slovarick) WorkTest() (LearnSlice *Slovarick) {
 	fmt.Printf("Time: %.0f seconds\n", duration.Seconds())
 
 	fmt.Println(yes, not)
-	return
+	return LearnSlice
 }
 
 // Учить слова которые в тесте не смог выучить
