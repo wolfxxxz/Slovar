@@ -59,12 +59,22 @@ func main() {
 			var LibraryWords model.Slovarick
 			var LibraryNewWords model.Slovarick
 			LibraryNewWords.TakeTXT(NewWords)
+			fmt.Println("len newWords ", len(LibraryNewWords.Words)) //2049
 			LibraryWords.Takejson(LibraryJson)
+			fmt.Println("len libJson", len(LibraryWords.Words)) //2035
 			LibraryWords.CheckAndDelDublikats(&LibraryNewWords)
+			fmt.Println("len newWords delDubl ", len(LibraryNewWords.Words)) //0
 			LibraryWords.UpdateLibraryOnlyNewWords(&LibraryNewWords)
 			model.SaveEmptyTXT(NewWords, "You need to add your words here")
 			LibraryWords.Savejson(LibraryJson)
 			LibraryWords.SaveAlltoTXT(LibraryTXT)
+		case "resafe":
+			var LibraryWords model.Slovarick
+			LibraryWords.Takejson(LibraryJson)
+			LibraryWords.DelDublikat()
+			LibraryWords.Savejson(LibraryJson)
+			LibraryWords.SaveAlltoTXT(LibraryTXT)
+			fmt.Println("len", len(LibraryWords.Words))
 		case "exit":
 			fmt.Println("You have to do it, your dream wait")
 			return

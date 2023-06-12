@@ -33,11 +33,9 @@ func (s *Slovarick) WorkTest() *Slovarick {
 		if v == nil {
 			break
 		}
-		y, n, hey := Compare(*v, K)
+		y, n, _ := Compare(*v, K)
 		// тут теряется часть данных
-		if !hey {
-			s.Preppend(v)
-		}
+
 		if y > 0 {
 			yes++
 			v.RightAswer += 1
@@ -52,7 +50,7 @@ func (s *Slovarick) WorkTest() *Slovarick {
 		}
 	}
 	duration := time.Since(startTime)
-	fmt.Printf("Time: %.0f seconds\n", duration.Seconds())
+	PrintTime(duration)
 
 	fmt.Println(yes, not)
 	return LearnSlice
@@ -89,7 +87,7 @@ func (s Slovarick) LearnWords() {
 		}
 	}
 	duration := time.Since(startTime)
-	fmt.Printf("Time: %.0f seconds\n", duration.Seconds())
+	PrintTime(duration)
 }
 
 func ScanInt() (n int) {
@@ -271,4 +269,10 @@ func PrintXpen(s string) {
 		}
 		fmt.Println(s, "   ", s, "   ", s)
 	}
+}
+
+func PrintTime(duration time.Duration) {
+	minutes := int(duration.Minutes())
+	seconds := int(duration.Seconds()) % 60
+	fmt.Printf("Time: %d minutes %d seconds\n", minutes, seconds)
 }

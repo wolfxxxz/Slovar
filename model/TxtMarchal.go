@@ -62,17 +62,21 @@ func (s *Slovarick) SaveForLearningTxt(files string) {
 		os.Exit(1)
 	}
 	defer file.Close()
-	for _, v := range s.Words {
-		file.WriteString(v.English)
-		var length = len(v.English)
-		if length <= 30 {
-			for i := 0; i+length <= 25; i++ {
-				file.WriteString(" ")
+	if len(s.Words) != 0 {
+		for _, v := range s.Words {
+			file.WriteString(v.English)
+			var length = len(v.English)
+			if length <= 30 {
+				for i := 0; i+length <= 25; i++ {
+					file.WriteString(" ")
+				}
 			}
+			file.WriteString(" - ")
+			file.WriteString(v.Russian)
+			file.WriteString("\n")
 		}
-		file.WriteString(" - ")
-		file.WriteString(v.Russian)
-		file.WriteString("\n")
+	} else {
+		fmt.Println("empty learn words")
 	}
 }
 
@@ -223,10 +227,8 @@ func (s *Slovarick) DelDublikat() {
 		for _, v := range s.Words {
 			if strings.EqualFold(v.English, s.Words[i].English) {
 				count++
-
 			}
 			if count == 2 {
-
 				s.Words[i] = v
 				count = 0
 			}
@@ -271,6 +273,7 @@ func (old *Slovarick) CheckAndDelDublikats(new *Slovarick) {
 		}
 		if count == 0 {
 			withoutDublicat = append(withoutDublicat, new.Words[i])
+		} else {
 			count = 0
 		}
 	}
