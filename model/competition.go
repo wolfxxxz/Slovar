@@ -3,6 +3,7 @@ package model
 import (
 	"bufio"
 	"fmt"
+	"log"
 	"os"
 	"strconv"
 	"strings"
@@ -29,11 +30,25 @@ func (s *Slovarick) WorkTest() *Slovarick {
 	fmt.Println("                     START")
 	var yes int
 	var not int
+	var exit1 bool
 	for _, v := range NewSlovar.Words {
 		if v == nil {
+			log.Println("WorkTest err")
 			break
 		}
-		y, n, _ := Compare(*v, K)
+		if exit1 {
+			not++
+			s.Preppend(v)
+			LearnSlice.Preppend(v)
+			continue
+		}
+
+		y, n, exit := Compare(*v, K)
+		if exit {
+			exit1 = true
+			n = 1
+		}
+
 		// тут теряется часть данных
 
 		if y > 0 {
@@ -71,8 +86,8 @@ func (s Slovarick) LearnWords() {
 		if v == nil {
 			break
 		}
-		y, _, hey := Compare(*v, K)
-		if !hey {
+		y, _, exit := Compare(*v, K)
+		if exit {
 			break
 		}
 
@@ -107,14 +122,15 @@ func ScanInt() (n int) {
 }
 
 // Сравнение строк / пробелы между словами "_"
-func Compare(l Word, mapWord map[string]string) (yes int, not int, hey bool) {
+func Compare(l Word, mapWord map[string]string) (yes int, not int, exit bool) {
 	fmt.Println(l.Russian, " ||Тема: ", l.Theme)
 	c := IgnorProbel(l.English)
 
 	a, _ := ScanStringOne()
 	if a == "exit" {
-		hey = false
-		return yes, not, hey
+		exit = true
+		//yes = 1
+		return yes, not, exit
 	}
 	s := IgnorProbel(a)
 
@@ -136,7 +152,7 @@ func Compare(l Word, mapWord map[string]string) (yes int, not int, hey bool) {
 			}
 		}
 	}
-	return yes, not, true
+	return yes, not, false
 	/* Если захочется игнорировать одну ошибку в слове
 	if moreThanOneMistake(c, s) {
 		yes++
