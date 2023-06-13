@@ -1,25 +1,49 @@
-Conversation               - разговор
-Close to his heart         - близко к его сердцу
-Income                     - доход
-Power                      - власть
-Decrease                   - уменьшать
-I am going to ask them     - я позже спрошу их
-Writing                    - письмо
-What he had written was true - что он написал было правдой
-Went on                    - продолжил
-i heard it on tv           - я услышал это по телевизору
-he Teach me a lesson       - он преподал мне урок
-Counts on                  - рассчитывать на
-Find out                   - узнали
-Arrive in at               - прибывать
-Succeed in                 - получилось
-Surprise by                - удивлён от
-Take into consideration    - взять во внимание
-To what extent             - в какой степени
-To what degree             - в какой степени
-Reliable                   - надежный
-Notify                     - уведомить
-Middle                     - середина
-Advantage                  - преимущество
+header                     - заголовок
+whence                     - откуда
+offset                     - компенсировать
+Blame                      - провина
+Parliament                 - парламент
+Governor                   - губернатор
+Mayor                      - мэр
+Campaign                   - компания
+Leader                     - лидер
+Freedom                    - свобода
+Investment                 - инвестиция
+Safety                     - безопасность
+Laws                       - законы
+On my own                  - самостоятельно
+Below                      - ниже (среднего)
+Above                      - выше (среднего)
+Insurance                  - страховка
+Accustomed to              - привык к
+everything possible        - всё возможное
+All the best               - всё возможное
+Happen to                  - произошло с
+Disapprove                 - не одобрять
+Concept                    - понятие
+Investigation              - исследование
+Dot                        - точка
+Chemistry                  - химия
+Depth                      - глубина
+Lengths                    - продолжительность
+Publication                - издание
+Sample                     - пример
+Edition                    - издание
+Approve of                 - одобрять
+Accuse of                  - обвинять в
+Rely on                    - полагаться на
+Ready for                  - готов к
+Consist of                 - состоять из
+Get used to                - привыкнуть
 Get rid of                 - избавиться от
-Get used                   - привыкнуть
+Advantage                  - преимущество
+To what extent             - в какой степени
+Succeed in                 - получилось
+Arrive in at               - прибывать
+he Teach me a lesson       - он преподал мне урок
+What he had written was true - что он написал было правдой
+Writing                    - письмо
+I am going to ask them     - я позже спрошу их
+Power                      - власть
+Income                     - доход
+Conversation               - разговор

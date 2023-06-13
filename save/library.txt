@@ -1,108 +1,52 @@
-Conversation - разговор
-Close to his heart - близко к его сердцу
-Income - доход
-Power - власть
-Decrease - уменьшать
-I am going to ask them - я позже спрошу их
-Writing - письмо
-What he had written was true - что он написал было правдой
-Went on - продолжил
-i heard it on tv - я услышал это по телевизору
-he Teach me a lesson - он преподал мне урок
-Counts on - рассчитывать на
-Find out - узнали
-Arrive in at - прибывать
-Succeed in - получилось
-Surprise by - удивлён от
-Take into consideration - взять во внимание
-To what extent - в какой степени
-To what degree - в какой степени
-Reliable - надежный
-Notify - уведомить
-Middle - середина
-Advantage - преимущество
-Get rid of - избавиться от
-Get used - привыкнуть
-Consist of - состоять из
-Impress by - впечатлен от
-Ready for - готов к
-Rely on - полагаться на
-Accuse of - обвинять в
-Approve of - одобрять
-Give a speech - выступить с промова
-Go hand in hand - идти плечо к плечу
-Edition - издание
-Unit - единица измерения, подразделение
-Science - наука
-Computer science - информатика
-Sample - пример
-Speed - скорость
-Distance - расстояние
-Volume - объём
-Publication - издание
-Members - участники
-Lengths - продолжительность
-Take care - заботится о
-Mass - масса
-Scale - шкала
-Surface - поверхность
-Technique - техника
-Temperature - температура
-Definition - определение
-Quality - качество
-Fully - полностью
-Reply - ответ (реплика)
-Depth - глубина
-Limit - граница
-Chemistry - химия
-Dot - точка
-Investigation - дослідження
-Formula - формула
-Concept - понятие
-Would - как бы
-Refusal - отказ
-Robbery - ограбление
-Disapprove - не одобрять
-Ghost - привидение
-Happen to - произошло с
-React to - реагировать на
-Count on - рассчитывать на
-Reason for - причина __
-All the best - всё возможное
-everything possible - всё возможное
-Accustomed to - привык к
-In this moment - в данный момент
-Timetable - расписание
-Schedule - график
-Invitation - приглашение
-Insurance - страховка
-Spelling mistake - грамматическая ошибка
-Above - выше (среднего)
-Below - ниже (среднего)
-On my own - самостоятельно
-Laws - законы
-Taxes - налоги
-War - война
-Strategy - стратегия
-Safety - безопасность
-Investment - инвестиция
-Army - армия
-Debts - долги
-Freedom - свобода
-Leader - лидер
-Argument - спор
-Campaign - компания
-Navy - флот
-Violence - насилие
-Mayor - мэр
-Governor - губернатор
-Parliament - парламент
-Wealth - богатство
-Blame - провина
-Weapon - оружие
-offset - компенсировать
-whence - откуда
 header - заголовок
+whence - откуда
+offset - компенсировать
+Blame - провина
+Parliament - парламент
+Governor - губернатор
+Mayor - мэр
+Campaign - компания
+Leader - лидер
+Freedom - свобода
+Investment - инвестиция
+Safety - безопасность
+Laws - законы
+On my own - самостоятельно
+Below - ниже (среднего)
+Above - выше (среднего)
+Insurance - страховка
+Accustomed to - привык к
+everything possible - всё возможное
+All the best - всё возможное
+Happen to - произошло с
+Disapprove - не одобрять
+Concept - понятие
+Investigation - исследование
+Dot - точка
+Chemistry - химия
+Depth - глубина
+Lengths - продолжительность
+Publication - издание
+Sample - пример
+Edition - издание
+Approve of - одобрять
+Accuse of - обвинять в
+Rely on - полагаться на
+Ready for - готов к
+Consist of - состоять из
+Get used to - привыкнуть
+Get rid of - избавиться от
+Advantage - преимущество
+To what extent - в какой степени
+Succeed in - получилось
+Arrive in at - прибывать
+he Teach me a lesson - он преподал мне урок
+What he had written was true - что он написал было правдой
+Writing - письмо
+I am going to ask them - я позже спрошу их
+Power - власть
+Income - доход
+Conversation - разговор
 All my best - всё возможное
 until - до тех пор (пока)
 Scissors - ножницы
@@ -2089,3 +2033,59 @@ While - в то время
 Directly - Напрямую (сказать)
 Government - правительство
 Spelling - правописание
+Close to his heart - близко к его сердцу
+Decrease - уменьшать
+Went on - продолжил
+i heard it on tv - я услышал это по телевизору
+Count on - рассчитывать на
+Find out - Выяснить
+Surprised by - удивлён от
+Take into consideration - взять во внимание
+To what degree - в какой степени
+Reliable - надежный
+Notify - уведомить
+Middle - середина
+Impress by - впечатлен от
+Give a speech - выступить с промова
+Go hand in hand - идти плечо к плечу
+Unit - единица измерения, подразделение
+Science - наука
+Computer science - информатика
+Speed - скорость
+Distance - расстояние
+Volume - объём
+Members - участники
+Take care - заботится
+Mass - масса
+Scale - шкала
+Surface - поверхность
+Technique - техника
+Temperature - температура
+Definition - определение
+Quality - качество
+Fully - полностью
+Reply - ответ (реплика)
+Limit - граница
+Formula - формула
+Would - как бы
+Refusal - отказ
+Robbery - ограбление
+Ghost - привидение
+React to - реагировать на
+Count on - рассчитывать на
+Reason for - причина __
+At the moment - в данный момент
+Timetable - расписание
+Schedule - график
+Invitation - приглашение
+Spelling mistake - грамматическая ошибка
+Taxes - налоги
+War - война
+Strategy - стратегия
+Army - армия
+Debts - долги
+Argument - спор
+Navy - флот
+Violence - насилие
+Wealth - богатство
+Weapon - оружие
