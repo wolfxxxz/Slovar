@@ -1,75 +1,29 @@
-header - заголовок
+Confident - уверен
+Disagree - не согласен
+away - прочь
+ice - лёд
+order - упорядочить
+by - по
+Purpose - цель
+On a regular basis - на регулярной основе (регулярно)
+Bring in - приносить
+execute - выполнять
+until - до тех пор (пока)
 whence - откуда
 offset - компенсировать
 Blame - провина
-Parliament - парламент
-Governor - губернатор
-Mayor - мэр
-Campaign - компания
-Leader - лидер
-Freedom - свобода
-Investment - инвестиция
-Safety - безопасность
-Laws - законы
-On my own - самостоятельно
 Below - ниже (среднего)
-Above - выше (среднего)
-Insurance - страховка
-Accustomed to - привык к
 everything possible - всё возможное
 All the best - всё возможное
 Happen to - произошло с
-Disapprove - не одобрять
-Concept - понятие
-Investigation - исследование
-Dot - точка
-Chemistry - химия
-Depth - глубина
 Lengths - продолжительность
-Publication - издание
 Sample - пример
 Edition - издание
 Approve of - одобрять
-Accuse of - обвинять в
 Rely on - полагаться на
-Ready for - готов к
-Consist of - состоять из
 Get used to - привыкнуть
 Get rid of - избавиться от
-Advantage - преимущество
-To what extent - в какой степени
 Succeed in - получилось
-Arrive in at - прибывать
-he Teach me a lesson - он преподал мне урок
-What he had written was true - что он написал было правдой
-Writing - письмо
-I am going to ask them - я позже спрошу их
-Power - власть
-Income - доход
-Conversation - разговор
-All my best - всё возможное
-until - до тех пор (пока)
-Scissors - ножницы
-he assumes - он предпологает
-execute - выполнять
-Describe - описывать
-toy - игрушка
-thing - вещь
-Bring in - приносить
-owe them - Должен им
-In total - всего (нас всего)
-On a regular basis - на регулярной основе (регулярно)
-Purpose - цель
-how - как
-by - по
-too - слишком
-order - упорядочить
-often - часто
-ice - лёд
-Laugh at - смеяться над
-away - прочь
-Disagree - не согласен
-Confident - уверен
 capitalized - с большой буквы
 Absence - отсутствие, недостаток, неявка
 outer - внешний
@@ -2089,3 +2043,49 @@ Navy - флот
 Violence - насилие
 Wealth - богатство
 Weapon - оружие
+header - заголовок
+Parliament - парламент
+Governor - губернатор
+Campaign - компания
+Laws - законы
+On my own - самостоятельно
+Above - выше (среднего)
+Accustomed to - привык к
+Disapprove - не одобрять
+Concept - понятие
+Chemistry - химия
+Publication - издание
+Accuse of - обвинять в
+Ready for - готов к
+Consist of - состоять из
+Advantage - преимущество
+Arrive in at - прибывать
+he Teach me a lesson - он преподал мне урок
+What he had written was true - что он написал было правдой
+I am going to ask them - я позже спрошу их
+Power - власть
+Conversation - разговор
+All my best - всё возможное
+Income - доход
+Writing - письмо
+To what extent - в какой степени
+Depth - глубина
+Dot - точка
+Investigation - исследование
+Insurance - страховка
+Safety - безопасность
+Investment - инвестиция
+Freedom - свобода
+Leader - лидер
+Mayor - мэр
+Scissors - ножницы
+he assumes - он предпологает
+Describe - описывать
+toy - игрушка
+thing - вещь
+owe them - Должен им
+In total - всего (нас всего)
+how - как
+too - слишком
+often - часто
+Laugh at - смеяться над

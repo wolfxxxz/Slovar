@@ -8,6 +8,8 @@ import (
 	"strconv"
 	"strings"
 	"time"
+
+	"github.com/agnivade/levenshtein"
 )
 
 func (s *Slovarick) WorkTest() *Slovarick {
@@ -48,8 +50,6 @@ func (s *Slovarick) WorkTest() *Slovarick {
 			exit1 = true
 			n = 1
 		}
-
-		// тут теряется часть данных
 
 		if y > 0 {
 			yes++
@@ -137,9 +137,12 @@ func Compare(l Word, mapWord map[string]string) (yes int, not int, exit bool) {
 	if strings.EqualFold(c, s) {
 		yes++
 		fmt.Println("Yes")
-	} else if ok := CompareWithMap(l.Russian, s, mapWord); ok {
+	} else if compareStringsLevenshtein(c, s) {
 		yes++
 		fmt.Println("Не совсем правильно ", l.English)
+	} else if CompareWithMap(l.Russian, s, mapWord) {
+		yes++
+		fmt.Println("Не совсем правильно ", mapWord[l.Russian])
 	} else {
 		not++
 		fmt.Println("Incorect:", l.English)
@@ -153,15 +156,19 @@ func Compare(l Word, mapWord map[string]string) (yes int, not int, exit bool) {
 		}
 	}
 	return yes, not, false
-	/* Если захочется игнорировать одну ошибку в слове
-	if moreThanOneMistake(c, s) {
-		yes++
-		fmt.Println("Yes")
+}
+
+func compareStringsLevenshtein(str1, str2 string) bool {
+	str1 = strings.ToLower(str1)
+	str2 = strings.ToLower(str2)
+	//number of allowed errors
+	mistakes := 1
+
+	if distance := levenshtein.ComputeDistance(str1, str2); distance <= mistakes {
+		return true
 	} else {
-		not++
-		fmt.Println("Incorect:", l.English)
+		return false
 	}
-	return yes, not*/
 }
 
 func (s *Slovarick) CreateAndInitMapWords() (MapWords map[string]string) {
