@@ -1,26 +1,32 @@
-Confident                  - уверен
-Disagree                   - не согласен
-away                       - прочь
-ice                        - лёд
-order                      - упорядочить
-by                         - по
-Purpose                    - цель
-On a regular basis         - на регулярной основе (регулярно)
-Bring in                   - приносить
-execute                    - выполнять
-until                      - до тех пор (пока)
-whence                     - откуда
-offset                     - компенсировать
-Blame                      - провина
-Below                      - ниже (среднего)
-everything possible        - всё возможное
-All the best               - всё возможное
-Happen to                  - произошло с
-Lengths                    - продолжительность
-Sample                     - пример
-Edition                    - издание
-Approve of                 - одобрять
-Rely on                    - полагаться на
-Get used to                - привыкнуть
-Get rid of                 - избавиться от
+also                       - также
+Wash up the dishes         - мыть посуду
+data structure             - структура данных
+Square                     - площадь
+high                       - высокий
+Don't freak out            - не паникуй
+ascending                  - возрастаю
+Revised                    - повторённый, пересмотренный
+mail                       - почта
+Switch on                  - включить
+Piss me off                - вывести из себя
+case                       - случай
+outer                      - внешний
+capitalized                - с большой буквы
 Succeed in                 - получилось
+Get rid of                 - избавиться от
+Get used to                - привыкнуть
+Rely on                    - полагаться на
+Approve of                 - одобрять
+Edition                    - издание
+Lengths                    - продолжительность
+Happen to                  - произошло с
+All the best               - всё возможное
+everything possible        - всё возможное
+Below                      - ниже (среднего)
+Blame                      - провина
+offset                     - компенсировать
+whence                     - откуда
+until                      - до тех пор (пока)
+Confident                  - уверен
+order                      - упорядочить
+Bring in                   - приносить

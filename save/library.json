@@ -2,288 +2,57 @@
    "Words": [
       {
          "id": 0,
-         "english": "Confident",
-         "russian": "уверен",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Disagree",
-         "russian": "не согласен",
-         "theme": "Work",
+         "english": "also",
+         "russian": "также",
+         "theme": "adverb",
          "rightAnswer": 1
       },
       {
          "id": 0,
-         "english": "away",
-         "russian": "прочь",
-         "theme": "pronoun",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "ice",
-         "russian": "лёд",
-         "theme": "nature",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "order",
-         "russian": "упорядочить",
-         "theme": "Programming",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "by",
-         "russian": "по",
-         "theme": "Programming",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Purpose",
-         "russian": "цель",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "On a regular basis",
-         "russian": "на регулярной основе (регулярно)",
-         "theme": "preposition",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Bring in",
-         "russian": "приносить",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "execute",
-         "russian": "выполнять",
-         "theme": "Programming",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "until",
-         "russian": "до тех пор (пока)",
-         "theme": "preposition",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "whence",
-         "russian": "откуда",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "offset",
-         "russian": "компенсировать",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Blame",
-         "russian": "провина",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Below",
-         "russian": "ниже (среднего)",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "everything possible",
-         "russian": "всё возможное",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "All the best",
-         "russian": "всё возможное",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Happen to",
-         "russian": "произошло с",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Lengths",
-         "russian": "продолжительность",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Sample",
-         "russian": "пример",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Edition",
-         "russian": "издание",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Approve of",
-         "russian": "одобрять",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Rely on",
-         "russian": "полагаться на",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Get used to",
-         "russian": "привыкнуть",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Get rid of",
-         "russian": "избавиться от",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Succeed in",
-         "russian": "получилось",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "capitalized",
-         "russian": "с большой буквы",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Absence",
-         "russian": "отсутствие, недостаток, неявка",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "outer",
-         "russian": "внешний",
-         "theme": "Programming",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "case",
-         "russian": "случай",
-         "theme": "Programming",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Wonderful",
-         "russian": "Замечательный, чудесный",
-         "theme": "Home",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Developed",
-         "russian": "развивать (past)",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Siblings",
-         "russian": "братья и сёстры",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Saturday",
-         "russian": "суббота",
-         "theme": "time",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Valley",
-         "russian": "долина",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Activity",
-         "russian": "деятельность",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Everywhere",
-         "russian": "везде",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "The Costs",
-         "russian": "издержки, расходы",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Appearance",
-         "russian": "внешность",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Piss me off",
-         "russian": "вывести из себя",
+         "english": "Wash up the dishes",
+         "russian": "мыть посуду",
          "theme": "Phrase",
          "rightAnswer": 1
       },
       {
          "id": 0,
-         "english": "Switch on",
-         "russian": "включить",
+         "english": "data structure",
+         "russian": "структура данных",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Square",
+         "russian": "площадь",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "high",
+         "russian": "высокий",
+         "theme": "adjective",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Don't freak out",
+         "russian": "не паникуй",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "ascending",
+         "russian": "возрастаю",
+         "theme": "Programmingщий",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Revised",
+         "russian": "повторённый, пересмотренный",
          "theme": "",
          "rightAnswer": 1
       },
@@ -296,86 +65,163 @@
       },
       {
          "id": 0,
-         "english": "Revised",
-         "russian": "повторённый, пересмотренный",
+         "english": "Switch on",
+         "russian": "включить",
          "theme": "",
          "rightAnswer": 1
       },
       {
          "id": 0,
-         "english": "ascending",
-         "russian": "возрастаю",
-         "theme": "Programmingщий",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "loop",
-         "russian": "цикл",
-         "theme": "Programming",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Don't freak out",
-         "russian": "не паникуй",
+         "english": "Piss me off",
+         "russian": "вывести из себя",
          "theme": "Phrase",
          "rightAnswer": 1
       },
       {
          "id": 0,
-         "english": "high",
-         "russian": "высокий",
-         "theme": "adjective",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Square",
-         "russian": "площадь",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "around",
-         "russian": "вокруг",
-         "theme": "pronoun",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "data structure",
-         "russian": "структура данных",
+         "english": "case",
+         "russian": "случай",
          "theme": "Programming",
          "rightAnswer": 1
       },
       {
          "id": 0,
-         "english": "Tall",
-         "russian": "высокий",
-         "theme": "",
+         "english": "outer",
+         "russian": "внешний",
+         "theme": "Programming",
          "rightAnswer": 1
       },
       {
          "id": 0,
-         "english": "Wash up the dishes",
-         "russian": "мыть посуду",
+         "english": "capitalized",
+         "russian": "с большой буквы",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "To succeed in",
+         "russian": "Преуспеть в",
+         "theme": "preposition",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Get rid of",
+         "russian": "избавлятся от",
+         "theme": "preposition",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Get used to",
+         "russian": "привыкать к",
+         "theme": "preposition",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Rely on",
+         "russian": "полагаться на",
+         "theme": "preposition",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Approve of",
+         "russian": "одобрять",
+         "theme": "preposition",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Edition",
+         "russian": "издание",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Length",
+         "russian": "длинна, продолжительность",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Happen to",
+         "russian": "случается с",
+         "theme": "preposition",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "All the best",
+         "russian": "Всего наилучшего",
          "theme": "Phrase",
-         "rightAnswer": 1
+         "rightAnswer": 0
       },
       {
          "id": 0,
-         "english": "Majority",
-         "russian": "большинство",
+         "english": "everything possible",
+         "russian": "всё возможное",
          "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Below",
+         "russian": "ниже (среднего)",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Blame",
+         "russian": "вина",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "offset",
+         "russian": "компенсировать",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "whence",
+         "russian": "откуда",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "until",
+         "russian": "до",
+         "theme": "preposition",
          "rightAnswer": 1
       },
       {
          "id": 0,
-         "english": "also",
-         "russian": "также",
-         "theme": "adverb",
+         "english": "Confident",
+         "russian": "уверен",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "order",
+         "russian": "упорядочить",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Bring in",
+         "russian": "приносить",
+         "theme": "preposition",
          "rightAnswer": 1
       },
       {
@@ -396,7 +242,7 @@
          "id": 0,
          "english": "Dry",
          "russian": "сушить",
-         "theme": "Home",
+         "theme": "verb",
          "rightAnswer": 1
       },
       {
@@ -14635,6 +14481,160 @@
          "english": "Laugh at",
          "russian": "смеяться над",
          "theme": "preposition",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Disagree",
+         "russian": "не согласен",
+         "theme": "Work",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "ice",
+         "russian": "лёд",
+         "theme": "nature",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "by",
+         "russian": "по",
+         "theme": "Programming",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "On a regular basis",
+         "russian": "на регулярной основе (регулярно)",
+         "theme": "preposition",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "execute",
+         "russian": "выполнять",
+         "theme": "Programming",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Purpose",
+         "russian": "цель",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "away",
+         "russian": "прочь",
+         "theme": "pronoun",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Sample",
+         "russian": "пример",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Absence",
+         "russian": "отсутствие, недостаток, неявка",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Wonderful",
+         "russian": "Замечательный, чудесный",
+         "theme": "Home",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Developed",
+         "russian": "развивать (past)",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Siblings",
+         "russian": "братья и сёстры",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Saturday",
+         "russian": "суббота",
+         "theme": "time",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Valley",
+         "russian": "долина",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Activity",
+         "russian": "деятельность",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Everywhere",
+         "russian": "везде",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "The Costs",
+         "russian": "издержки, расходы",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Appearance",
+         "russian": "внешность",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "loop",
+         "russian": "цикл",
+         "theme": "Programming",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "around",
+         "russian": "вокруг",
+         "theme": "pronoun",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Tall",
+         "russian": "высокий",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Majority",
+         "russian": "большинство",
+         "theme": "",
          "rightAnswer": 2
       }
    ]

@@ -137,12 +137,12 @@ func Compare(l Word, mapWord map[string]string) (yes int, not int, exit bool) {
 	if strings.EqualFold(c, s) {
 		yes++
 		fmt.Println("Yes")
-	} else if compareStringsLevenshtein(c, s) {
-		yes++
-		fmt.Println("Не совсем правильно ", l.English)
 	} else if CompareWithMap(l.Russian, s, mapWord) {
 		yes++
 		fmt.Println("Не совсем правильно ", mapWord[l.Russian])
+	} else if compareStringsLevenshtein(c, s) {
+		yes++
+		fmt.Println("Не совсем правильно ", l.English)
 	} else {
 		not++
 		fmt.Println("Incorect:", l.English)

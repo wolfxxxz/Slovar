@@ -12,6 +12,7 @@ var LibraryNewWords model.Slovarick
 var NewWords string = "save/newWords.txt"
 var LibraryTXT string = "save/library.txt"
 var LibraryJson string = "save/library.json"
+var LibraryGob string = "save/library.gob"
 var LearnWords string = "save/learning.txt"
 
 func main() {
@@ -31,7 +32,8 @@ func main() {
 		case "update":
 			var LibraryWords model.Slovarick
 			var LibraryNewWords model.Slovarick
-			LibraryNewWords.TakeTXT(NewWords)
+			LibraryNewWords.TakeTXTstrings(NewWords)
+			//LibraryNewWords.TakeTXT(NewWords)
 			LibraryWords.Takejson(LibraryJson)
 			LibraryWords.UpdateLibrary(NewWords)
 			LibraryWords.DelDublikat()
@@ -74,7 +76,15 @@ func main() {
 			LibraryWords.DelDublikat()
 			LibraryWords.Savejson(LibraryJson)
 			LibraryWords.SaveAlltoTXT(LibraryTXT)
+			LibraryWords.SaveGob(LibraryGob)
 			fmt.Println("len", len(LibraryWords.Words))
+		case "testgob":
+			var LibraryWords model.Slovarick
+			LibraryWords.TakeGob(LibraryGob)
+			LearnSlise := LibraryWords.WorkTest()
+			LearnSlise.SaveGob(LibraryGob)
+			LibraryWords.SaveGob(LibraryGob)
+			LibraryWords.SaveTXT(LibraryTXT)
 		case "exit":
 			fmt.Println("You have to do it, your dream wait")
 			return

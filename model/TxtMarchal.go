@@ -80,6 +80,83 @@ func (s *Slovarick) SaveForLearningTxt(files string) {
 	}
 }
 
+// Изменил только os.Readfile()
+func (s *Slovarick) TakeTXTstrings(filetxt string) {
+	data2, err := os.ReadFile(filetxt)
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	sliseString := []string{}
+	dbyte := []byte{}
+	for i, v := range data2 {
+		b := "-"
+		if i < len(data2)-1 {
+			if v == 32 && data2[i+1] == 32 {
+				continue
+			}
+		}
+		if v == 13 {
+			continue
+		}
+
+		if v == 10 {
+			d := string(dbyte) + b
+			if d != "-" {
+				sliseString = append(sliseString, d)
+				dbyte = []byte{}
+			}
+		}
+		if v == 10 {
+			continue
+		}
+		if v == 46 {
+			continue
+		}
+		dbyte = append(dbyte, v)
+	}
+
+	for _, vv := range sliseString {
+		SliceThreeString := []string{}
+		var Str string
+
+		for _, v := range vv {
+			if v == '-' && Str != "" {
+				strByte := []byte(Str)
+				strByte2 := []byte{}
+				for i, v := range strByte {
+					if i == 0 && v == 32 {
+						continue
+					} else if i == len(strByte)-1 && v == 32 {
+						continue
+					} else {
+						strByte2 = append(strByte2, v)
+					}
+				}
+				Str = string(strByte2)
+				SliceThreeString = append(SliceThreeString, Str)
+				Str = ""
+			}
+			if v == '-' {
+				continue
+			}
+
+			Str = Str + string(v)
+		}
+		if len(SliceThreeString) > 3 {
+			SliceThreeString = SliceThreeString[:2]
+		}
+		for i := 0; len(SliceThreeString) == 2; i++ {
+			if len(SliceThreeString) <= 2 {
+				SliceThreeString = append(SliceThreeString, "")
+			}
+		}
+		id := 0
+		a := NewLibrary(id, SliceThreeString[0], SliceThreeString[1], SliceThreeString[2])
+		s.Words = append(s.Words, a)
+	}
+}
+
 // Часть 1 Добавление новых слов в библиотеку Загрузкой с файла txt
 func (s *Slovarick) TakeTXT(filetxt string) {
 	file, err := os.Open(filetxt)

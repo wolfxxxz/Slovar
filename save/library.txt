@@ -1,75 +1,52 @@
-Confident - уверен
-Disagree - не согласен
-away - прочь
-ice - лёд
-order - упорядочить
-by - по
-Purpose - цель
-On a regular basis - на регулярной основе (регулярно)
+quick - быстрый
+Suggested - предлагал (past)
+Free - (быть) свободным
+Married - женат
+app - приложение
+Turn on - включить
+manner - манера
+Funny - забавно
+Decade - 10 летие
+like - любить
+lambda - лямбда
+milk - молоко
+puddle - лужа
+soon - скоро
+lion - лев
+Dry - сушить
+boyfriend - парень (её)
+just - только, просто, только что
 Bring in - приносить
-execute - выполнять
-until - до тех пор (пока)
+order - упорядочить
+Confident - уверен
+until - до
 whence - откуда
 offset - компенсировать
-Blame - провина
+Blame - вина
 Below - ниже (среднего)
 everything possible - всё возможное
-All the best - всё возможное
-Happen to - произошло с
-Lengths - продолжительность
-Sample - пример
+All the best - Всего наилучшего
+Happen to - случается с
+Length - длина
 Edition - издание
 Approve of - одобрять
 Rely on - полагаться на
-Get used to - привыкнуть
-Get rid of - избавиться от
-Succeed in - получилось
+Get used to - привыкать к
+Get rid of - избавлятся от
+To succeed in - Преуспеть в
 capitalized - с большой буквы
-Absence - отсутствие, недостаток, неявка
 outer - внешний
 case - случай
-Wonderful - Замечательный, чудесный
-Developed - развивать (past)
-Siblings - братья и сёстры
-Saturday - суббота
-Valley - долина
-Activity - деятельность
-Everywhere - везде
-The Costs - издержки, расходы
-Appearance - внешность
 Piss me off - вывести из себя
 Switch on - включить
 mail - почта
 Revised - повторённый, пересмотренный
 ascending - возрастаю
-loop - цикл
 Don't freak out - не паникуй
 high - высокий
 Square - площадь
-around - вокруг
 data structure - структура данных
-Tall - высокий
 Wash up the dishes - мыть посуду
-Majority - большинство
-also - также
-just - только, просто, только что
-boyfriend - парень (её)
-Dry - сушить
-lion - лев
-soon - скоро
-puddle - лужа
-milk - молоко
-lambda - лямбда
-like - любить
-Decade - 10 летие
-Funny - забавно
-manner - манера
-Turn on - включить
-app - приложение
-Married - женат
-Free - (быть) свободным
-Suggested - предлагал (past)
-quick - быстрый
 Calm - спокойный
 rain - дождь
 Take part - принимать участие
@@ -816,7 +793,6 @@ big - большой
 same - тот же
 get - получать
 Engine - двигатель
-Length - длина
 Notice - заметят
 Should - следует
 wait - ждать
@@ -2026,7 +2002,6 @@ Refusal - отказ
 Robbery - ограбление
 Ghost - привидение
 React to - реагировать на
-Count on - рассчитывать на
 Reason for - причина __
 At the moment - в данный момент
 Timetable - расписание
@@ -2089,3 +2064,26 @@ how - как
 too - слишком
 often - часто
 Laugh at - смеяться над
+Disagree - не согласен
+ice - лёд
+by - по
+On a regular basis - на регулярной основе (регулярно)
+execute - выполнять
+Purpose - цель
+away - прочь
+Sample - пример
+Absence - отсутствие, недостаток, неявка
+Wonderful - Замечательный, чудесный
+Developed - развивать (past)
+Siblings - братья и сёстры
+Saturday - суббота
+Valley - долина
+Activity - деятельность
+Everywhere - везде
+The Costs - издержки, расходы
+Appearance - внешность
+loop - цикл
+around - вокруг
+Tall - высокий
+Majority - большинство
+also - также
