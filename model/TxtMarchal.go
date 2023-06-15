@@ -3,7 +3,6 @@ package model
 import (
 	"bufio"
 	"fmt"
-	"io"
 	"os"
 	"strings"
 )
@@ -21,25 +20,10 @@ func (s *Slovarick) SaveTXT(files string) {
 		file.WriteString(v.English)
 		file.WriteString(" - ")
 		file.WriteString(v.Russian)
-		file.WriteString("\n")
-	}
-}
-
-// Записать все значения в пустой файл
-func (s *Slovarick) SaveAlltoTXT(files string) {
-	file, err := os.Create(files)
-	if err != nil {
-		fmt.Println("Unable to create file:", err)
-		os.Exit(1)
-	}
-	defer file.Close()
-	for _, v := range s.Words {
-
-		file.WriteString(v.English)
-		file.WriteString(" - ")
-		file.WriteString(v.Russian)
-		file.WriteString(" - ")
-		file.WriteString(v.Theme)
+		if v.Theme != "" {
+			file.WriteString(" - ")
+			file.WriteString(v.Theme)
+		}
 		file.WriteString("\n")
 	}
 }
@@ -80,178 +64,45 @@ func (s *Slovarick) SaveForLearningTxt(files string) {
 	}
 }
 
-// Изменил только os.Readfile()
-func (s *Slovarick) TakeTXTstrings(filetxt string) {
-	data2, err := os.ReadFile(filetxt)
-	if err != nil {
-		fmt.Println(err)
-	}
-
-	sliseString := []string{}
-	dbyte := []byte{}
-	for i, v := range data2 {
-		b := "-"
-		if i < len(data2)-1 {
-			if v == 32 && data2[i+1] == 32 {
-				continue
-			}
-		}
-		if v == 13 {
-			continue
-		}
-
-		if v == 10 {
-			d := string(dbyte) + b
-			if d != "-" {
-				sliseString = append(sliseString, d)
-				dbyte = []byte{}
-			}
-		}
-		if v == 10 {
-			continue
-		}
-		if v == 46 {
-			continue
-		}
-		dbyte = append(dbyte, v)
-	}
-
-	for _, vv := range sliseString {
-		SliceThreeString := []string{}
-		var Str string
-
-		for _, v := range vv {
-			if v == '-' && Str != "" {
-				strByte := []byte(Str)
-				strByte2 := []byte{}
-				for i, v := range strByte {
-					if i == 0 && v == 32 {
-						continue
-					} else if i == len(strByte)-1 && v == 32 {
-						continue
-					} else {
-						strByte2 = append(strByte2, v)
-					}
-				}
-				Str = string(strByte2)
-				SliceThreeString = append(SliceThreeString, Str)
-				Str = ""
-			}
-			if v == '-' {
-				continue
-			}
-
-			Str = Str + string(v)
-		}
-		if len(SliceThreeString) > 3 {
-			SliceThreeString = SliceThreeString[:2]
-		}
-		for i := 0; len(SliceThreeString) == 2; i++ {
-			if len(SliceThreeString) <= 2 {
-				SliceThreeString = append(SliceThreeString, "")
-			}
-		}
-		id := 0
-		a := NewLibrary(id, SliceThreeString[0], SliceThreeString[1], SliceThreeString[2])
-		s.Words = append(s.Words, a)
-	}
-}
-
-// Часть 1 Добавление новых слов в библиотеку Загрузкой с файла txt
+// Прочитать файл txt и серилиазовать
+// Пользуемся strings. для расшифровки слов с .txt
 func (s *Slovarick) TakeTXT(filetxt string) {
-	file, err := os.Open(filetxt)
+	data, err := os.ReadFile(filetxt)
 	if err != nil {
 		fmt.Println(err)
-		os.Exit(1)
+		return
 	}
-	defer file.Close()
-	f := make([]byte, 100024) //Длинна строки
-	data2 := []byte{}
-	for {
-		n, err := file.Read(f)
-		if err == io.EOF { // если конец файла
-			break // выходим из цикла
-		}
-		data2 = f[:n]
-	}
-
-	sliseString := []string{}
-	dbyte := []byte{}
-	for i, v := range data2 {
-		b := "-"
-		if i < len(data2)-1 {
-			if v == 32 && data2[i+1] == 32 {
-				continue
-			}
-		}
-		if v == 13 {
+	content := string(data)
+	//Делим по \n
+	//Получаем массив разбитый по enter
+	lines := strings.Split(content, "\n")
+	//[dsdsd - sdsdsd - sdsdsd]
+	for _, line := range lines {
+		//вдруг пустая строка пропустить
+		if line == "" {
 			continue
 		}
-
-		if v == 10 {
-			d := string(dbyte) + b
-			if d != "-" {
-				sliseString = append(sliseString, d)
-				dbyte = []byte{}
-			}
-		}
-		if v == 10 {
+		//Делим строку по "-"
+		words := strings.Split(line, "-")
+		if len(words) <= 1 {
 			continue
 		}
-		if v == 46 {
-			continue
-		}
-		dbyte = append(dbyte, v)
-	}
-
-	for _, vv := range sliseString {
-		SliceThreeString := []string{}
-		var Str string
-
-		for _, v := range vv {
-			if v == '-' && Str != "" {
-				strByte := []byte(Str)
-				strByte2 := []byte{}
-				for i, v := range strByte {
-					if i == 0 && v == 32 {
-						continue
-					} else if i == len(strByte)-1 && v == 32 {
-						continue
-					} else {
-						strByte2 = append(strByte2, v)
-					}
-				}
-				Str = string(strByte2)
-				SliceThreeString = append(SliceThreeString, Str)
-				Str = ""
-			}
-			if v == '-' {
-				continue
-			}
-
-			Str = Str + string(v)
-		}
-		if len(SliceThreeString) > 3 {
-			SliceThreeString = SliceThreeString[:2]
-		}
-		for i := 0; len(SliceThreeString) == 2; i++ {
-			if len(SliceThreeString) <= 2 {
-				SliceThreeString = append(SliceThreeString, "")
-			}
+		for i, v := range words {
+			//Пробелы и точки...
+			words[i] = strings.TrimSpace(v)
+			words[i] = strings.ReplaceAll(words[i], ".", "")
 		}
 		id := 0
-		a := NewLibrary(id, SliceThreeString[0], SliceThreeString[1], SliceThreeString[2])
-		s.Words = append(s.Words, a)
+		theme := ""
+		if len(words) > 2 {
+			theme = words[2]
+		}
+		word := NewLibrary(id, words[0], words[1], theme)
+		s.Words = append(s.Words, word)
 	}
-	//return &Slovarick{SliceLib}
-	//10 - начало строки
-	//13 - enter
-	//46 - точка
-	//32 - пробел
-	//45 - дефис
 }
 
-// Часть 2 Добавление новых слов в библиотеку Загрузкой с файла txt
+// Соединяем два среза в один
 func (oldWords *Slovarick) UpdateLibrary(filetxt string) {
 	var NewWords Slovarick
 	NewWords.TakeTXT(filetxt)
@@ -378,4 +229,105 @@ func (l *Slovarick) Print() {
 		fmt.Print(v.English, " - ", v.Russian, " - ", v.Theme)
 		fmt.Println()
 	}
+}
+
+// Прочитать файл txt и серилиазовать
+func (s *Slovarick) TakeTXTold(filetxt string) {
+	//Такой длинный ридер
+	/*
+		file, err := os.Open(filetxt)
+		if err != nil {
+			fmt.Println(err)
+			os.Exit(1)
+		}
+		defer file.Close()
+		f := make([]byte, 100024) //Длинна строки
+		data2 := []byte{}
+		for {
+			n, err := file.Read(f)
+			if err == io.EOF { // если конец файла
+				break // выходим из цикла
+			}
+			data2 = f[:n]
+		}*/
+	// капец длинный
+	data2, err := os.ReadFile(filetxt)
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	sliseString := []string{}
+	dbyte := []byte{}
+	for i, v := range data2 {
+		b := "-"
+		if i < len(data2)-1 {
+			if v == 32 && data2[i+1] == 32 {
+				continue
+			}
+		}
+		if v == 13 {
+			continue
+		}
+
+		if v == 10 {
+			d := string(dbyte) + b
+			if d != "-" {
+				sliseString = append(sliseString, d)
+				dbyte = []byte{}
+			}
+		}
+		if v == 10 {
+			continue
+		}
+		if v == 46 {
+			continue
+		}
+		dbyte = append(dbyte, v)
+	}
+
+	for _, vv := range sliseString {
+		SliceThreeString := []string{}
+		var Str string
+
+		for _, v := range vv {
+			if v == '-' && Str != "" {
+				strByte := []byte(Str)
+				strByte2 := []byte{}
+				for i, v := range strByte {
+					if i == 0 && v == 32 {
+						continue
+					} else if i == len(strByte)-1 && v == 32 {
+						continue
+					} else {
+						strByte2 = append(strByte2, v)
+					}
+				}
+				Str = string(strByte2)
+				SliceThreeString = append(SliceThreeString, Str)
+				Str = ""
+			}
+			if v == '-' {
+				continue
+			}
+
+			Str = Str + string(v)
+		}
+		if len(SliceThreeString) > 3 {
+			SliceThreeString = SliceThreeString[:2]
+		}
+		for i := 0; len(SliceThreeString) == 2; i++ {
+			if len(SliceThreeString) <= 2 {
+				SliceThreeString = append(SliceThreeString, "")
+			}
+		}
+		id := 0
+		a := NewLibrary(id, SliceThreeString[0], SliceThreeString[1], SliceThreeString[2])
+		s.Words = append(s.Words, a)
+	}
+	//return &Slovarick{SliceLib}
+	//10 - начало строки
+	//13 - enter
+	//46 - точка
+	//32 - пробел
+	//45 - дефис
 }

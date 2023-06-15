@@ -32,7 +32,7 @@ func main() {
 		case "update":
 			var LibraryWords model.Slovarick
 			var LibraryNewWords model.Slovarick
-			LibraryNewWords.TakeTXTstrings(NewWords)
+			LibraryNewWords.TakeTXT(NewWords)
 			//LibraryNewWords.TakeTXT(NewWords)
 			LibraryWords.Takejson(LibraryJson)
 			LibraryWords.UpdateLibrary(NewWords)
@@ -52,7 +52,7 @@ func main() {
 			LibraryWords.SortLibrary()
 			LibraryWords.Savejson(LibraryJson)
 			LibraryWords.SaveTXT(LibraryTXT)
-			LibraryWords.SaveAlltoTXT(LibraryTXT)
+			LibraryWords.SaveTXT(LibraryTXT)
 		case "learn":
 			var LibraryLearnWords model.Slovarick
 			LibraryLearnWords.TakeTXT(LearnWords)
@@ -69,20 +69,20 @@ func main() {
 			LibraryWords.UpdateLibraryOnlyNewWords(&LibraryNewWords)
 			model.SaveEmptyTXT(NewWords, "You need to add your words here")
 			LibraryWords.Savejson(LibraryJson)
-			LibraryWords.SaveAlltoTXT(LibraryTXT)
+			LibraryWords.SaveTXT(LibraryTXT)
 		case "resafe":
 			var LibraryWords model.Slovarick
-			LibraryWords.Takejson(LibraryJson)
+			LibraryWords.TakeTXT(LibraryTXT)
+			//LibraryWords.Takejson(LibraryJson)
 			LibraryWords.DelDublikat()
 			LibraryWords.Savejson(LibraryJson)
-			LibraryWords.SaveAlltoTXT(LibraryTXT)
+			LibraryWords.SaveTXT(LibraryTXT)
 			LibraryWords.SaveGob(LibraryGob)
 			fmt.Println("len", len(LibraryWords.Words))
 		case "testgob":
 			var LibraryWords model.Slovarick
 			LibraryWords.TakeGob(LibraryGob)
-			LearnSlise := LibraryWords.WorkTest()
-			LearnSlise.SaveGob(LibraryGob)
+			LibraryWords.WorkTest()
 			LibraryWords.SaveGob(LibraryGob)
 			LibraryWords.SaveTXT(LibraryTXT)
 		case "exit":
