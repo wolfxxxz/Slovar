@@ -1,22 +1,24 @@
-Calm                       - Спокойный
-Quick                      - Быстрый
-Suggested                  - Предлагал (past)
-App                        - Приложение
-Like                       - Любить
-Puddle                     - Лужа
-Bring in                   - Приносить
-Until                      - До
-Case                       - Случай
-Piss me off                - Вывести из себя
-Mail                       - Почта
-Don't freak out            - Не паникуй
-High                       - Высокий
-Confident                  - Уверен
-Whence                     - Откуда
-Offset                     - Компенсировать
-Length                     - Длинна, продолжительность
-Edition                    - Издание
-Approve of                 - Одобрять
-Rely on                    - Полагаться на
-Get rid of                 - Избавлятся от
+Anniversary                - Годовщина
+A couple of questions      - Пара вопросов
+Expected                   - Ожидал (past)
+Religious                  - Верующая
+Top                        - Верх
+Go out                     - Идти на выход, выходить
+Fourteen                   - 14
+Default                    - По умолчанию
+Went to the park on foot   - Пошли в парк пешком (go)
+Region                     - Район R
+Easy                       - Легко, лёгкий, спокойно 
+Powder                     - Порошок
+Anywhere                   - Где угодно
+I washed my face           - Я вымыл лицо
+Bed Sheet                  - Простынь
+Certainly                  - Конечно
+Tent                       - Палатка
+Might                      - Возможно (modal)
+Shift                      - Сдвиг
+Grass                      - Трава
 To succeed in              - Преуспеть в
+Get rid of                 - Избавлятся от
+Offset                     - Компенсировать
+Rely on                    - Полагаться на

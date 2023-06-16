@@ -15,17 +15,19 @@ import (
 func (s *Slovarick) WorkTest() *Slovarick {
 	startTime := time.Now()
 
+	//Инициализирую мапу map[rus][]
 	K := s.CreateAndInitMapWords()
+	//Тут будут слова которые потом нужно учить
 	LearnSlice := NewSlovarick(nil)
 
-	// Scan quantity words for test
 	fmt.Println("Количество слов для теста")
-	quantity := ScanInt()                       //количество слов для теста
-	var capSlovar int = cap(s.Words) - quantity // cap  ёмкость нового []Words
-	//Скопировать кусок
+	//количество слов для теста и скопировать их с оригинала
+	quantity := ScanInt()
+	var capSlovar int = quantity // cap  ёмкость нового []Words
 	NewWordsu := make([]*Word, capSlovar)
 	NewSlovar := NewSlovarick(NewWordsu)
 	copy(NewSlovar.Words, s.Words[:quantity])
+
 	//Отрезать этот кусок от оригинала
 	s.Words = s.Words[quantity:]
 	//Присобачить что то впереди, что то сзади
@@ -106,10 +108,8 @@ func (s Slovarick) LearnWords() {
 }
 
 func ScanInt() (n int) {
-
 	for {
 		cc, _ := ScanStringOne()
-
 		i, err := strconv.Atoi(cc)
 		if err != nil {
 			fmt.Println("Incorect, please enter number")
@@ -122,7 +122,7 @@ func ScanInt() (n int) {
 }
 
 // Сравнение строк / пробелы между словами "_"
-func Compare(l Word, mapWord map[string]string) (yes int, not int, exit bool) {
+func Compare(l Word, mapWord *map[string][]string) (yes int, not int, exit bool) {
 	fmt.Println(l.Russian, " ||Тема: ", l.Theme)
 	c := IgnorProbel(l.English)
 
@@ -139,7 +139,7 @@ func Compare(l Word, mapWord map[string]string) (yes int, not int, exit bool) {
 		fmt.Println("Yes")
 	} else if CompareWithMap(l.Russian, s, mapWord) {
 		yes++
-		fmt.Println("Не совсем правильно ", mapWord[l.Russian])
+		fmt.Println("Не совсем правильно ", (*mapWord)[l.Russian][1])
 	} else if compareStringsLevenshtein(c, s) {
 		yes++
 		fmt.Println("Не совсем правильно ", l.English)
@@ -171,17 +171,6 @@ func compareStringsLevenshtein(str1, str2 string) bool {
 	}
 }
 
-func (s *Slovarick) CreateAndInitMapWords() (MapWords map[string]string) {
-	MapWords = make(map[string]string)
-	for _, v := range s.Words {
-		if v == nil {
-			break
-		}
-		MapWords[v.Russian] = v.English // assignment to nil map (SA5000)go-staticcheck field Russian string
-	}
-	return
-}
-
 func IgnorProbel(s string) (c string) {
 	for _, v := range s {
 		if v != ' ' {
@@ -191,56 +180,22 @@ func IgnorProbel(s string) (c string) {
 	return
 }
 
-func CompareWithMap(rusian, answer string, mapString map[string]string) (yes bool) {
-	if answer == mapString[rusian] {
-		yes = true
-	} else {
-		yes = false
-	}
-	return
-}
-
-/*
-// Игнорировать одну ошибку в словах
-func moreThanOneMistake(first, second string) bool {
-	first = strings.ToLower(first)
-	second = strings.ToLower(second)
-
-	lenFirst, lenSecond := len(first), len(second)
-	if strings.EqualFold(first, second) {
-		//fmt.Println("100% duplicates")
-		return true
-	}
-
-	if (lenFirst-lenSecond) >= 2 || (lenSecond-lenFirst) >= 2 {
-		//fmt.Println("try more, over time")
+// Сравнение Мапы со слайсом значений
+func CompareWithMap(russian, answer string, mapWords *map[string][]string) bool {
+	englishWords, ok := (*mapWords)[russian]
+	if !ok {
+		// Русское слово отсутствует в словаре
 		return false
 	}
 
-	if (lenSecond - lenFirst) == 1 {
-		return quantityMistakes(first, second)
-	}
-
-	if (lenFirst - lenSecond) == 1 {
-		return quantityMistakes(second, first)
-	}
-
-	return true
-}
-
-func quantityMistakes(a, b string) bool {
-	sizeMistake := 0
-	for i, v := range a {
-		if v != rune(b[i+sizeMistake]) {
-			sizeMistake++
-			if sizeMistake >= 2 {
-				return false
-			}
+	for _, word := range englishWords {
+		if answer == word {
+			return true // Найдено совпадение
 		}
 	}
 
-	return true
-}*/
+	return false // Не найдено совпадение
+}
 
 func ScanTime(a *string) {
 	fmt.Print("    ")
@@ -250,7 +205,8 @@ func ScanTime(a *string) {
 	}
 }
 
-// Сравнение строк /
+/*
+// Сравнение строк
 func CompareTime(l Word) (yes int, not int) {
 	fmt.Println(l.Russian, " ||Тема: ", l.Theme)
 	c := ""
@@ -280,7 +236,7 @@ func CompareTime(l Word) (yes int, not int) {
 	}
 	return yes, not
 
-}
+}*/
 
 func PrintXpen(s string) {
 	var d int

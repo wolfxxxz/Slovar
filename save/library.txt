@@ -1,71 +1,44 @@
-Calm - Спокойный
-Quick - Быстрый - Adjective
-Suggested - Предлагал (past)
-App - Приложение
-Like - Любить - Verb
-Puddle - Лужа - Place
-Bring in - Приносить - Preposition
-Until - До - Preposition
-Case - Случай - Programming
-Piss me off - Вывести из себя - Phrase
-Mail - Почта - Noun
-Don't freak out - Не паникуй - Phrase
-High - Высокий - Adjective
-Confident - Уверен
-Whence - Откуда
-Offset - Компенсировать
-Length - Длинна, продолжительность
-Edition - Издание
-Approve of - Одобрять - Preposition
-Rely on - Полагаться на - Preposition
-Get rid of - Избавлятся от - Preposition
-To succeed in - Преуспеть в - Preposition
-Rain - Дождь - Nature
-Take part - Принимать участие
-Grass - Трава - Nature
-Polite - Вежливый
-Error - Ошибка - Programming
-Provided - Обеспечивали (предоставляли)
-Sales - Продажи
-There - Там
-Shift - Сдвиг - Programming
-Mad - Безумный - Adjective
-Died - Умер (past)
-Might - Возможно (modal)
-Tent - Палатка - Place
-In The end - В конце - Studies
-Correct - Правильный
-Certainly - Конечно
-Bilingual - Двуязычный (знает два языка)
-Bed Sheet - Простынь
-I washed my face - Я вымыл лицо
-Anywhere - Где угодно
-Aggregate - Агрегировать - Programming
-Forget - Забывать - Verb
-Powder - Порошок
-Taxi - Такси
-Destructor - Деструктор - Programming
-Greatly - Очень сильно
-Easy - Легко, лёгкий, спокойно  - Adjective
-Region - Район R
-Went to the park on foot - Пошли в парк пешком (go)
-Default - По умолчанию - Programming
-Fourteen - 14 - Число
-Kill - Убийство - Verb
-Select - Выбирать - Programming
-Branch - Ветка - Programming
-Go out - Идти на выход, выходить
-Today - Сегодня - Adverb
-Top - Верх - Noun
-Tasty - Вкусно - Youtube
-Religious - Верующая
-Expected - Ожидал (past)
-A couple of questions - Пара вопросов
+Board - Доска
+Gold - Золото
+Take risks - Рисковать
+Business card - Визитка
+Trade - Торговля
+Industry - Галузь
+Budget - Бюджет
+Agent - Агент
+Make a deal - Заключить сделку
+Worth - Стоит
+Contract - Контракт
+Currency - Валюта
+Promotion - Повышение
+Prize - Приз
+Dispatch - Отправлять
+Enumerate - Перечислить
+Discard - Отказываться
 Anniversary - Годовщина
-Hi - Привет - Preposition
-Child - Ребёнок - Nature
-Get a job - Получить работу - Work
-What time - В какое время - Time
+A couple of questions - Пара вопросов
+Expected - Ожидал (past)
+Religious - Верующая
+Top - Верх - Noun
+Go out - Идти на выход, выходить
+Fourteen - 14 - Число
+Default - По умолчанию - Programming
+Went to the park on foot - Пошли в парк пешком (go)
+Region - Район R
+Easy - Легко, лёгкий, спокойно  - Adjective
+Powder - Порошок
+Anywhere - Где угодно
+I washed my face - Я вымыл лицо
+Bed Sheet - Простынь
+Certainly - Конечно
+Tent - Палатка - Place
+Might - Возможно (modal)
+Shift - Сдвиг - Programming
+Grass - Трава - Nature
+To succeed in - Преуспеть в - Preposition
+Get rid of - Избавлятся от - Preposition
+Offset - Компенсировать
+Rely on - Полагаться на - Preposition
 Edge of the building - Край здания
 Way - Путь - Noun
 Full - Полный - Programming
@@ -688,7 +661,6 @@ Hell - Ад - Noun
 Fond of - Обожаю - Preposition
 Second - Второй - Число
 Tale - Сказка - Noun
-Currency - Валюта
 Advertising - Реклама - Work
 Application - Заявка
 Maybe - Может быть - Adverb
@@ -703,7 +675,7 @@ Generation - Поколение - Time
 Listen to - Слышать кого - То
 Pretty tired - Достаточно уставший
 Fast - Быстрый - Adjective
-Unexpectedly - Неожиданно - Ly
+Unexpectedly - Неожиданно
 Skirt - Юбка
 Hard - Тяжёлый, жёсткий - Adjective
 Nowadays - Настоящее время (одно слово) - Time
@@ -765,7 +737,7 @@ Big - Большой - Adjective
 Same - Тот же - Adjective
 Get - Получать - Programming
 Engine - Двигатель
-Length - Длина - Work
+Length - Длинна, продолжительность
 Notice - Заметят
 Should - Следует - Modal
 Wait - Ждать - Verb
@@ -2058,7 +2030,6 @@ Read read read - Читать - Irregular verb
 Stand stood stood - Встать (он встал) - Irregular verb
 Meet met met - Встречать - Irregular verb
 React to - Реагировать на - Preposition
-Count on - Рассчитывать на - Preposition
 Reason for - Причина __ - Preposition
 Desire - Желание
 Capitalized - С большой буквы
@@ -2089,3 +2060,46 @@ Manner - Манера
 Turn on - Включить
 Married - Женат - Home
 Free - (быть) свободным
+Calm - Спокойный
+Suggested - Предлагал (past)
+App - Приложение
+Like - Любить - Verb
+Puddle - Лужа - Place
+Bring in - Приносить - Preposition
+Until - До - Preposition
+Piss me off - Вывести из себя - Phrase
+Mail - Почта - Noun
+Don't freak out - Не паникуй - Phrase
+Case - Случай - Programming
+Whence - Откуда
+Confident - Уверен
+High - Высокий - Adjective
+Quick - Быстрый - Adjective
+Edition - Издание
+Approve of - Одобрять - Preposition
+Rain - Дождь - Nature
+Take part - Принимать участие
+Polite - Вежливый
+Error - Ошибка - Programming
+Provided - Обеспечивали (предоставляли)
+Sales - Продажи
+There - Там
+Mad - Безумный - Adjective
+Died - Умер (past)
+In The end - В конце - Studies
+Correct - Правильный
+Bilingual - Двуязычный (знает два языка)
+Aggregate - Агрегировать - Programming
+Forget - Забывать - Verb
+Taxi - Такси
+Destructor - Деструктор - Programming
+Greatly - Очень сильно
+Kill - Убийство - Verb
+Select - Выбирать - Programming
+Branch - Ветка - Programming
+Today - Сегодня - Adverb
+Tasty - Вкусно - Youtube
+Hi - Привет - Preposition
+Child - Ребёнок - Nature
+Get a job - Получить работу - Work
+What time - В какое время - Time
