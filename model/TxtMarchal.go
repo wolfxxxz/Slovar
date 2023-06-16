@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"os"
 	"strings"
+	"unicode"
 )
 
 // Записать слова в .txt файл
@@ -91,6 +92,7 @@ func (s *Slovarick) TakeTXT(filetxt string) {
 			//Пробелы и точки...
 			words[i] = strings.TrimSpace(v)
 			words[i] = strings.ReplaceAll(words[i], ".", "")
+			words[i] = capitalizeFirstRune(words[i])
 		}
 		id := 0
 		theme := ""
@@ -229,6 +231,15 @@ func (l *Slovarick) Print() {
 		fmt.Print(v.English, " - ", v.Russian, " - ", v.Theme)
 		fmt.Println()
 	}
+}
+func capitalizeFirstRune(str string) string {
+	runes := []rune(str)
+	for i, r := range runes {
+		if i == 0 /*|| !unicode.IsLetter(runes[i-1]) */ {
+			runes[i] = unicode.ToUpper(r)
+		}
+	}
+	return string(runes)
 }
 
 // Прочитать файл txt и серилиазовать

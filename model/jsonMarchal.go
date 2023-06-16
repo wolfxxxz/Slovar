@@ -52,6 +52,25 @@ func (s *Slovarick) Savejson(file string) {
 	}
 }
 
+// Если хочется поднять первую букву
+func (s *Slovarick) ReSavejson(file string) {
+	for i, v := range s.Words {
+		s.Words[i].English = capitalizeFirstRune(v.English)
+		s.Words[i].Russian = capitalizeFirstRune(v.Russian)
+		s.Words[i].Theme = capitalizeFirstRune(v.Theme)
+	}
+
+	byteArr, err := json.MarshalIndent(s, "", "   ")
+	if err != nil {
+		log.Fatal(err)
+	}
+	//fmt.Println(string(byteArr))             0664
+	err = os.WriteFile(file, byteArr, 0666) //-rw-rw-rw-
+	if err != nil {
+		log.Fatal(err)
+	}
+}
+
 /*
 func TakejsonMap(slice []*Word) (mapString map[string]string) {
 	for _, v := range slice {

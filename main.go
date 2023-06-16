@@ -33,7 +33,6 @@ func main() {
 			var LibraryWords model.Slovarick
 			var LibraryNewWords model.Slovarick
 			LibraryNewWords.TakeTXT(NewWords)
-			//LibraryNewWords.TakeTXT(NewWords)
 			LibraryWords.Takejson(LibraryJson)
 			LibraryWords.UpdateLibrary(NewWords)
 			LibraryWords.DelDublikat()

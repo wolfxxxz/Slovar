@@ -1,32 +1,22 @@
-also                       - также
-Wash up the dishes         - мыть посуду
-data structure             - структура данных
-Square                     - площадь
-high                       - высокий
-Don't freak out            - не паникуй
-ascending                  - возрастаю
-Revised                    - повторённый, пересмотренный
-mail                       - почта
-Switch on                  - включить
-Piss me off                - вывести из себя
-case                       - случай
-outer                      - внешний
-capitalized                - с большой буквы
-Succeed in                 - получилось
-Get rid of                 - избавиться от
-Get used to                - привыкнуть
-Rely on                    - полагаться на
-Approve of                 - одобрять
-Edition                    - издание
-Lengths                    - продолжительность
-Happen to                  - произошло с
-All the best               - всё возможное
-everything possible        - всё возможное
-Below                      - ниже (среднего)
-Blame                      - провина
-offset                     - компенсировать
-whence                     - откуда
-until                      - до тех пор (пока)
-Confident                  - уверен
-order                      - упорядочить
-Bring in                   - приносить
+Calm                       - Спокойный
+Quick                      - Быстрый
+Suggested                  - Предлагал (past)
+App                        - Приложение
+Like                       - Любить
+Puddle                     - Лужа
+Bring in                   - Приносить
+Until                      - До
+Case                       - Случай
+Piss me off                - Вывести из себя
+Mail                       - Почта
+Don't freak out            - Не паникуй
+High                       - Высокий
+Confident                  - Уверен
+Whence                     - Откуда
+Offset                     - Компенсировать
+Length                     - Длинна, продолжительность
+Edition                    - Издание
+Approve of                 - Одобрять
+Rely on                    - Полагаться на
+Get rid of                 - Избавлятся от
+To succeed in              - Преуспеть в
