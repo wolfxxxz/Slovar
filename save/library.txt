@@ -1,244 +1,41 @@
-Board - Доска
-Gold - Золото
-Take risks - Рисковать
-Business card - Визитка
-Trade - Торговля
-Industry - Галузь
-Budget - Бюджет
-Agent - Агент
-Make a deal - Заключить сделку
-Worth - Стоит
-Contract - Контракт
-Currency - Валюта
-Promotion - Повышение
-Prize - Приз
-Dispatch - Отправлять
-Enumerate - Перечислить
-Discard - Отказываться
-Anniversary - Годовщина
-A couple of questions - Пара вопросов
-Expected - Ожидал (past)
-Religious - Верующая
-Top - Верх - Noun
-Go out - Идти на выход, выходить
-Fourteen - 14 - Число
-Default - По умолчанию - Programming
-Went to the park on foot - Пошли в парк пешком (go)
-Region - Район R
-Easy - Легко, лёгкий, спокойно  - Adjective
-Powder - Порошок
-Anywhere - Где угодно
-I washed my face - Я вымыл лицо
-Bed Sheet - Простынь
-Certainly - Конечно
-Tent - Палатка - Place
-Might - Возможно (modal)
-Shift - Сдвиг - Programming
-Grass - Трава - Nature
+Artist - Художник
+Charge - Заведует (чем то)
+Few - Мало - Pronoun
+Go - Идти - Verb
+Quite seldom - Достаточно редко
+Goods - Товары
+Trouble - Проблема - Noun
+Group - Группировать - Programming
+Get dark - Темнеет - Weather
+Allocate - Выделять память - Programming
+Reverse - Обращать - Programming
+Clock - Часы - Noun
+At first - Сначала - Time
+Influence - Влиять на - Preposition
+Require - Требовать
+Worth - Ценность
+Dispatch - Отправлять (D)
+Discard - Отказываться (D)
+Certainly - Конечно (C)
 To succeed in - Преуспеть в - Preposition
 Get rid of - Избавлятся от - Preposition
 Offset - Компенсировать
 Rely on - Полагаться на - Preposition
-Edge of the building - Край здания
-Way - Путь - Noun
-Full - Полный - Programming
-White - Белый - Adjective
-Return - Возвращаемое значение - Programming
-Warm - Тёплый - Adjective
-Multiplication - Умножение - Studies
-Simple - Простой - Studies
-Bus station - Автовокзал
-Required - Требовало (past)
-Lemon - Лимон - Food
-Keep - Держать (хранить) - Verb
-Topic - Тема
-Append - Добавить, присоединять - Work
-Meat - Мясо - Food
-Eat - Кушать - Verb
-Fly - Летать - Verb
-Left - Левый - Programming
-Recursion - Рекурсия - Programming
-Study - Учиться - Verb
-Eleven - 11 - Число
-Sofa - Диван
-Assistant - Ассистент
-Create - Создавать - Programming
-Community - Общество
-Enjoy - Наслаждаться - Verb
-Useless - Бесполезный - Work
-Inner - Внутренний - Programming
-The staff - Сотрудники
-Width - Ширина - Work
-Street - Улица - Noun
-Not necessarily - Не обязательно - Phrase
-Want - Хотеть - Verb
-Train - Тренировка - Home
-Correctly - Правильно
-Hate - Ненавидеть - Verb
 Sky - Небо - Nature
 Beginner - Новичок - Studies
 Conditional - Условный - Programming
-Certain - Уверен
 How many - Сколько (друзей)
-Start doing - Начать делать
-Waste time - Тратить время - Phrase
-Bicycle - Велосипед
-January - Январь - Time
-True - Истинный - Adjective
-One more time - Еще раз - Phrase
-Usual - Обычный - Adjective
 Device - Прибор - Noun
-Translate - Переводить - Verb
-Happily - Счастливо
-Method - Метод - Programming
-Capacity - Емкость - Programming
-Refuse to - Отказываться _ - Preposition
-Face problem - Столкнутся с проблемой
-Learn - Учиться - Verb
-Understand - Понимать - Verb
-Bag - Сумка
-Route - Маршрут
-Finally - Наконец
-Frighten - Пугает - Verb
-Option - Вариант
+Refuse to - Отказываться от - Preposition
 It seems to be - Это кажется - Phrase
-Suggested going - Предлагал пойти (past) - Phrase
-Value - Значение - Programming
-Question mark - Вопросительный знак
-Pink - Розовый - Adjective
-Soul - Душа - Body
-Considerably - Значительно (С)
 Social - Общественный - Adjective
-Speak - Говорить - Verb
-Mix up - Перемешать
-Public - Публичный - Programming
-Responsible - Ответственный
-Pocket - Карман - Clothes
-Abroad - За границей - Travel
-Compete - Соревноваться - Youtube
-Devote to - Уделять (время) для - Preposition
-Except for - Кроме __(огурцов) - Preposition
-Check - Проверить
+Except for - Кроме (огурцов) - Preposition
 Revis - Повторить, пересмотреть
-Fox - Лиса - Nature
-Excellent - Отлично E
-Zero - 0 - Число
-Bring up - Воспитывать
-Exercise - Заниматься спортом
-The same - То же самое (два слова)
-Behave - Ведёт себя
 To - В, к - Preposition
-Lost - Потеряла
-Right - Правый - Programming
-Wrong - Неправильный - Adjective
-Invent - Изобретать
-Returned - Вернулся (past)
-Job - Работа - Noun
-Pointer - Указатель - Programming
-Prefers - Предпочитает
-Spoon - Ложка - Noun
 Response time - Время отклика
-Husband - Муж, супруг - Nature
-Name - Имя, назвать - Noun
-Art - Искусство - Noun
-Stone - Камень - Nature
-Variable - Переменная - Programming
-Person - Человек - Nature
-Reference - Ссылка - Programming
-Shit - Дерьмо - Nature
-Cabinet - Шкаф
-Pass me - Передай мне
-Box - Коробка - Noun
-Do The Shopping - Делать покупки - Phrase
-Ask - Спрашивать - Verb
-Equal - Одинаковые - Work
-Grey - Серый - Adjective
-Difficult - Трудный - Adjective
-June - Июнь - Time
-Impossible - Невозможно
-From - Из - Programming
-Right now - Прямо сейчас - Time
-Drive - Управлять (ехать)
-A Bit - Немного B - Phrase
-Bull - Бык - Nature
-Floor - Пол - Home
-Color - Цвет - Nature
-The couple - Эти женатики (пара)
-Calculate - Рассчитать
-Change of clothes - Сменная одежда
-Feeling - Чувство - Home
-Worry - Беспокоить, волноваться - Home
-Remove - Удалять - Programming
-Useful - Полезный - Work
-Trousers - Брюки - Clothes
-Decrement - Уменьшать - Programming
-Church - Церковь - Place
-Opposite - Противоположные
-For - Для - Programming
-Prison - Тюрьма
-Expression - Выражение - Studies
-Late - Опоздавший
-Sister - Сестра - Nature
-Hospital - Больница - Noun
-Descending - Убывающий - Programming
-Recent - Свежая
-Put on - Надевать (шапку)
-Put - Класть - Verb
-Afraid of - Испуган от - Preposition
-Logical - Логические операции - Programming
-Cake - Пироженое - Food
-Go on - Продолжать 2 слова
-Delete - Удалять - Programming
-Luck - Удача - Noun
-Prepare - Подготовится - Studies
-Drunk - Пьяный - Adjective
-With - С - Preposition
-Wise - Мудрый - Studies
+Recent - Свежая (газета)
 Dead - Мёртвый - Adjective
-Joke - Шутка - Noun
-Filter - Фильтровать - Programming
-Begin - Начинать - Verb
-Influence - Влиять на - Preposition
-Celebrate - Праздновать - Youtube
-The only right - Единственно верное
-Friendly - Дружелюбный - Duolingo
-Low blow - Удар ниже пояса - Phrase
-At first - Сначала - Time
-Near - Около, рядом - Preposition
-Manage - Уметь (управлять)
-In August - В августе - Preposition
-Map - Отображать - Programming
-Clock - Часы - Noun
-At the beginning of the year - В начале этого года - Time
-Go anywhere you want to - Иди куда угодно
-Everything - Всё - Pronoun
-Tower - Башня
-Lunch - Обед - Food
-Reverse - Обращать - Programming
-Legal - Законный - Work
-Allocate - Выделять память - Programming
-Pay for - Платить за - Preposition
-Pan - Сковорода
-Worker - Рабочий
-Get dark - Темнеет - Weather
-Group - Группировать - Programming
-Do - Делать - Programming
-Breakfast - Завтрак - Food
-Get up - Вставать - Time
-Thirteen - 13 - Число
-Ineffective - Неэффективно - Work
-Trouble - Проблема - Noun
-Goods - Товары
-Departure - Отъезд
-Quite seldom - Достаточно редко
-Go - Идти - Verb
-On - На - Preposition
-Few - Мало - Pronoun
-Charge - Заведует (чем то)
-Artist - Художник
-Eyes - Глаза - Home
-Serious - Серьезный
-Fork - Вилка - Noun
+Die - Умерать - Adjective
 Point at - Указать на - Preposition
 Dictionary - Словарь - Programming
 Bye - Пока - Preposition
@@ -2103,3 +1900,206 @@ Hi - Привет - Preposition
 Child - Ребёнок - Nature
 Get a job - Получить работу - Work
 What time - В какое время - Time
+Board - Доска
+Gold - Золото
+Budget - Бюджет
+Agent - Агент
+Make a deal - Заключить сделку
+Contract - Контракт
+Currency - Валюта
+Prize - Приз
+Went to the park on foot - Пошли в парк пешком (go)
+Region - Район R
+Powder - Порошок
+Anywhere - Где угодно
+Bed Sheet - Простынь
+Grass - Трава - Nature
+Way - Путь - Noun
+Full - Полный - Programming
+White - Белый - Adjective
+Warm - Тёплый - Adjective
+Simple - Простой - Studies
+Bus station - Автовокзал
+Multiplication - Умножение - Studies
+Return - Возвращаемое значение - Programming
+Shift - Сдвиг - Programming
+Might - Возможно (modal)
+Tent - Палатка - Place
+I washed my face - Я вымыл лицо
+Easy - Легко, лёгкий, спокойно  - Adjective
+Fourteen - 14 - Число
+Go out - Идти на выход, выходить
+Top - Верх - Noun
+Expected - Ожидал (past)
+A couple of questions - Пара вопросов
+Promotion - Повышение
+Lemon - Лимон - Food
+Keep - Держать (хранить) - Verb
+Topic - Тема
+Meat - Мясо - Food
+Eat - Кушать - Verb
+Fly - Летать - Verb
+Left - Левый - Programming
+Recursion - Рекурсия - Programming
+Study - Учиться - Verb
+Eleven - 11 - Число
+Sofa - Диван
+Create - Создавать - Programming
+Community - Общество
+Enjoy - Наслаждаться - Verb
+Inner - Внутренний - Programming
+Useless - Бесполезный - Work
+Assistant - Ассистент
+Append - Добавить, присоединять - Work
+Take risks - Рисковать
+Business card - Визитка
+Trade - Торговля
+Enumerate - Перечислить
+Anniversary - Годовщина
+Default - По умолчанию - Programming
+Street - Улица - Noun
+Not necessarily - Не обязательно - Phrase
+Want - Хотеть - Verb
+Train - Тренировка - Home
+Hate - Ненавидеть - Verb
+Certain - Уверен
+Start doing - Начать делать
+Bicycle - Велосипед
+January - Январь - Time
+One more time - Еще раз - Phrase
+Usual - Обычный - Adjective
+Translate - Переводить - Verb
+Happily - Счастливо
+Method - Метод - Programming
+Face problem - Столкнутся с проблемой
+Learn - Учиться - Verb
+Understand - Понимать - Verb
+Bag - Сумка
+Frighten - Пугает - Verb
+Option - Вариант
+Question mark - Вопросительный знак
+Pink - Розовый - Adjective
+Considerably - Значительно (С)
+Speak - Говорить - Verb
+Public - Публичный - Programming
+Pocket - Карман - Clothes
+Abroad - За границей - Travel
+Compete - Соревноваться - Youtube
+Devote to - Уделять (время) для - Preposition
+Check - Проверить
+Fox - Лиса - Nature
+Zero - 0 - Число
+Exercise - Заниматься спортом
+The same - То же самое (два слова)
+Behave - Ведёт себя
+Lost - Потеряла
+Right - Правый - Programming
+Wrong - Неправильный - Adjective
+Invent - Изобретать
+Returned - Вернулся (past)
+Job - Работа - Noun
+Pointer - Указатель - Programming
+Prefers - Предпочитает
+Spoon - Ложка - Noun
+Husband - Муж, супруг - Nature
+Name - Имя, назвать - Noun
+Stone - Камень - Nature
+Variable - Переменная - Programming
+Person - Человек - Nature
+Cabinet - Шкаф
+Pass me - Передай мне
+Box - Коробка - Noun
+Do The Shopping - Делать покупки - Phrase
+Ask - Спрашивать - Verb
+Equal - Одинаковые - Work
+Grey - Серый - Adjective
+Difficult - Трудный - Adjective
+June - Июнь - Time
+Impossible - Невозможно
+From - Из - Programming
+Right now - Прямо сейчас - Time
+Drive - Управлять (ехать)
+Floor - Пол - Home
+Color - Цвет - Nature
+Calculate - Рассчитать
+Change of clothes - Сменная одежда
+Feeling - Чувство - Home
+Worry - Беспокоить, волноваться - Home
+Remove - Удалять - Programming
+Useful - Полезный - Work
+Trousers - Брюки - Clothes
+For - Для - Programming
+Prison - Тюрьма
+Expression - Выражение - Studies
+Late - Опоздавший
+Sister - Сестра - Nature
+Hospital - Больница - Noun
+Put on - Надевать (шапку)
+Put - Класть - Verb
+Cake - Пироженое - Food
+Go on - Продолжать 2 слова
+Delete - Удалять - Programming
+Prepare - Подготовится - Studies
+With - С - Preposition
+Wise - Мудрый - Studies
+Drunk - Пьяный - Adjective
+Luck - Удача - Noun
+Logical - Логические (операции) - Programming
+Afraid of - Испуган от - Preposition
+Descending - Убывающий - Programming
+Opposite - Противоположные
+Church - Церковь - Place
+Decrement - Уменьшать - Programming
+The couple - Эти женатики (пара)
+Bull - Бык - Nature
+A Bit - Немного B - Phrase
+Shit - Дерьмо - Nature
+Reference - Ссылка - Programming
+Art - Искусство - Noun
+Bring up - Воспитывать - Phrase verb
+Excellent - Отлично E
+Responsible - Ответственный
+Mix up - Перемешать
+Soul - Душа - Body
+Value - Значение - Programming
+Suggested going - Предлагал пойти (past) - Phrase
+Finally - Наконец (F)
+Route - Маршрут
+Capacity - Емкость - Programming
+True - Истинный - Adjective
+Waste time - Тратить время - Phrase
+Correctly - Правильно
+Width - Ширина - Work
+Building edge - Край здания
+Religious - Верующая, религиозная
+Industry - Промышленность
+The staff - Сотрудники (команда)
+Joke - Шутка - Noun
+Filter - Фильтровать - Programming
+Celebrate - Праздновать - Verb
+The only right - Единственно верное
+Friendly - Дружелюбный - Duolingo
+Low blow - Удар ниже пояса - Phrase
+Near - Около, рядом - Preposition
+Manage - Уметь (управлять)
+In August - В августе - Preposition
+Map - Отображать, карта - Programming
+At the beginning of the year - В начале этого года - Time
+Go anywhere you want to - Иди куда угодно - Phrase
+Everything - Всё - Pronoun
+Tower - Башня
+Lunch - Обед - Food
+Legal - Законный - Work
+Pay for - Платить за - Preposition
+Pan - Сковорода
+Worker - Рабочий
+Do - Делать - Programming
+Breakfast - Завтрак - Food
+Get up - Вставать - Time
+Thirteen - 13 - Число
+Ineffective - Неэффективно - Work
+Departure - Отъезд
+On - На - Preposition
+Eyes - Глаза - Home
+Serious - Серьезный
+Fork - Вилка - Noun

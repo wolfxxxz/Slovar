@@ -1,24 +1,38 @@
-Anniversary                - Годовщина
-A couple of questions      - Пара вопросов
-Expected                   - Ожидал (past)
-Religious                  - Верующая
-Top                        - Верх
-Go out                     - Идти на выход, выходить
-Fourteen                   - 14
-Default                    - По умолчанию
-Went to the park on foot   - Пошли в парк пешком (go)
-Region                     - Район R
-Easy                       - Легко, лёгкий, спокойно 
-Powder                     - Порошок
-Anywhere                   - Где угодно
-I washed my face           - Я вымыл лицо
-Bed Sheet                  - Простынь
-Certainly                  - Конечно
-Tent                       - Палатка
-Might                      - Возможно (modal)
-Shift                      - Сдвиг
-Grass                      - Трава
+Artist                     - Художник
+Charge                     - Заведует (чем то)
+Few                        - Мало
+Go                         - Идти
+Quite seldom               - Достаточно редко
+Goods                      - Товары
+Trouble                    - Проблема
+Group                      - Группировать
+Get dark                   - Темнеет
+Allocate                   - Выделять память
+Reverse                    - Обращать
+Clock                      - Часы
+At first                   - Сначала
+Influence                  - Влиять на
+Require                    - Требовать
+Worth                      - Ценность
+Dispatch                   - Отправлять (D)
+Discard                    - Отказываться (D)
+Certainly                  - Конечно (C)
 To succeed in              - Преуспеть в
 Get rid of                 - Избавлятся от
 Offset                     - Компенсировать
 Rely on                    - Полагаться на
+Sky                        - Небо
+Beginner                   - Новичок
+Conditional                - Условный
+How many                   - Сколько (друзей)
+Device                     - Прибор
+Refuse to                  - Отказываться от
+It seems to be             - Это кажется
+Social                     - Общественный
+Except for                 - Кроме (огурцов)
+Revis                      - Повторить, пересмотреть
+To                         - В, к
+Response time              - Время отклика
+Recent                     - Свежая (газета)
+Dead                       - Мёртвый
+Die                        - Умерать
