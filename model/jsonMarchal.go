@@ -18,7 +18,6 @@ func (SliceWord *Slovarick) Takejson(file string) {
 	//fmt.Println("File descriptor successfully created!")
 
 	//2. Теперь десериализуем содержимое jsonFile в экземпляр Go
-
 	f := make([]byte, 64)
 	var data2 string
 

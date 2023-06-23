@@ -17,7 +17,6 @@ func (s *Slovarick) SaveTXT(files string) {
 	}
 	defer file.Close()
 	for _, v := range s.Words {
-
 		file.WriteString(v.English)
 		file.WriteString(" - ")
 		file.WriteString(v.Russian)

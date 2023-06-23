@@ -1,38 +1,44 @@
-Artist                     - Художник
-Charge                     - Заведует (чем то)
-Few                        - Мало
-Go                         - Идти
-Quite seldom               - Достаточно редко
-Goods                      - Товары
-Trouble                    - Проблема
-Group                      - Группировать
-Get dark                   - Темнеет
-Allocate                   - Выделять память
-Reverse                    - Обращать
-Clock                      - Часы
-At first                   - Сначала
-Influence                  - Влиять на
-Require                    - Требовать
-Worth                      - Ценность
-Dispatch                   - Отправлять (D)
-Discard                    - Отказываться (D)
-Certainly                  - Конечно (C)
-To succeed in              - Преуспеть в
-Get rid of                 - Избавлятся от
-Offset                     - Компенсировать
-Rely on                    - Полагаться на
-Sky                        - Небо
-Beginner                   - Новичок
-Conditional                - Условный
-How many                   - Сколько (друзей)
-Device                     - Прибор
-Refuse to                  - Отказываться от
-It seems to be             - Это кажется
-Social                     - Общественный
-Except for                 - Кроме (огурцов)
-Revis                      - Повторить, пересмотреть
-To                         - В, к
-Response time              - Время отклика
-Recent                     - Свежая (газета)
+I feel sorry for the boy   - Мне жаль этого парня
+Convenient                 - Подходящий
+Partly                     - Частично
+Opportunity                - Возможность
+Replace                    - Заменять
+Pass by                    - Проходят мимо
+Letter                     - Буква, письмо, символ
+Both sides                 - Обе стороны
+Work properly              - Работать правильно
+Fuck                       - Трахать
+At once                    - Сразу же (во первых)
+Autumn                     - Осень
+Inform of                  - Информировать о
+Independent of             - Независимая от, самостоятельный _
+Huge                       - Огромный
+Learn something new        - Выучить что то новое
+Engineer                   - Инженер
 Dead                       - Мёртвый
-Die                        - Умерать
+Get rid of                 - Избавлятся от
+Discard                    - Отказываться (D)
+Innocent                   - Невинный
+Receive                    - Получать, принимать
+Call by reference          - Вызов по ссылке
+Least                      - Наименее, как минимум
+May                        - Мочь
+Fifteen                    - 15
+Increment                  - Увеличивать
+Easily                     - Спокойно
+Share                      - Разделять
+Deallocate                 - Освобождать память
+Still                      - Всё ещё, ещё, до сих пор
+Repeat                     - Повторять
+Satisfied with             - Удовлетворён с
+Goodbye                    - До свидания
+Throw                      - Выбрасывать исключение
+Mix                        - Смешивать
+Analyses                   - Анализы
+Company                    - Компания
+Promotion                  - Повышение
+Occasion                   - Повод
+Battle                     - Битва
+We are getting off         - Мы выходим
+Suppose                    - Предполагать
+If i were you              - На твоём месте

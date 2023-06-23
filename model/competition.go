@@ -124,7 +124,7 @@ func ScanInt() (n int) {
 // Сравнение строк / пробелы между словами "_"
 func Compare(l Word, mapWord *map[string][]string) (yes int, not int, exit bool) {
 	fmt.Println(l.Russian, " ||Тема: ", l.Theme)
-	c := IgnorProbel(l.English)
+	c := IgnorSpace(l.English)
 
 	a, _ := ScanStringOne()
 	if a == "exit" {
@@ -132,14 +132,14 @@ func Compare(l Word, mapWord *map[string][]string) (yes int, not int, exit bool)
 		//yes = 1
 		return yes, not, exit
 	}
-	s := IgnorProbel(a)
+	s := IgnorSpace(a)
 
 	if strings.EqualFold(c, s) {
 		yes++
 		fmt.Println("Yes")
 	} else if CompareWithMap(l.Russian, s, mapWord) {
 		yes++
-		fmt.Println("Не совсем правильно ", (*mapWord)[l.Russian][1])
+		fmt.Println("Не совсем правильно ", l.English)
 	} else if compareStringsLevenshtein(c, s) {
 		yes++
 		fmt.Println("Не совсем правильно ", l.English)
@@ -149,7 +149,7 @@ func Compare(l Word, mapWord *map[string][]string) (yes int, not int, exit bool)
 		for {
 			fmt.Println("Please enter correct: ")
 			j, _ := ScanStringOne()
-			jj := IgnorProbel(j)
+			jj := IgnorSpace(j)
 			if strings.EqualFold(c, jj) {
 				break
 			}
@@ -171,7 +171,7 @@ func compareStringsLevenshtein(str1, str2 string) bool {
 	}
 }
 
-func IgnorProbel(s string) (c string) {
+func IgnorSpace(s string) (c string) {
 	for _, v := range s {
 		if v != ' ' {
 			c = c + string(v)

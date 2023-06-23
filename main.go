@@ -69,7 +69,7 @@ func main() {
 			model.SaveEmptyTXT(NewWords, "You need to add your words here")
 			LibraryWords.Savejson(LibraryJson)
 			LibraryWords.SaveTXT(LibraryTXT)
-		case "resafe":
+		case "resave":
 			var LibraryWords model.Slovarick
 			LibraryWords.TakeTXT(LibraryTXT)
 			//LibraryWords.Takejson(LibraryJson)

@@ -19,11 +19,10 @@ func (SliceWord *Slovarick) TakeGob(file string) {
 	dec := gob.NewDecoder(buf)
 
 	if err := dec.Decode(SliceWord); err != nil {
-		log.Fatal(err)
+		fmt.Println("TakeGob", err)
 	}
 }
 
-// Сохранить в json file
 // Marshal (закодировать) encode
 func (s *Slovarick) SaveGob(file string) {
 
@@ -31,7 +30,7 @@ func (s *Slovarick) SaveGob(file string) {
 	enc := gob.NewEncoder(&buf)
 
 	if err := enc.Encode(s); err != nil {
-		log.Fatal(err)
+		fmt.Println("SaveGob", err)
 	}
 
 	//fmt.Println(string(byteArr))             0664
@@ -40,12 +39,3 @@ func (s *Slovarick) SaveGob(file string) {
 		log.Fatal(err)
 	}
 }
-
-/*
-func TakejsonMap(slice []*Word) (mapString map[string]string) {
-	for _, v := range slice {
-		mapString[v.English] = v.Russian
-	}
-
-	return
-}*/
