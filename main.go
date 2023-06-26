@@ -51,7 +51,6 @@ func main() {
 			LibraryWords.SortLibrary()
 			LibraryWords.Savejson(LibraryJson)
 			LibraryWords.SaveTXT(LibraryTXT)
-			LibraryWords.SaveTXT(LibraryTXT)
 		case "learn":
 			var LibraryLearnWords model.Slovarick
 			LibraryLearnWords.TakeTXT(LearnWords)
@@ -71,8 +70,8 @@ func main() {
 			LibraryWords.SaveTXT(LibraryTXT)
 		case "resave":
 			var LibraryWords model.Slovarick
-			LibraryWords.TakeTXT(LibraryTXT)
-			//LibraryWords.Takejson(LibraryJson)
+			//LibraryWords.TakeTXT(LibraryTXT)
+			LibraryWords.Takejson(LibraryJson)
 			LibraryWords.DelDublikat()
 			LibraryWords.Savejson(LibraryJson)
 			LibraryWords.SaveTXT(LibraryTXT)
