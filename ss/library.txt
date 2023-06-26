@@ -1,210 +1,73 @@
-If i were you - На твоём месте
-Technology - Технологический
-Suppose - Предполагать
-Reliable - Надежный
-Thoroughly - Тщательно
-Healthy - Здоровый
-We are getting off - Мы выходим
-Traffic - Пробки (на дорогах)
-Noise - Шум
-Battle - Битва
-Occasion - Повод
-Money - Деньги
-Trade - Торговля
-Worth - Ценность
-Promotion - Повышение
-Organization - Организация
-Firm - Фирма
-Prize - Приз
-Global - Глобальный
-Company - Компания
-Scale - Шкала
-Physics - Физика
-Theory - Теория
-Electric - Электрический
-Analyses - Анализы
-Analysis - Анализ
-Punish - Наказывать
-Mix - Смешивать - Verb
-Individual - Личность
-Throw - Выбрасывать исключение - Programming
-Goodbye - До свидания - Preposition
-Satisfied with - Удовлетворён с - Preposition
-Repeat - Повторять - Verb
-Textbook - Учебник - Noun
-Divide it into - Делить это на - Preposition
-Familiar - Знакомо
-Dangerous - Опасно - Work
-Anybody - Любой, никто, всякий (body) - Pronoun
-Any longer - Не дольше
-Still - Всё ещё, ещё, до сих пор - Adverb
-Deallocate - Освобождать память - Programming
-Tell - Говорить (кому то) - Verb
-Share - Разделять
-Run away - Убегай
-Easily - Спокойно
-Increment - Увеличивать - Programming
-Fifteen - 15 - Число
-May - Мочь - Verb
-Least - Наименее, как минимум - Adjective
-Call by reference - Вызов по ссылке - Programming
-Receive - Получать, принимать
-Innocent - Невинный
-Discard - Отказываться (D)
-Get rid of - Избавлятся от - Preposition
-To - В, к - Preposition
-Dead - Мёртвый - Adjective
-Engineer - Инженер - Nature
-Learn something new - Выучить что то новое
-Nasty weather - Неприятная погода - Phrase
-Control - Контролирую
-Huge - Огромный
-Bell - Звон, колокол
-Sad - Грустный - Adjective
-Cost - Стоить (глагол) - Youtube
-Be able - Смогу (будущее)
-But - Но - Preposition
-Tired of - Устал от - Preposition
-Join - Присоединится
-Bed - Кровать - Noun
-Independent of - Независимая от, самостоятельный _ - Preposition
-Inform of - Информировать о - Preposition
-Eighteen - 18 - Число
-Work - Работать - Verb
-Hello - Привет - Preposition
-Criticize - Критиковать - Youtube
-Higher - Выше
-Adapt to - Адаптироваться к - Preposition
-Autumn - Осень - Time
-At once - Сразу же (во первых) - Phrase
-Resolve the conflict - Решить конфликт
-Fuck - Трахать - Verb
-House - Дом - Noun
-Work properly - Работать правильно
-Both sides - Обе стороны
-Letter - Буква, письмо, символ - Noun
-The window - Окно
-Pass by - Проходят мимо - Phrase
-Whole - Вся (площадь)
-Weather - Погода - Nature
-Let - Позволять - Verb
-Replace - Заменять - Programming
-Country - Страна - Noun
-Skills - Навыки
-String - Нитка, шнурок
-Opportunity - Возможность
-Partly - Частично
-Thursday - Четверг - Time
-Convenient - Подходящий
+Call back - Перезвонить
+Awful - Плохо (пахнет)
+Force - Заставить
+Personality - Личность
+Importance - Значение
+Cycle - Цикл
+Action - Поступок
+Actions - Поступки
+Difference - Разница
+Differences - Отменности
+Theories - Теории
+Unit - Единица измерения, подразделение
+That is worth it - Это стоит того
+Shocking - Шокирующие
+Consider - Учитывать
+Statement - Утверждение, Заявление
+He's really good at English - Он хорош в английском
+May the force be with you - Пусть будет с тобой сила
+Cause - Причина
+Teeth - Зубы
+Suddenly - Вдруг, внезапно
+Sheet - Лист, страница
+In a year - (выучить) за год - Time
+Debug - Отлаживать - Programming
+The day after tomorrow - Послезавтра - Time
+March - Март - Time
+Property - Недвижимость
+Suggest - Предлагать
+On a business trip - В командировке - Work
+It's just a mouse - Это просто мышь - Preposition
+Excuse - Извинять - Verb
+The study - Исследование, изучение
+Remain - Остатся, продержатся
+To get in touch with - Связаться с
+Whenever - Когда угодно
+Flight - Полет, рейс
+Arithmetic - Арифметические операции - Programming
+Fortune - Удача, случай - Noun
+The end - Конец
 I feel sorry for the boy - Мне жаль этого парня
-Almost - Майже, почти
-Pay - Платить - Verb
-Bad at - Плохо от - Preposition
+Replace - Заменять - Programming
+Work properly - Работать правильно
+Independent of - Независимая от, самостоятельный _ - Preposition
+Dead - Мёртвый - Adjective
+Get rid of - Избавлятся от - Preposition
+Innocent - Невинный
+Receive - Получать, принимать
+Least - Наименее, как минимум - Adjective
+May - Мочь - Verb
+Fifteen - 15 - Число
+Increment - Увеличивать - Programming
+Share - Разделять
+Deallocate - Освобождать память - Programming
+Satisfied with - Удовлетворён с - Preposition
+Throw - Выбрасывать исключение - Programming
+Mix - Смешивать - Verb
+Analyses - Анализы
+Promotion - Повышение
+We are getting off - Мы выходим
+Suppose - Предполагать
+If i were you - На твоём месте
 Ands - Заканчивается
-Jug - Кувшин - Home
-Need - Нуждаться - Verb
-Devil - Дьявол - Noun
-Find - Находить - Programming
-Between - Между - Pronoun
-Run - Бежать - Verb
-November - Ноябрь - Time
-Insist on - Настаивать на - Preposition
-Another - Другой (мир) - Pronoun
-Use - Использовать - Verb
-Subway - Метро
-Sometimes - Иногда - Pronoun
-Book - Книга - Noun
-Go away - Уйди
-They - Они - Pronoun
-The day before yesterday - Позавчера
-Fill - Наполнять - Verb
 Will it last for - Сколько это продлится? - Preposition
 Baby - Крошка - Nature
-Nineteen - 19 - Число
-Winter - Зима - Time
-More than enough - Больше чем достаточно
-Knife - Нож - Noun
 Brave - Смелая
-Always - Всегда - Adverb
-Last for about - (это будет) длится около
 All - Все - Pronoun
-Function - Функция - Programming
-Airplane - Самолет
-Have - Иметь - Verb
 Perfectly - Полностью
-Root - Корень
-Light - Более лёгкий, свет - Adjective
-Strong - Сильный
 Any case - Любой случай
-Novel - Роман
-Wish - Желать - Verb
-The way - Путь
-Achieve this aim - Достигнуть этой цели
-Boat - Лодка
-Main - Главный - Adjective
-Anyone - Любой - Pronoun
-Victim - Жертва
 Much more - Гораздо более - Phrase
-Tiger - Тигр - Nature
-Four - 4 - Число
-Communicate - Общаться
-Careful - Осторожно
-For example - Например
-Degree - Научная степень
 Will Get tired - Скоро устанешь
-Monday - Понедельник - Time
-Will Continue doing - Будет продолжать делать
-Village - Село
-Morning - Утро - Time
-The end - Конец
-Despite - Не смотря на (одно слово)
-Article - Статья - Work
-School - Школа - Noun
-Fortune - Удача, случай - Noun
-Sixteen - 16 - Число
-Arithmetic - Арифметические операции - Programming
-Expectedly - Ожидаемо
-Flight - Полет, рейс
-Whenever - Когда угодно
-To get in touch with - Связаться с
-Class - Класс - Programming
-Very - Очень - Adverb
-Each - Каждый - Pronoun
-Unknown - Неизвестно - Work
-Twelve - 12 - Число
-See - Видеть - Verb
-Remain - Остатся, продержатся
-Wolf - Волк - Nature
-The study - Исследование, изучение
-Go to work - Идти на работу - Phrase
-Excuse - Извинять - Verb
-It's just a mouse - Это просто мышь - Preposition
-Police - Полиция - Work
-Seventeen - 17 - Число
-Allow - Разрешать (дозволяти)
-On a business trip - В командировке - Work
-Suggest - Предлагать
-Property - Недвижимость
-March - Март - Time
-Take place - Проходит (иметь место)
-The day after tomorrow - Послезавтра - Time
-Debug - Отлаживать - Programming
-In a year - (выучить) за год - Time
-Criminal - Преступник
-Sheet - Лист, страница
-Disappeared - Исчезли (past)
-Salary - Зарплата
-Present day - Сегодня - Time
-Agreement - Договоренность
-Sponge - Губка
-You - Ты - Pronoun
-Comb - Гребешок
-Suddenly - Вдруг, внезапно
-Angry - Злой - Work
-Dance - Танцевать - Verb
-Move - Двигаться - Verb
-Here - Здесь - Pronoun
-Explain - Объясни
 Have a good time - Хорошо проводить время - Phrase
 Three - 3 - Число
 Have read - Прочитать
@@ -603,7 +466,7 @@ Pasta - Макароны - Food
 Grateful to for - Благодарен __(кому за) - Preposition
 Pass - Сдать (тест) - Studies
 CamelCase - Стиль написания camelCase - Programming
-Die - Умирать - Verb
+Die - Умерать - Adjective
 Take off - Снять (одежду) - Clothes
 Include - Включает (еда)
 Event - Событие - Work
@@ -751,7 +614,6 @@ Vision - Зрение
 Mouth - Рот
 All ears - Во все уши
 First sight - Первый взгляд
-Teeth - Зубы
 IDE - Интегрированная среда разработки - Programming
 Order food - Заказывать еду - Phrase
 Parameter - Параметр - Programming
@@ -964,7 +826,6 @@ Religion - Религия
 She doesn't affect me - Она не влияет на меня
 Sand - Песок
 Sick - Больной
-Statement - Утверждение, Заявление
 Instance - Случай, пример
 I had not assumed anything - Я ничего не предполагал
 Sight - Зрение, взгляд
@@ -1138,7 +999,6 @@ Express - Выражать
 Admire - Восхищаться
 Bite bit bitten - Кусать - Irregular verb
 Tips and tricks - Уловки и трюки - Phrase
-Consider - Учитывать
 Compare - Сравнивать
 See the difference - Увидеть разницу
 Illegal - Незаконно
@@ -1156,7 +1016,6 @@ Inspire - Вдохновлять
 Accuse - Обвинять
 At this point - В данный момент - Phrase
 Deserve - Заслуживать
-Cause - Причина
 Center - Центр
 Responsibility - Ответственность
 Scientists - Учёный
@@ -1236,7 +1095,6 @@ Middle - Середина
 Impress by - Впечатлен от - Preposition
 Give a speech - Выступить с промова
 Go hand in hand - Идти плечо к плечу - Phrase
-Unit - Единица измерения, подразделение
 Science - Наука
 Computer science - Информатика
 Speed - Скорость
@@ -1509,7 +1367,6 @@ Suit - Подходить (по)
 Theater - Театр
 Thick - Толстый (книга)
 I have nothing to do with this matter - Я не имею отношения к этому делу - Phrase
-Force - Заставить
 Disturb - Мешать
 Earth - Земля
 This problem has nothing to do with you - Эта проблема не имеет к тебе отношения - Phrase
@@ -1804,7 +1661,7 @@ Shift - Сдвиг - Programming
 Might - Возможно (modal)
 Tent - Палатка - Place
 I washed my face - Я вымыл лицо
-Easy - Легко, лёгкий, спокойно - Adjective
+Easy - Легко, лёгкий, спокойно  - Adjective
 Fourteen - 14 - Число
 Go out - Идти на выход, выходить
 Top - Верх - Noun
@@ -2008,7 +1865,7 @@ Bye - Пока - Preposition
 Recent - Свежая (газета)
 Device - Прибор - Noun
 Conditional - Условный - Programming
-Artist - Художник, артист
+Artist - Художник
 Painter - Художник
 Worse - Хуже - Adjective
 Colorful - Блестящий
@@ -2028,7 +1885,7 @@ Stack overflow - Переполнение стека - Programming
 Brilliant - Блестящий - Studies
 Set - Устанавливать - Programming
 Print - Печатать - Verb
-False - Ложь - Work
+False - Не правда - Work
 Slow - Медленный - Adjective
 To correct - Исправить
 Repair - Исправить
@@ -2037,7 +1894,7 @@ Index - Индекс - Programming
 Equipment - Оборудование - Work
 Rare enough - Достаточно редко
 Quite seldom - Достаточно редко
-Trouble - Неприятность - Noun
+Trouble - Проблема - Noun
 Allocate - Выделять память - Programming
 Reverse - Обращать - Programming
 Certainly - Конечно (C)
@@ -2121,3 +1978,163 @@ Marry - Жениться на - Preposition
 Pronunciation - Произношение
 Think it over - Обдумать это
 Apologize - Извиняться
+Technology - Технологический
+Reliable - Надежный
+Thoroughly - Тщательно
+Healthy - Здоровый
+Traffic - Пробки (на дорогах)
+Noise - Шум
+Money - Деньги
+Trade - Торговля
+Worth - Ценность
+Organization - Организация
+Firm - Фирма
+Prize - Приз
+Global - Глобальный
+Scale - Шкала
+Physics - Физика
+Theory - Теория
+Electric - Электрический
+Analysis - Анализ
+Punish - Наказывать
+Individual - Личность
+Textbook - Учебник - Noun
+Divide it into - Делить это на - Preposition
+Familiar - Знакомо
+Dangerous - Опасно - Work
+Anybody - Любой, никто, всякий (body) - Pronoun
+Any longer - Не дольше
+Tell - Говорить (кому то) - Verb
+Run away - Убегай
+To - В, к - Preposition
+Nasty weather - Неприятная погода - Phrase
+Control - Контролирую
+Bell - Звон, колокол
+Sad - Грустный - Adjective
+Cost - Стоить (глагол) - Youtube
+Be able - Смогу (будущее)
+But - Но - Preposition
+Tired of - Устал от - Preposition
+Join - Присоединится
+Bed - Кровать - Noun
+Eighteen - 18 - Число
+Work - Работать - Verb
+Hello - Привет - Preposition
+Criticize - Критиковать - Youtube
+Higher - Выше
+Adapt to - Адаптироваться к - Preposition
+Resolve the conflict - Решить конфликт
+House - Дом - Noun
+The window - Окно
+Whole - Вся (площадь)
+Weather - Погода - Nature
+Let - Позволять - Verb
+Country - Страна - Noun
+Skills - Навыки
+String - Нитка, шнурок
+Thursday - Четверг - Time
+Almost - Майже, почти
+Convenient - Подходящий
+Partly - Частично
+Opportunity - Возможность
+Pass by - Проходят мимо - Phrase
+Letter - Буква, письмо, символ - Noun
+Both sides - Обе стороны
+Fuck - Трахать - Verb
+Autumn - Осень - Time
+Learn something new - Узнать что
+Discard - Отказываться (D)
+Repeat - Повторять - Verb
+Goodbye - До свидания - Preposition
+Occasion - Повод
+Battle - Битва
+Pay - Платить - Verb
+Bad at - Плохо от - Preposition
+Need - Нуждаться - Verb
+Find - Находить - Programming
+Between - Между - Pronoun
+Run - Бежать - Verb
+November - Ноябрь - Time
+Insist on - Настаивать на - Preposition
+Another - Другой (мир) - Pronoun
+Use - Использовать - Verb
+Book - Книга - Noun
+Go away - Уйди
+They - Они - Pronoun
+Fill - Наполнять - Verb
+Nineteen - 19 - Число
+Winter - Зима - Time
+More than enough - Больше чем достаточно
+Knife - Нож - Noun
+Always - Всегда - Adverb
+Function - Функция - Programming
+Have - Иметь - Verb
+Root - Корень
+Light - Более лёгкий, свет - Adjective
+Novel - Роман
+Wish - Желать - Verb
+The way - Путь
+Achieve this aim - Достигнуть этой цели
+Boat - Лодка
+Main - Главный - Adjective
+Tiger - Тигр - Nature
+Four - 4 - Число
+Communicate - Общаться
+Careful - Осторожно
+For example - Например
+Degree - Научная степень
+Monday - Понедельник - Time
+Will Continue doing - Будет продолжать делать
+Victim - Жертва
+Anyone - Любой - Pronoun
+Strong - Сильный
+Airplane - Самолет
+Last for about - (это будет) длится около
+The day before yesterday - Позавчера
+Sometimes - Иногда - Pronoun
+Subway - Метро
+Devil - Дьявол - Noun
+Jug - Кувшин - Home
+Company - Компания
+Still - Всё ещё, ещё, до сих пор - Adverb
+Easily - Спокойно
+Call by reference - Вызов по ссылке - Programming
+Engineer - Инженер - Nature
+Huge - Огромный
+Inform of - Информировать о - Preposition
+At once - Сразу же (во первых) - Phrase
+Village - Село
+Morning - Утро - Time
+Despite - Не смотря на (одно слово)
+Article - Статья - Work
+School - Школа - Noun
+Sixteen - 16 - Число
+Expectedly - Ожидаемо
+Class - Класс - Programming
+Very - Очень - Adverb
+Each - Каждый - Pronoun
+Unknown - Неизвестно - Work
+Twelve - 12 - Число
+See - Видеть - Verb
+Wolf - Волк - Nature
+Go to work - Идти на работу - Phrase
+Police - Полиция - Work
+Seventeen - 17 - Число
+Allow - Разрешать (дозволяти)
+Take place - Проходит (иметь место)
+Criminal - Преступник
+Disappeared - Исчезли (past)
+Salary - Зарплата
+Present day - Сегодня - Time
+Agreement - Договоренность
+Sponge - Губка
+You - Ты - Pronoun
+Angry - Злой - Work
+Dance - Танцевать - Verb
+Move - Двигаться - Verb
+Here - Здесь - Pronoun
+Explain - Объясни
+Comb - Гребешок
+To succeed in - Преуспеть в - Preposition
+Revis - Повторить, пересмотреть
+Condition - Условия - Studies
