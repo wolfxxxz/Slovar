@@ -52,6 +52,12 @@ func (s *Slovarick) WorkTest() *Slovarick {
 			exit1 = true
 			n = 1
 		}
+		if y > 0 && n > 0 {
+			yes++
+			s.Preppend(v)
+			LearnSlice.Preppend(v)
+			continue
+		}
 
 		if y > 0 {
 			yes++
@@ -139,6 +145,7 @@ func Compare(l Word, mapWord *map[string][]string) (yes int, not int, exit bool)
 		fmt.Println("Yes")
 	} else if CompareWithMap(l.Russian, s, mapWord) {
 		yes++
+		not++
 		fmt.Println("Не совсем правильно ", l.English)
 	} else if compareStringsLevenshtein(c, s) {
 		yes++
