@@ -1,115 +1,25 @@
-He is good at English - Он хорош в английском - Phrase
-Cause - Причина - Noun
-Excuse - извинять, прощать - Verb
-study - учить, изучать - Verb
-To get in touch with - Связаться с - Phrase
-The end - Конец - Noun
-I feel sorry for the boy - Мне жаль этого парня - Phrase
-Throw - Выбрасывать исключение - Programming
-Analyse - Анализировать - Verb
-Promotion - Повышение - Noun
-We are getting off - Мы выходим - Phrase
-Suppose - Предполагать - Verb
-Perfectly - совершенно, вполне - Adverb
-Participate - Принимать участие - Verb
-That is worth it - Это стоит того - Phrase
-Personality - характер - Noun
-Initialize - Инициализировать - Programming
-Quickly - Быстро (Q) - Adjective
-Respect - Уважать - Verb
-Town - Город (T) - Noun
-Edge of - Край _ - Preposition
+Pretty tired - Достаточно уставший - Phrase
+Listen to - Слышать кого то - Preposition
+Ask for help - Попросить помощи - Phrase
+Notebook - Тетрадь - Noun
+Application - Заявка - Noun
+Tale - Сказка - Noun
+Fond of - Обожаю - Preposition
+Hell - Ад - Noun
+Border - Граница - Noun
+Prayed - Молился - Verb
+Raise - Растить - Verb
+Tremendous - Огромный, потрясающий - Adjective
 Goose - Гусь - Nature
-West - Запад - Noun
-Stack - Стек - Programming
-Carefully - Осторожно, внимательно, бережно - Adverb
-Behind - За (ним) - Pronoun
-Intermediate - Средний, промежуточный (уровень) - Adjective
-Pig - Свинья - Nature
-Bloody - Кровавый - Adjective
-Financial - Финансовый - Adjective
-Loud - Громко - Adjective
-None of them - Никто из них - Phrase
-Really - Действительно - Adverb
-Frequent - частый - Adjective
-Read - Читать - Verb
-Much - Много - Pronoun
-Pool - Бассейн - Noun
-Silver - Серебро - Noun
-Somehow - Как то - Adverb
-Place - Место - Noun
-Kind - Добрый - Adjective
-Unusual - Необычно - Adjective
-Sell - Продавать - Verb
-Party - Вечеринка - Noun
-I mean - Я имею в виду - Phrase
-Stand - Стоять - Verb
-Phrase - Фраза - Noun
-Soup - Суп - Food
-Translate from into - Переводить с на - Preposition
-Neighborhood - Район - Noun
-New - Новый - Adjective
-Lend - Давать в долг - Verb
-Soft - Мягкий - Adjective
-Can - Может - Modal verb
-Per - За (метр за секунду) - Preposition
-Relationships - Отношения (с родителями) - Noun
-Pure - Чистый - Adjective
-Remember - Помнить - Verb
+That is worth it - Это стоит того - Phrase
+Suppose - Предполагать - Verb
+We are getting off - Мы выходим - Phrase
+I feel sorry for the boy - Мне жаль этого парня - Phrase
+Excuse - извинять, прощать - Verb
 Beach - Пляж - Nature
-What kind of - Какого рода? - Phrase
-List - Список - Programming
-Monkey - Обезьяна - Nature
 Web - Сеть, паутина - Programming
 Approximately - Приблизительно - Adverb
-Drink - Пить - Verb
-Approach - Подход - Noun
-Little - Маленький - Adjective
-Shop - Магазин - Noun
-Cheap - Дешёвый - Adjective
-Birth - Рождение - Noun
-Reinvent - Переизобретать, создавать новую версию
-Become - Стать - Verb
-Boy - Мальчик - Noun
-Waiter - Официант - Noun
-Forgive - Простить - Verb
-Fat - Толстый - Adjective
-Potential - Потенциальный - Adjective
-Mention - Упоминать - Verb
 Oneself - Себя - Pronoun
-Tremendous - Огромный, потрясающий - Adjective
-Add - Добавлять - Verb
-Fresh - Свежий - Adjective
-Trust - Доверять - Verb
-Raise - Растить - Verb
-Stay positive - Оставаться позитивным - Phrase
-Prayed - Молился - Verb
-Chicken - Курица, цыплёнок - Nature
-Duck - Утка - Nature
-Daughter - Дочь - Noun
-Border - Граница - Noun
-Introduction - Вступление - Noun
-Many - Много (идей) - Pronoun
-Along - Вдоль - Pronoun
-Life - Жизнь - Noun
-Under - Под - Preposition
-Hell - Ад - Noun
-Fond of - Обожаю - Preposition
-Second - Второй - Число
-Tale - Сказка - Noun
-Advertising - Реклама - Noun
-Application - Заявка - Noun
-Maybe - Может быть - Adverb
-Notebook - Тетрадь - Noun
-Hold - Держать - Verb
-Borrow - Брать в долг - Verb
-Ask for help - Попросить помощи - Phrase
-Basket - Корзина - Noun
-Food - Еда - Food
-Number - Число - Число
-Generation - Поколение - Time
-Listen to - Слышать кого то - Preposition
-Pretty tired - Достаточно уставший - Phrase
 Fast - Быстрый - Adjective
 Unexpectedly - Неожиданно - Adjective
 Skirt - Юбка - Noun
@@ -2131,3 +2041,93 @@ May the force be with you - Пусть будет с тобой сила - Phras
 Statement - Утверждение, Заявление - Noun
 Shocking - Шокирующие, поразительный, возмутительный - Adjective
 Sooner or later - Рано или поздно - Time
+He is good at English - Он хорош в английском - Phrase
+The end - Конец - Noun
+Analyse - Анализировать - Verb
+Perfectly - совершенно, вполне - Adverb
+Initialize - Инициализировать - Programming
+Quickly - Быстро (Q) - Adjective
+Respect - Уважать - Verb
+Town - Город (T) - Noun
+Edge of - Край _ - Preposition
+West - Запад - Noun
+Stack - Стек - Programming
+Behind - За (ним) - Pronoun
+Pig - Свинья - Nature
+Bloody - Кровавый - Adjective
+Financial - Финансовый - Adjective
+None of them - Никто из них - Phrase
+Really - Действительно - Adverb
+Read - Читать - Verb
+Pool - Бассейн - Noun
+Somehow - Как то - Adverb
+Place - Место - Noun
+Kind - Добрый - Adjective
+Unusual - Необычно - Adjective
+Sell - Продавать - Verb
+Party - Вечеринка - Noun
+I mean - Я имею в виду - Phrase
+Phrase - Фраза - Noun
+Soup - Суп - Food
+Translate from into - Переводить с на - Preposition
+Much - Много - Pronoun
+Frequent - частый - Adjective
+Loud - Громко - Adjective
+Intermediate - Средний, промежуточный (уровень) - Adjective
+Carefully - Осторожно, внимательно, бережно - Adverb
+Personality - характер - Noun
+Participate - Принимать участие - Verb
+Promotion - Повышение - Noun
+Throw - Выбрасывать исключение - Programming
+To get in touch with - Связаться с - Phrase
+Cause - Причина - Noun
+New - Новый - Adjective
+Lend - Давать в долг - Verb
+Can - Может - Modal verb
+Per - За (метр за секунду) - Preposition
+Relationships - Отношения (с родителями) - Noun
+Remember - Помнить - Verb
+What kind of - Какого рода? - Phrase
+List - Список - Programming
+Monkey - Обезьяна - Nature
+Drink - Пить - Verb
+Approach - Подход - Noun
+Little - Маленький - Adjective
+Shop - Магазин - Noun
+Cheap - Дешёвый - Adjective
+Reinvent - Переизобретать, создавать новую версию
+Become - Стать - Verb
+Boy - Мальчик - Noun
+Waiter - Официант - Noun
+Forgive - Простить - Verb
+Fat - Толстый - Adjective
+Potential - Потенциальный - Adjective
+Mention - Упоминать - Verb
+Birth - Рождение - Noun
+Pure - Чистый - Adjective
+Soft - Мягкий - Adjective
+study - учить, изучать - Verb
+Silver - Серебро - Noun
+Stand - Стоять - Verb
+Neighborhood - Район - Noun
+Add - Добавлять - Verb
+Fresh - Свежий - Adjective
+Trust - Доверять - Verb
+Stay positive - Оставаться позитивным - Phrase
+Chicken - Курица, цыплёнок - Nature
+Duck - Утка - Nature
+Daughter - Дочь - Noun
+Introduction - Вступление - Noun
+Many - Много (идей) - Pronoun
+Along - Вдоль - Pronoun
+Life - Жизнь - Noun
+Under - Под - Preposition
+Second - Второй - Число
+Advertising - Реклама - Noun
+Maybe - Может быть - Adverb
+Hold - Держать - Verb
+Borrow - Брать в долг - Verb
+Basket - Корзина - Noun
+Food - Еда - Food
+Number - Число - Число
+Generation - Поколение - Time
