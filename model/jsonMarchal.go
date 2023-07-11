@@ -7,8 +7,8 @@ import (
 	"os"
 )
 
-// Unmarshal
-func (SliceWord *Slovarick) Takejson(file string) {
+// Unmarshal (Декодирование)
+func (SliceWord *Slovarick) Decode(file string) {
 	//1. Создадим файл дескриптор
 	filejson, err := os.Open(file)
 	if err != nil {
@@ -37,8 +37,8 @@ func (SliceWord *Slovarick) Takejson(file string) {
 }
 
 // Сохранить в json file
-// Marshal
-func (s *Slovarick) Savejson(file string) {
+// Marshal Кодирование
+func (s *Slovarick) Encode(file string) {
 
 	byteArr, err := json.MarshalIndent(s, "", "   ")
 	if err != nil {

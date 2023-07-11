@@ -33,23 +33,23 @@ func main() {
 			var LibraryWords model.Slovarick
 			var LibraryNewWords model.Slovarick
 			LibraryNewWords.TakeTXT(NewWords)
-			LibraryWords.Takejson(LibraryJson)
+			LibraryWords.Decode(LibraryJson)
 			LibraryWords.UpdateLibrary(NewWords)
 			LibraryWords.DelDublikat()
-			LibraryWords.Savejson(LibraryJson)
+			LibraryWords.Encode(LibraryJson)
 			LibraryWords.SaveTXT(LibraryTXT)
 		case "test":
 			var LibraryWords model.Slovarick
-			LibraryWords.Takejson(LibraryJson)
+			LibraryWords.Decode(LibraryJson)
 			LearnSlise := LibraryWords.WorkTest()
 			LearnSlise.SaveForLearningTxt(LearnWords)
-			LibraryWords.Savejson(LibraryJson)
+			LibraryWords.Encode(LibraryJson)
 			LibraryWords.SaveTXT(LibraryTXT)
 		case "sort":
 			var LibraryWords model.Slovarick
-			LibraryWords.Takejson(LibraryJson)
+			LibraryWords.Decode(LibraryJson)
 			LibraryWords.SortLibrary()
-			LibraryWords.Savejson(LibraryJson)
+			LibraryWords.Encode(LibraryJson)
 			LibraryWords.SaveTXT(LibraryTXT)
 		case "learn":
 			var LibraryLearnWords model.Slovarick
@@ -60,20 +60,20 @@ func main() {
 			var LibraryNewWords model.Slovarick
 			LibraryNewWords.TakeTXT(NewWords)
 			fmt.Println("len newWords ", len(LibraryNewWords.Words))
-			LibraryWords.Takejson(LibraryJson)
+			LibraryWords.Decode(LibraryJson)
 			fmt.Println("len libJson", len(LibraryWords.Words))
 			LibraryWords.CheckAndDelDublikats(&LibraryNewWords)
 			fmt.Println("len newWords delDubl ", len(LibraryNewWords.Words))
 			LibraryWords.UpdateLibraryOnlyNewWords(&LibraryNewWords)
 			model.SaveEmptyTXT(NewWords, "You need to add your words here")
-			LibraryWords.Savejson(LibraryJson)
+			LibraryWords.Encode(LibraryJson)
 			LibraryWords.SaveTXT(LibraryTXT)
 		case "resave":
 			var LibraryWords model.Slovarick
 			//LibraryWords.TakeTXT(LibraryTXT)
-			LibraryWords.Takejson(LibraryJson)
+			LibraryWords.Decode(LibraryJson)
 			LibraryWords.DelDublikat()
-			LibraryWords.Savejson(LibraryJson)
+			LibraryWords.Encode(LibraryJson)
 			LibraryWords.SaveTXT(LibraryTXT)
 			LibraryWords.SaveGob(LibraryGob)
 			fmt.Println("len", len(LibraryWords.Words))

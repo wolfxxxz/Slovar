@@ -1,22 +1,27 @@
-Pretty tired               - Достаточно уставший
-Listen to                  - Слышать кого то
-Ask for help               - Попросить помощи
-Notebook                   - Тетрадь
-Application                - Заявка
-Tale                       - Сказка
-Fond of                    - Обожаю
-Hell                       - Ад
-Border                     - Граница
-Prayed                     - Молился
-Raise                      - Растить
-Tremendous                 - Огромный, потрясающий
-Goose                      - Гусь
-That is worth it           - Это стоит того
-Suppose                    - Предполагать
-We are getting off         - Мы выходим
-I feel sorry for the boy   - Мне жаль этого парня
-Excuse                     - извинять, прощать
-Beach                      - Пляж
-Web                        - Сеть, паутина
-Approximately              - Приблизительно
-Oneself                    - Себя
+Go Shopping                - Ходить за покупками
+Itself                     - Само
+Take your time             - Не торопись
+Do the laundry             - Стирать белье
+Go to bed                  - Ложиться спать
+In front                   - Спереди
+Set a goal                 - Поставить цель
+Take off                   - Снять (одежду)
+Give it a try              - Попробуйте
+Get some rest              - Отдохни
+Keep it simple             - Держи это простым(Будь проще)
+Explore                    - Исследовать
+Crowded                    - Переполненный
+Brush teeth                - Чистить зубы
+Indentation                - Отступы
+fiddly                     - неуклюжий
+Regular                    - обычный
+Startle                    - Вздрагивать
+Keep going                 - Продолжать двигаться вперед
+Authentication             - Аутентификация
+Practice makes perfect     - Практика делает совершенным
+Keep an open mind          - Оставаться открытым к новому
+Regression test            - Регрессионное тестирование
+Admit                      - Признавать
+Each person                - Каждый человек
+Every human                - Каждый человек
+Integration test           - Интеграционное тестирование

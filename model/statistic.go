@@ -28,7 +28,8 @@ func (stat Statistick) Println() {
 }
 
 // Open
-func (SliceWord *Statistick) Takejson(file string) {
+// Декодирование
+func (SliceWord *Statistick) Decode(file string) {
 	//1. Создадим файл дескриптор
 	filejson, err := os.Open(file)
 	if err != nil {
@@ -58,7 +59,8 @@ func (SliceWord *Statistick) Takejson(file string) {
 
 // Сохранить в json file
 // Marshal
-func (s *Statistick) Savejson(file string) {
+// Кодировать
+func (s *Statistick) Encode(file string) {
 
 	byteArr, err := json.MarshalIndent(s, "", "   ")
 	if err != nil {
